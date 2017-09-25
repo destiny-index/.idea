@@ -202,7 +202,7 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506005975911">
+      <file name="/Dummy.txt" timestamp="1506298142380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/YUIMinifier.java" timestamp="1505368208432">
@@ -402,7 +402,7 @@
         <text>GeneratedEHAL</text>
       </register>
       <register name="/" type="4">
-        <text>releaseEmail</text>
+        <text>Different</text>
       </register>
       <register name="0" type="4">
         <text>Boolean</text>
@@ -442,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search>releaseEmail</last-search>
+      <last-search>Different</last-search>
       <last-offset />
-      <last-pattern>releaseEmail</last-pattern>
+      <last-pattern>Different</last-pattern>
       <last-replace>boolean</last-replace>
       <last-substitute>Boolean</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isReleaseCan</entry>
         <entry>GeneratedEHAL</entry>
         <entry>generateFirm</entry>
         <entry>newBufferedReader</entry>
@@ -472,6 +471,7 @@
         <entry encoding="base64">XDxoYW5kbGVHZW5lcmF0ZUJ1dHRvbkNsaWNrXD4=</entry>
         <entry>email</entry>
         <entry>releaseEmail</entry>
+        <entry>Different</entry>
       </history-search>
       <history-cmd>
         <entry>%s/GUIWindow\ guiWindow//gc</entry>
