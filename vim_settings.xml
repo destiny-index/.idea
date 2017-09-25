@@ -116,12 +116,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/build.gradle" timestamp="1506313095565">
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/build.gradle" timestamp="1506319868216">
         <mark key="e" line="3" column="11" />
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
+        <mark key="[" line="59" column="10" />
+        <mark key="]" line="59" column="22" />
+        <mark key="." line="59" column="22" />
+        <mark key="^" line="59" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/Ssh99.java" timestamp="1505446014185">
         <mark key="'" line="290" column="79" />
@@ -165,7 +165,7 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" timestamp="1506318992533">
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" timestamp="1506319814127">
         <mark key="'" line="31" column="19" />
         <mark key="[" line="391" column="71" />
         <mark key="]" line="391" column="80" />
@@ -342,7 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="30" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="602" column="0" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="587" column="0" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="586" column="0" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
@@ -441,14 +440,15 @@
       <jump line="485" column="19" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
       <jump line="51" column="24" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
       <jump line="234" column="32" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" />
+      <jump line="392" column="23" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
       <jump line="31" column="19" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>System.out.println</text>
