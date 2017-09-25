@@ -9,6 +9,11 @@
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/Main.java" timestamp="1506007198372">
         <mark key="'" line="7" column="18" />
       </file>
+      <file name="/a.dummy" timestamp="1506316987685">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/FakeWindow.java" timestamp="1506306471011">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="53" />
@@ -54,6 +59,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/Main.java" timestamp="1506314808667">
+        <mark key="'" line="87" column="12" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/ConsoleWindow.java" timestamp="1505446095735">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="8" column="15" />
@@ -93,6 +104,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/GeneratedEHAL.java" timestamp="1505955885438">
+        <mark key="'" line="10" column="13" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/build.gradle" timestamp="1506313095565">
         <mark key="e" line="59" column="11" />
         <mark key="[" line="3" column="14" />
@@ -111,12 +128,6 @@
         <mark key="]" line="2" column="47" />
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/YUI.java" timestamp="1505881690855">
-        <mark key="'" line="7" column="31" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/com/yahoo/platform/yui/compressor/YUICompressor.java" timestamp="1505876933749">
         <mark key="'" line="416" column="20" />
@@ -148,12 +159,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" timestamp="1506313255946" />
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/Compressor.java" timestamp="1505967324117">
-        <mark key="'" line="5" column="9" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" timestamp="1506317780628">
+        <mark key="'" line="31" column="26" />
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="31" />
+        <mark key="^" line="404" column="83" />
+        <mark key="." line="53" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/Minifier.java" timestamp="1505364195699">
         <mark key="'" line="5" column="24" />
@@ -268,8 +279,12 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" timestamp="1506313828643">
-        <mark key="'" line="179" column="74" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" timestamp="1506317235931">
+        <mark key="'" line="296" column="33" />
+        <mark key="[" line="349" column="0" />
+        <mark key="]" line="349" column="0" />
+        <mark key="^" line="349" column="1" />
+        <mark key="." line="349" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/YUISecurityManager.java" timestamp="1505881537626">
         <mark key="[" line="24" column="41" />
@@ -297,6 +312,18 @@
         <mark key="." line="78" column="30" />
         <mark key="^" line="78" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/YUIParser.java" timestamp="1505881572180">
+        <mark key="'" line="7" column="38" />
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/resources/config.properties" timestamp="1506314690292">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
       <file name="/fragment.java" timestamp="1505893734763">
         <mark key="[" line="0" column="0" />
       </file>
@@ -307,21 +334,15 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/TestSuiteGUI.java" timestamp="1506315413472">
+        <mark key="'" line="47" column="34" />
+        <mark key="[" line="239" column="65" />
+        <mark key="]" line="239" column="7" />
+        <mark key="^" line="239" column="7" />
+        <mark key="." line="239" column="7" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="93" column="20" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="78" column="32" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="105" column="20" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="97" column="20" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="161" column="26" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="142" column="8" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="64" column="16" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="79" column="19" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="127" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="82" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="159" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="23" column="29" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="4" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/Compressor.java" />
       <jump line="71" column="30" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="602" column="0" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
@@ -409,13 +430,26 @@
       <jump line="509" column="8" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="47" column="20" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="189" column="74" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" />
+      <jump line="87" column="12" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/Main.java" />
+      <jump line="29" column="19" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/TestSuiteGUI.java" />
+      <jump line="239" column="54" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/TestSuiteGUI.java" />
+      <jump line="231" column="41" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/TestSuiteGUI.java" />
+      <jump line="47" column="34" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/TestSuiteGUI.java" />
+      <jump line="134" column="108" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" />
+      <jump line="47" column="62" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
+      <jump line="136" column="83" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" />
+      <jump line="296" column="33" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" />
+      <jump line="368" column="31" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" />
+      <jump line="485" column="19" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
+      <jump line="51" column="24" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>// Selected Yes</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>// Selected Yes</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>System.out.println</text>
@@ -427,34 +461,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIDxiPk1haW48L2I+IENPTlNUUlVDVE9SCiAgICAgKgogICAgICogPHA+CiAgICAgKiBEZXNjcmlwdGlvbgogICAgICogPC9wPgogICAgICoKICAgICAqIEBwYXJhbSBhcmdzCiAgICAgKiAgICAgICAgICAgIDogcGFzc2VkIGZyb20gdGhlIE1haW4gcm91dGluZQogICAgICoKICAgICAqIEByZXR1cm4gbm90aGluZwogICAgICoKICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKCkgewogICAgICAgIEZpcm13YXJlR2VuZXJhdG9yIGdlbmVyYXRvciA9IG5ldyBGaXJtd2FyZUdlbmVyYXRvcihuZXcgRmFrZVdpbmRvdygpLCB0cnVlLCB0cnVlKTsKICAgICAgICAKICAgIH0KICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9jZXNzZWRIZXhGaWxlcy5zdHJlYW0oKS5yZWR1Y2UoIiIsIChhY2MsIGhleCkgLT4gYWNjICsgaGV4LmdldEZ1bGxGaXJtd2FyZVZlcnNpb24oKSkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKCkgewogICAgICAgIEZpcm13YXJlR2VuZXJhdG9yIGdlbmVyYXRvciA9IG5ldyBGaXJtd2FyZUdlbmVyYXRvcihuZXcgRmFrZVdpbmRvdygpLCB0cnVlLCB0cnVlKTsKICAgICAgICAKICAgIH0KICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW5lcmF0b3Iuc2VuZEVtYWlsTm90aWZpY2F0aW9uKGdldEVtYWlsKCksICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9jZXNzZWRIZXhGaWxlcy5zdHJlYW0oKS5yZWR1Y2UoIiIsIChhY2MsIGhleCkgLT4gYWNjICsgaGV4LmdldEZ1bGxGaXJtd2FyZVZlcnNpb24oKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW5lcmF0b3Iuc2VuZEVtYWlsTm90aWZpY2F0aW9uKGdldEVtYWlsKCksICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW5lcmF0b3Iuc2VuZEVtYWlsTm90aWZpY2F0aW9uKGdldEVtYWlsKCksIHZlcnNpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxGaXJtd2FyZVZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW5lcmF0b3Iuc2VuZEVtYWlsTm90aWZpY2F0aW9uKGdldEVtYWlsKCksIHZlcnNpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGhleEZpbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxGaXJtd2FyZVZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -508,8 +542,8 @@
         <entry>split</entry>
         <entry>g/</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
