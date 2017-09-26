@@ -47,12 +47,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" timestamp="1506395407345">
-        <mark key="'" line="54" column="55" />
-        <mark key="[" line="55" column="11" />
-        <mark key="]" line="56" column="64" />
-        <mark key="." line="56" column="64" />
-        <mark key="^" line="56" column="64" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" timestamp="1506396197850">
+        <mark key="'" line="48" column="30" />
+        <mark key="[" line="61" column="19" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/build.gradle" timestamp="1505804902360">
         <mark key="[" line="3" column="14" />
@@ -73,7 +73,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/ReleaseManager.java" timestamp="1506385379642">
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/ReleaseManager.java" timestamp="1506396133846">
         <mark key="'" line="189" column="30" />
         <mark key="^" line="185" column="44" />
       </file>
@@ -362,7 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.44-1/e528f593b19b04d500992606f58b87fcfded8883/jsch-0.1.44-1-sources.jar!/com/jcraft/jsch/JSch.java" />
       <jump line="529" column="49" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="50" column="11" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" />
       <jump line="530" column="26" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
@@ -462,13 +461,14 @@
       <jump line="58" column="29" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" />
       <jump line="35" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" />
       <jump line="50" column="55" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" />
+      <jump line="48" column="30" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>AXIKCz9LdSXA</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>System.out</text>
@@ -480,34 +480,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHJzLm5leHQoKSkgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSU5TRVJUIElOVE8gYG1zX3NvZnR3YXJlYCAoYG1zX3NvZnR3YXJlX2lkYCwgYHNvZnR3YXJlX3ZlcnNpb25gLCBgbXNfZGV2aWNlX3R5cGVfaWRgLCBgbXNfc29mdHdhcmVfZmlsZW5hbWVgLCBgbXNfc29mdHdhcmVfY3JjdmVyYCwgYGxhc3RfY2hhbmdlZGApIFZBTFVFUyAoTlVMTCwgJzEuMzZhJywgJzMwJywgJ21paHlTcGlkZXIvMS4zNmEvbWljcm9zcGlkZXJfMzBfMTM2LmhhbCcsICc2Mzk5NjQyNTYnLCBDVVJSRU5UX1RJTUUoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihycy5nZXRTdHJpbmcoNCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0U2V0IHJzID0gc3RtdC5leGVjdXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYG1zX3NvZnR3YXJlYDsiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHJzLm5leHQoKSkgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFVQREFURV9EQl9QQVNTID0gIkFYSUtDejlMZFNYQSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihycy5nZXRTdHJpbmcoNCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfREJfVVJMID0gImpkYmM6bXlzcWw6Ly8xOTIuMTY4LjAuMTEzL3VwZGF0ZXMiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzdWx0U2V0IHJzID0gc3RtdC5leGVjdXRlUXVlcnkoIlNFTEVDVCAqIEZST00gYG1zX3NvZnR3YXJlYDsiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFMK</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFVQREFURV9EQl9QQVNTID0gIkFYSUtDejlMZFNYQSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVcGRhdGVTZXJ2ZXJNYW5hZ2VyIHNlcnZlciA9IG5ldyBVcGRhdGVTZXJ2ZXJNYW5hZ2VyKG5ldyBGYWtlV2luZG93KCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfREJfVVJMID0gImpkYmM6bXlzcWw6Ly8xOTIuMTY4LjAuMTEzL3VwZGF0ZXMiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vspli</text>
       </register>
     </registers>
     <search>
@@ -543,8 +543,6 @@
         <entry>System.out</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/isRelease()/isRelease/gc</entry>
-        <entry>%s/isPreRelease()/isPreRelease</entry>
         <entry>%s/isWebOnly()/isWebOnly/gc</entry>
         <entry>%s/jPanelRow/outputDirectorySelectionPanel/gc</entry>
         <entry>reg</entry>
@@ -563,6 +561,8 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>edit .</entry>
+        <entry>vspli</entry>
       </history-cmd>
       <history-expr />
       <history-input />
