@@ -47,6 +47,12 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" timestamp="1506386113108">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/build.gradle" timestamp="1505804902360">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="14" />
@@ -66,12 +72,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/ReleaseManager.java" timestamp="1506384940659">
-        <mark key="'" line="193" column="30" />
-        <mark key="[" line="193" column="30" />
-        <mark key="]" line="189" column="44" />
-        <mark key="^" line="189" column="44" />
-        <mark key="." line="189" column="44" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/ReleaseManager.java" timestamp="1506385379642">
+        <mark key="'" line="189" column="30" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="^" line="185" column="44" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/ConsoleWindow.java" timestamp="1505446095735">
         <mark key="'" line="6" column="17" />
@@ -339,7 +345,7 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1506322830070">
+      <file name="/fragment.java" timestamp="1506386080685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/FATImageBuilder.java" timestamp="1505397648659">
@@ -464,7 +470,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>generator</text>
+        <text>SSHManager</text>
       </register>
       <register name="/" type="4">
         <text>releaseEmail</text>
@@ -479,31 +485,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGF1LmNvbS5oYWx5dGVjaC5taWh5c3BpZGVyLmZ3LmdlbmVyYXRvci5jb3JlLkZha2VXaW5kb3c7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29ubmVjdGlvbjsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgQ29tbWFuZFJ1bm5lcigpIHsKICAgICAgICB0aGlzLmNvbnNvbGUgPSBuZXcgRmFrZVdpbmRvdygpOwogICAgfQ==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgYWRkSEFMVG9VcGRhdGVTZXJ2ZXJEYXRhYmFzZShHZW5lcmF0ZWRIQUwgZ2VuZXJhdGVkSEFMKSB0aHJvd3MgSU9FeGNlcHRpb24sIFNRTEV4Y2VwdGlvbiB7CiAgICAgICAgU3RyaW5nIGNyYyA9IGdlbmVyYXRlZEhBTC5jYWxjdWxhdGVDaGVja3N1bSgpOwogICAgICAgIFN0cmluZyB0aW1lV2hlbkJ1aWxkID0gZ2VuZXJhdGVkSEFMLmdldExhc3RNb2RpZmllZFRpbWUoKTsKICAgICAgICBTdHJpbmcgaGFsRmlsZU5hbWUgPSBnZW5lcmF0ZWRIQUwuZ2V0RmlsZU5hbWUoKTsKICAgICAgICBJbnRlZ2VyIGRldmljZVR5cGVJZCA9IGdlbmVyYXRlZEhBTC5nZXREZXZpY2VUeXBlSWQoKTsKCiAgICAgICAgU1NITWFuYWdlciB1cGRhdGVTZXJ2ZXJTU0ggPSBuZXcgU1NITWFuYWdlcigiYW50aG9ueSIsIG51bGwsICJ1cGRhdGUuaGFseXRlY2guY29tLmF1Iik7CiAgICAgICAgdXBkYXRlU2VydmVyU1NILmNvbm5lY3QoKTsKICAgICAgICB1cGRhdGVTZXJ2ZXJTU0guc2VuZENvbW1hbmQoImxzIik7CiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTVNQNDMwSGV4IGhleEZpbGU7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTVNQNDMwSGV4IGhleEZpbGU7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFNFUlZFUl9JUCA9ICIxOTIuMTY4LjAuMTEzIjsKLy8gICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFNFUlZFUl9VU0VSID0gInJvb3QiOwovLyAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0VSVkVSX1BBU1MgPSAicGFzc3dvcmQiOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVVBEQVRFX1NFUlZFUl9VUkwgPSAiamRiYzpteXNxbDovL3VwZGF0ZS5oYWx5dGVjaC5jb20uYXUvbXNfc29mdHdhcmUiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFVQREFURV9TRVJWRVJfVVNFUiA9ICJtaWh5U3BpZGVyIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfU0VSVkVSX1BBU1MgPSAiQVhJS0N6OUxkU1hBIjs=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGF1LmNvbS5oYWx5dGVjaC5taWh5c3BpZGVyLmZ3LmdlbmVyYXRvci5jb3JlLkZha2VXaW5kb3c7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMuaXNSZWxlYXNlQ2FuZGlkYXRlKQogICAgICAgICAgICBzZW5kRW1haWxOb3RpZmljYXRpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -554,11 +560,11 @@
         <entry>split</entry>
         <entry>g/</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>bclose</entry>
         <entry>Close</entry>
         <entry>close</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
