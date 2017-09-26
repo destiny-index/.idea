@@ -47,7 +47,7 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" timestamp="1506408523750">
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" timestamp="1506408703760">
         <mark key="'" line="32" column="30" />
         <mark key="[" line="17" column="52" />
         <mark key="]" line="17" column="60" />
@@ -73,7 +73,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/ReleaseManager.java" timestamp="1506408538477">
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/ReleaseManager.java" timestamp="1506408720798">
         <mark key="'" line="62" column="27" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -214,11 +214,10 @@
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" timestamp="1505974303407">
         <mark key="'" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" timestamp="1506408464984">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="8" />
-        <mark key="^" line="98" column="8" />
-        <mark key="." line="98" column="8" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" timestamp="1506408873139">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/HexFileStats.java" timestamp="1505780271292">
         <mark key="'" line="11" column="13" />
@@ -467,7 +466,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIElmIHBhc3N3b3JkIGlzIG51bGwsIHdlIG5lZWQgdG8gdXNlIGEgcHJpdmF0ZSBrZXkgZmlsZS4gV2UgdXNlIG9uZSB0aGF0IGhhdmUgYmVlbiBnZW5lcmF0ZWQgdG8gYWxsb3cgYWNjZXNzCiAgICAvLyB0byB0aGUgQVdTIHVwZGF0ZSBzZXJ2ZXIuCg==</text>
+        <text encoding="base64">LyoKICogU1NITWFuYWdlcgogKiBAYXV0aG9yIGNhYmJvdHQKICogQHZlcnNpb24gMS4wCiAqIE0KICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>privateKey[1000];</text>
@@ -482,34 +481,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIElmIHBhc3N3b3JkIGlzIG51bGwsIHdlIG5lZWQgdG8gdXNlIGEgcHJpdmF0ZSBrZXkgZmlsZS4gV2UgdXNlIG9uZSB0aGF0IGhhdmUgYmVlbiBnZW5lcmF0ZWQgdG8gYWxsb3cgYWNjZXNzCiAgICAvLyB0byB0aGUgQVdTIHVwZGF0ZSBzZXJ2ZXIuCg==</text>
+        <text encoding="base64">LyoKICogU1NITWFuYWdlcgogKiBAYXV0aG9yIGNhYmJvdHQKICogQHZlcnNpb24gMS4wCiAqIE0KICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGF0aCBwcml2YXRlS2V5UGF0aDsK</text>
+        <text encoding="base64">ICAgIC8vIElmIHBhc3N3b3JkIGlzIG51bGwsIHdlIG5lZWQgdG8gdXNlIGEgcHJpdmF0ZSBrZXkgZmlsZS4gV2UgdXNlIG9uZSB0aGF0IGhhdmUgYmVlbiBnZW5lcmF0ZWQgdG8gYWxsb3cgYWNjZXNzCiAgICAvLyB0byB0aGUgQVdTIHVwZGF0ZSBzZXJ2ZXIuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFzc3dvcmQgPT0gbnVsbCkgewogICAgICAgICAgICBwcml2YXRlS2V5UGF0aCA9IFBhdGhzLmdldChTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuaG9tZSIpKS5yZXNvbHZlKCIuc3NoIikucmVzb2x2ZSgiaWRfcnNhIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGF0aCBwcml2YXRlS2V5UGF0aDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiYXV0b2Z3Z2VuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFzc3dvcmQgPT0gbnVsbCkgewogICAgICAgICAgICBwcml2YXRlS2V5UGF0aCA9IFBhdGhzLmdldChTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIuaG9tZSIpKS5yZXNvbHZlKCIuc3NoIikucmVzb2x2ZSgiaWRfcnNhIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzY2hTU0hDaGFubmVsLmFkZElkZW50aXR5KHByaXZhdGVLZXlQYXRoLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5nZXRDbGFzcygpLmdldENsYXNzTG9hZGVyKCkuZ2V0UmVzb3VyY2VBc1N0cmVhbSgiYXV0b2Z3Z2VuIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGVycm9yTWVzc2FnZSA9IGUuZ2V0TWVzc2FnZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzY2hTU0hDaGFubmVsLmFkZElkZW50aXR5KHByaXZhdGVLZXlQYXRoLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGVycm9yTWVzc2FnZSA9IGUuZ2V0TWVzc2FnZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBieXRlIHByaXZhdGVLZXlbIDEwMDBdOwogICAgICAgICAgICAgICAgICAgIHRoaXMuZ2V0Q2xhc3MoKS5nZXRDbGFzc0xvYWRlcigpLmdldFJlc291cmNlQXNTdHJlYW0oImF1dG9md2dlbiIpLnJlYWQocHJpdmF0ZUtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZUtleVBhdGggPSBQYXRocy5nZXQoU3lzdGVtLmdldFByb3BlcnR5KCJ1c2VyLmhvbWUiKSkucmVzb2x2ZSgiLnNzaCIpLnJlc29sdmUoImlkX3JzYSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBieXRlIHByaXZhdGVLZXlbIDEwMDBdOwogICAgICAgICAgICAgICAgICAgIHRoaXMuZ2V0Q2xhc3MoKS5nZXRDbGFzc0xvYWRlcigpLmdldFJlc291cmNlQXNTdHJlYW0oImF1dG9md2dlbiIpLnJlYWQocHJpdmF0ZUtleSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -558,13 +557,13 @@
         <entry>bnext</entry>
         <entry>bprev</entry>
         <entry>vsplit</entry>
-        <entry>q</entry>
         <entry>edit .</entry>
         <entry>vspli</entry>
         <entry>split ReleaseManager.java</entry>
         <entry>W</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
