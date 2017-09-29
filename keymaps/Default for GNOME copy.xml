@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivateGradleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+</keymap>
