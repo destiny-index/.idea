@@ -11,11 +11,6 @@
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/Main.java" timestamp="1506007198372">
         <mark key="'" line="7" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1505953837780">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/Uglifier.java" timestamp="1505881476265">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="4" column="17" />
@@ -122,6 +117,9 @@
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1506643379464">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/com/yahoo/platform/yui/compressor/YUICompressor.java" timestamp="1505876933749">
         <mark key="'" line="416" column="20" />
