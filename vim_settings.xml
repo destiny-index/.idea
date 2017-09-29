@@ -73,12 +73,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" timestamp="1506662948220">
-        <mark key="'" line="20" column="16" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="38" />
-        <mark key="." line="13" column="38" />
-        <mark key="^" line="13" column="38" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" timestamp="1506665541496">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="112" column="26" />
+        <mark key="]" line="112" column="26" />
+        <mark key="." line="112" column="26" />
+        <mark key="^" line="113" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/Ssh99.java" timestamp="1505446014185">
         <mark key="'" line="290" column="79" />
@@ -86,12 +86,12 @@
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/devicetype/HydroSpider2Category.java" timestamp="1505886597205">
         <mark key="'" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" timestamp="1506665024409">
-        <mark key="'" line="46" column="18" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="62" column="58" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" timestamp="1506665732529">
+        <mark key="'" line="50" column="30" />
+        <mark key="[" line="36" column="57" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="67" column="9" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" timestamp="1506647861308">
         <mark key="[" line="44" column="0" />
@@ -265,9 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="33" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="525" column="4" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="140" column="13" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="524" column="24" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="577" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="569" column="42" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
@@ -365,13 +362,16 @@
       <jump line="17" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" />
       <jump line="17" column="71" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/illuminator.factory.js" />
       <jump line="20" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/illuminator.factory.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" />
+      <jump line="50" column="30" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXZhbGlhYmxlRmllbGRzLm1hcChmaWVsZCA9PiBmaWVsZC5saWdodHMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
@@ -383,31 +383,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXZhbGlhYmxlRmllbGRzLm1hcChmaWVsZCA9PiBmaWVsZC5saWdodHMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIGh0dHBzOi8vZGV2ZWxvcGVyLm1vemlsbGEub3JnL2VuL2RvY3MvV2ViL0phdmFTY3JpcHQvUmVmZXJlbmNlL09wZXJhdG9ycy9CaXR3aXNlX09wZXJhdG9ycyNBdXRvbWF0ZV9NYXNrX0NyZWF0aW9uCmZ1bmN0aW9uIGNyZWF0ZU1hc2sgKCkgewogIHZhciBuTWFzayA9IDAKICB2YXIgbkZsYWcgPSAwCiAgdmFyIG5MZW4gPSBhcmd1bWVudHMubGVuZ3RoID4gMzIgPyAzMiA6IGFyZ3VtZW50cy5sZW5ndGgKICBmb3IgKG5GbGFnOyBuRmxhZyA8IG5MZW47IG5NYXNrIHw9IGFyZ3VtZW50c1tuRmxhZ10gPDwgbkZsYWcrKyk7CiAgcmV0dXJuIG5NYXNrCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gKmdlbmVyYXRlT3V0cHV0SWQgKCkgeyBsZXQgb3V0cHV0cyA9IF8ucmFuZ2UoTlVNX09VVFBVVFMpCgogIHdoaWxlIChvdXRwdXRzLmxlbmd0aCkgewogICAgY29uc3QgcmFuZG9tU2VsZWN0aW9uID0gZmFjdG9yeS5jaGFuY2UoJ3BpY2tzZXQnLCBvdXRwdXRzLCAzKSgpCiAgICBvdXRwdXRzID0gb3V0cHV0cy5maWx0ZXIobiA9PiAhcmFuZG9tU2VsZWN0aW9uLmluY2x1ZGVzKG4pKQogICAgeWllbGQgcmFuZG9tU2VsZWN0aW9uCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXZhbGlhYmxlTGlnaHRzLm1hcChsID0+ICh7CiAgICAgICAgb3V0cHV0OiBsLm91dHB1dCwKICAgICAgICBzdGF0dXM6IGwuc3RhdHVzCiAgICAgIH0pKSkKICAgICAgY29uc29sZS5sb2cobGlnaHRzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvdXRwdXRzID0gCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXZhbGlhYmxlTGlnaHRzLm1hcChsID0+ICh7CiAgICAgICAgb3V0cHV0OiBsLm91dHB1dCwKICAgICAgICBzdGF0dXM6IGwuc3RhdHVzCiAgICAgIH0pKSkKICAgICAgY29uc29sZS5sb2cobGlnaHRzKQogICAgICBhdmFsaWFibGVMaWdodHMubWFwKGxpZ2h0ID0+CiAgICAgICAgZXhwZWN0KGxpZ2h0LnN0YXR1cykudG9FcXVhbChsaWdodHNbbGlnaHQub3V0cHV0XSkKICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdXRwdXRzID0gCn0K</text>
+        <text encoding="base64">CmZ1bmN0aW9uIF9yZWR1Y2VJbGx1bWluYXRvclRvTGlnaHRzIChpbGx1bWluYXRvcikgewogIHJldHVybiBpbGx1bWluYXRvci5maWVsZHMKICAgIC5tYXAoZmllbGQgPT4gZmllbGQubGlnaHRzKQogICAgLnJlZHVjZSgoYSwgYikgPT4gYS5jb25jYXQoYikpCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgTlVNX0ZJRUxEUyA9IDMKY29uc3QgTlVNX09VVFBVVFMgPSA4Cgo=</text>
+        <text encoding="base64">ICBjb25zdCBhdmFsaWFibGVMaWdodHMgPSBfcmVkdWNlSWxsdW1pbmF0b3JUb0xpZ2h0cyhpbGx1bWluYXRvcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYXZhbGlhYmxlRmllbGRzLm1hcChmaWVsZCA9PgogICAgICAgIGV4cGVjdChmaWVsZC5saWdodHMuc3RhdHVzKS50b0VxdWFsKGxpZ2h0c1tmaWVsZC5saWdodHMub3V0cHV0XSkKICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgb3V0cHV0cyA9IF8ucmFuZ2UoTlVNX09VVFBVVFMpCg==</text>
+        <text encoding="base64">ICAgICAgYXZhbGlhYmxlTGlnaHRzLm1hcCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBvdXRwdXRQZXJGaWVsZCA9IFsKICAgIAogIF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
