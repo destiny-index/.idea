@@ -205,12 +205,12 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/OpenCLStarter/main.cpp" timestamp="1506697142226">
-        <mark key="'" line="15" column="34" />
-        <mark key="[" line="13" column="55" />
-        <mark key="]" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="34" />
+      <file name="$USER_HOME$/CLionProjects/OpenCLStarter/main.cpp" timestamp="1506697895698">
+        <mark key="'" line="16" column="34" />
+        <mark key="[" line="19" column="102" />
+        <mark key="]" line="19" column="101" />
+        <mark key="." line="19" column="101" />
+        <mark key="^" line="19" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/organization.test.js" timestamp="1506584868540">
         <mark key="[" line="87" column="0" />
@@ -327,6 +327,12 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/OpenCLStarter/kernel.cl" timestamp="1506697690616">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+      </file>
       <file name="/fragment.java" timestamp="1505893734763">
         <mark key="[" line="0" column="0" />
       </file>
@@ -442,10 +448,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHNyYyhzdGQ6OmlzdHJlYW1idWZfaXRlcmF0b3IpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>functionName</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text>illuminator</text>
@@ -457,31 +463,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6c3RyaW5nIHNyYyhzdGQ6OmlzdHJlYW1idWZfaXRlcmF0b3IpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRldmljZXMuZnJvbnQoKTsK</text>
+        <text encoding="base64">ICAgIGRhdGFbZ2V0X2dsb2JhbF9pZCgwKV0gKj0gMjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF1dG8gZGV2aWNlID0gZGV2aWNlcy5mcm9udCgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIF9fZ2xpYmN4eF9hc3NlcnQoZGV2aWNlLnNpemUoKSA+IDApOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRldmljZXMuZnJvbnQoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGF1dG8gZGV2aWNlID0gZGV2aWNlcy5mcm9udCgpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF9fZ2xpYmN4eF9hc3NlcnQocGxhdGZvcm1zLnNpemUoKSA9PSAwKTsK</text>
+        <text encoding="base64">ICAgIF9fZ2xpYmN4eF9hc3NlcnQoZGV2aWNlLnNpemUoKSA+IDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsYXRmb3JtLmdldERldmljZXMoQ0xfREVWSUNFX1RZUEVfR1BVKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF9fZ2xpYmN4eF9hc3NlcnQoKQo=</text>
+        <text encoding="base64">ICAgIF9fZ2xpYmN4eF9hc3NlcnQocGxhdGZvcm1zLnNpemUoKSA9PSAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtLmdldERldmljZXMoQ0xfREVWSUNFX1RZUEVfR1BVKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
