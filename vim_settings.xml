@@ -102,12 +102,6 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/GeneratedEHAL.java" timestamp="1505955885438">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/CLionProjects/misc/src/Programmer.cpp" timestamp="1506761315992">
         <mark key="'" line="16" column="18" />
         <mark key="[" line="14" column="1" />
@@ -143,17 +137,17 @@
         <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" timestamp="1506764594729" />
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" timestamp="1506585069828">
-        <mark key="'" line="20" column="36" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/YuiSecurityManager.java" timestamp="1505355234151">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/CLionProjects/STLAlgorithms/main.cpp" timestamp="1506776760466">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/Minifier.java" timestamp="1505364195699">
         <mark key="'" line="5" column="24" />
@@ -227,7 +221,7 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506762260165">
+      <file name="/Dummy.txt" timestamp="1506775250535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/YUIMinifier.java" timestamp="1505368208432">
@@ -322,7 +316,7 @@
         <mark key="^" line="50" column="10" />
         <mark key="." line="50" column="10" />
       </file>
-      <file name="/fragment.mm" timestamp="1506762260157">
+      <file name="/fragment.mm" timestamp="1506775250521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/MSP430Hex.java" timestamp="1506007675270">
@@ -332,11 +326,11 @@
         <mark key="." line="78" column="30" />
         <mark key="^" line="78" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/YUIParser.java" timestamp="1505881572180">
-        <mark key="'" line="7" column="38" />
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
+      <file name="$USER_HOME$/workspace/CLionProjects/Exceptions/main.cpp" timestamp="1506775583903">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/CLionProjects/misc/include/Person.h" timestamp="1506759543434">
         <mark key="'" line="4" column="6" />
@@ -466,10 +460,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpZiAocHJvZ3JhbW1lciAhPSBudWxscHRyKSBwcm9ncmFtbWVyLT5zZXRFeHBlcmllbmNlKDIwKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gdmRkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>shared</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -481,31 +475,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpZiAocHJvZ3JhbW1lciAhPSBudWxscHRyKSBwcm9ncmFtbWVyLT5zZXRFeHBlcmllbmNlKDIwKTsK</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gdmRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm9ncmFtbWVyLT5zZXRFeHBlcmllbmNlKDIwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIlBlcnNvbi5oIgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHNoYXJlZF9wZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdGQ6OnNoYXJlZF9wdHI8UHJvZ3JhbW1lcj4gc2hhcmVkID0gc3RkOjptb3ZlKHByb2dyYW1tZXIpKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPG1hcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RkOjpzaGFyZWRfcHRyPFByb2dyYW1tZXI+IHNoYXJlZFByb2dyYW1tZXIoc3RkOjptb3ZlKHByb2dyYW1tZXIpKTsK</text>
+        <text encoding="base64">ICAgc3RkOjptYXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGQ6OnNoYXJlZF9wdHI8UHJvZ3JhbW1lcj4gc2hhcmVkUHJvZ3JhbW1lcihzdGQ6Om1vdmUocHJvZ3JhbW1lcikpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGQ6OnNoYXJlZF9wdHIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
