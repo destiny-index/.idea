@@ -193,12 +193,11 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/misc/main.cpp" timestamp="1506706512721">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/CLionProjects/misc/main.cpp" timestamp="1506753501062">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/OpenCLStarter/main.cpp" timestamp="1506700322284">
         <mark key="'" line="24" column="40" />
@@ -348,17 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="31" column="24" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="164" column="27" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="517" column="28" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="513" column="40" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="159" column="33" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="525" column="4" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="140" column="13" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="524" column="24" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="577" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="569" column="42" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="527" column="42" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="10" column="13" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/GeneratedEHAL.java" />
@@ -444,20 +432,31 @@
       <jump line="20" column="36" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" />
       <jump line="15" column="34" filename="$USER_HOME$/CLionProjects/OpenCLStarter/main.cpp" />
       <jump line="24" column="40" filename="$USER_HOME$/CLionProjects/OpenCLStarter/main.cpp" />
-      <jump line="3" column="11" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
-      <jump line="8" column="14" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
       <jump line="4" column="29" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="1" column="3" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="8" column="4" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="6" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="13" column="18" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="14" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="18" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="17" column="8" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="22" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="27" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="34" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/misc/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4K</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgojaW5jbHVkZSA8bWFwPgoKaW50IG1haW4oKSB7CiAgICBzdGQ6Om1hcDxzdGQ6OnN0cmluZywgaW50PiBwZW9wbGU7CgogICAgc3RkOjpwYWlyPHN0ZDo6c3RyaW5nLCBpbnQ+IGFudGhvbnkoImFudGhvbnkiLCAyNSk7CiAgICBzdGQ6OnBhaXI8c3RkOjpzdHJpbmcsIGludD4gYm9iKCJib2IiLCAyMCk7CgogICAgcGVvcGxlLmluc2VydChhbnRob255KTsKICAgIHBlb3BsZS5pbnNlcnQoYm9iKTsKICAgIGZvciAoYXV0byBwZXJzb24gPSBwZW9wbGUuYmVnaW4oKTsgcGVyc29uICE9IHBlb3BsZS5lbmQoKTsgcGVyc29uKyspIHsKICAgICAgICBzdGQ6OmNvdXQgPDwgcGVyc29uLT5maXJzdCA8PCAiIGlzICIgPDwgcGVyc29uLT5zZWNvbmQgPDwgIlxuIjsKICAgIH0KfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">c3RkOjpjb3V0IDw8ICJUaGUgbWF4IG9mIDMzIGFuZCA0NCBpcyAiIDw8IG1heCgzMywgNDQpIDw8ICJcbiI7</text>
       </register>
       <register name="/" type="4">
-        <text>illuminator</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4K</text>
@@ -466,40 +465,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgojaW5jbHVkZSA8bWFwPgoKaW50IG1haW4oKSB7CiAgICBzdGQ6Om1hcDxzdGQ6OnN0cmluZywgaW50PiBwZW9wbGU7CgogICAgc3RkOjpwYWlyPHN0ZDo6c3RyaW5nLCBpbnQ+IGFudGhvbnkoImFudGhvbnkiLCAyNSk7CiAgICBzdGQ6OnBhaXI8c3RkOjpzdHJpbmcsIGludD4gYm9iKCJib2IiLCAyMCk7CgogICAgcGVvcGxlLmluc2VydChhbnRob255KTsKICAgIHBlb3BsZS5pbnNlcnQoYm9iKTsKICAgIGZvciAoYXV0byBwZXJzb24gPSBwZW9wbGUuYmVnaW4oKTsgcGVyc29uICE9IHBlb3BsZS5lbmQoKTsgcGVyc29uKyspIHsKICAgICAgICBzdGQ6OmNvdXQgPDwgcGVyc29uLT5maXJzdCA8PCAiIGlzICIgPDwgcGVyc29uLT5zZWNvbmQgPDwgIlxuIjsKICAgIH0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhID4gYiA/IGEgOiBiOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiVGhlIG1heCBvZiAzMyBhbmQgNDQgaXMgIiA8PCBtYXgoMzMsIDQ0KSA8PCAiXG4iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE15Q2xhc3MgbXlDbGFzczsKICAgIHN0ZDo6Y291dCA8PCBzdGQ6OmJvb2xhbHBoYSA8PCAobXlDbGFzcyA8IDEwKSA8PCAiXG4iOwogICAgc3RkOjpjb3V0IDw8IHN0ZDo6Ym9vbGFscGhhIDw8ICgxMCA8IG15Q2xhc3MpIDw8ICJcbiI7Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gdjsKICAgIHYucHVzaF9iYWNrKDMpOwogICAgdi5wdXNoX2JhY2soNik7CiAgICB2LnB1c2hfYmFjayg5KTsKICAgIHYucHVzaF9iYWNrKDIpOwoKICAgIGZvciAoYXV0byBpID0gdi5iZWdpbigpOyBpICE9IHYuZW5kKCk7IGkrKykgewogICAgICAgIHN0ZDo6Y291dCA8PCAqaSA8PCAiICI7CiAgICB9CiAgICBmb3IgKGF1dG8gaSA9IHYucmJlZ2luKCk7IGkgIT0gdi5yZW5kKCk7IGkrKykgewogICAgICAgIHN0ZDo6Y291dCA8PCAqaSA8PCAiICI7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVtcGxhdGU8dHlwZW5hbWUgVD4KVCBtYXgoY29uc3QgVCAmdDEsIGNvbnN0IFQgJnQyKSB7CiAgICByZXR1cm4gdDEgPCB0MiA/IHQyIDogdDE7Cn0KCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">bGFzcyBNeUNsYXNzIHsKICAgICAgICBwdWJsaWM6CiAgICAgICAgYm9vbCBvcGVyYXRvcjwoaW50IG4pOwp9OwoKYm9vbCBNeUNsYXNzOjpvcGVyYXRvcjwoaW50IG4pIHsKICAgIHJldHVybiA0MiA8IG47Cn0KCmJvb2wgb3BlcmF0b3I8KGludCBuLCBNeUNsYXNzJiBteUNsYXNzKSB7CiAgICByZXR1cm4gbiA8IDQyOwp9Yw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50IG1haW4oKSB7CiAgICBNeUNsYXNzIG15Q2xhc3MoKTsKICAgIHN0ZDo6Y291dCA8PCAobXlDbGFzcyA8IDEwKSA8PCAiXG4iOwp9Cgo=</text>
+        <text encoding="base64">Ly8gICAgc3RkOjpjb3V0IDw8IGFudGhvbnkuZmlyc3QgPDwgIiBpcyAiIDw8IGFudGhvbnkuc2Vjb25kIDw8ICJcbiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6cGFpcjxzdGQ6OnN0cmluZywgaW50PiBib2IoImJvYiIsIDIwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCBhbnRob255LmZpcnN0IDw8ICIgaXMgIiA8PCBhbnRob255LnNlY29uZCA8PCAiXG4iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiVGhlIGFnZSBvZiBhbnRob255IGlzICIgPDwgcGVvcGxlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>illuminator</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>illuminator</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>facility</last-replace>
       <last-substitute>illuminator</last-substitute>
       <last-dir>1</last-dir>
@@ -507,7 +506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>newBufferedReader</entry>
         <entry>Files.new</entry>
         <entry>Buffered</entry>
         <entry>Buffer</entry>
@@ -527,6 +525,7 @@
         <entry>illuminators</entry>
         <entry>authorizeIlluminators</entry>
         <entry>illuminator</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isPreRelease()/isPreRelease</entry>
@@ -610,6 +609,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
