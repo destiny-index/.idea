@@ -143,12 +143,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/CLionProjects/STLAlgorithms/main.cpp" timestamp="1506839989415">
-        <mark key="'" line="21" column="11" />
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="46" />
-        <mark key="^" line="6" column="46" />
+      <file name="$USER_HOME$/workspace/CLionProjects/STLAlgorithms/main.cpp" timestamp="1506842794476">
+        <mark key="[" line="61" column="1" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/Minifier.java" timestamp="1505364195699">
         <mark key="'" line="5" column="24" />
@@ -467,7 +466,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text>illuminator</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0ZDo6Y291dAogICAgICAgIDw8ICJFeHBlcmllbmNlOiAiIDw8IHByb2dyYW1tZXIuZ2V0RXhwZXJpZW5jZSgpIDw8ICJcbiI7Cg==</text>
@@ -476,40 +475,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYXIgKiB3aGF0KCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgIkhlbGxvLCBXb3JsZCFcbiI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENvbXBsZXgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
+        <text encoding="base64">ICAgIGRvdWJsZSByZWFsKCkgY29uc3QgeyByZXR1cm4gcmVhbDsgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gdnsxLCAyLCAzLCA0LCA1LCA2Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBpbWFnaW5hcnk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
+        <text encoding="base64">ICAgIHByaW50X3NxdWFyZSgxLjIzNCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNoYXIgKiB3aGF0KCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHYuCg==</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgIkhlbGxvLCBXb3JsZCFcbiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search>illuminator</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern>illuminator</last-pattern>
       <last-replace>facility</last-replace>
       <last-substitute>illuminator</last-substitute>
       <last-dir>1</last-dir>
@@ -535,13 +534,11 @@
         <entry>releaseEmail</entry>
         <entry>illuminators</entry>
         <entry>authorizeIlluminators</entry>
-        <entry>illuminator</entry>
         <entry>main</entry>
+        <entry>illuminator</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/isPreRelease()/isPreRelease</entry>
         <entry>%s/isWebOnly()/isWebOnly/gc</entry>
-        <entry>W</entry>
         <entry>%s/jPanelRow/outputDirectorySelectionPanel/gc</entry>
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2dj</entry>
@@ -558,7 +555,9 @@
         <entry>clo</entry>
         <entry>edit CMakeLists.txt</entry>
         <entry>q</entry>
+        <entry>s</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
