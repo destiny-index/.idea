@@ -143,12 +143,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/CLionProjects/STLAlgorithms/main.cpp" timestamp="1506783302962">
-        <mark key="'" line="16" column="11" />
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/workspace/CLionProjects/STLAlgorithms/main.cpp" timestamp="1506788785069">
+        <mark key="'" line="21" column="11" />
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="46" />
+        <mark key="." line="6" column="46" />
+        <mark key="^" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/Minifier.java" timestamp="1505364195699">
         <mark key="'" line="5" column="24" />
@@ -460,11 +460,11 @@
       <jump line="9" column="5" filename="$USER_HOME$/workspace/CLionProjects/STLAlgorithms/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgIkhlbGxvLCBXb3JsZCFcbiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -476,31 +476,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgIkhlbGxvLCBXb3JsZCFcbiI7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNoYXIgKiB3aGF0KCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxOwo=</text>
+        <text encoding="base64">ICAgIGNvdXQgPDwgIkhlbGxvLCBXb3JsZCFcbiI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAxOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gdnsxLCAyLCAzLCA0LCA1LCA2Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHZlY3Rvcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
+        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gdnsxLCAyLCAzLCA0LCA1LCA2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGFsZ29yaXRobT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHYuCg==</text>
+        <text encoding="base64">ICAgIHN0ZDo6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6dmVjdG9yPGludD4gdmRkCg==</text>
+        <text encoding="base64">ICAgIHYuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
