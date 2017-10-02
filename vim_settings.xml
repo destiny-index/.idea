@@ -150,8 +150,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.44-1/e528f593b19b04d500992606f58b87fcfded8883/jsch-0.1.44-1-sources.jar!/com/jcraft/jsch/HostKeyRepository.java" timestamp="1505952013082">
         <mark key="'" line="36" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" timestamp="1506581743125">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" timestamp="1506985098708">
         <mark key="'" line="2" column="24" />
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="^" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" timestamp="1505974303407">
         <mark key="'" line="23" column="29" />
@@ -353,11 +357,11 @@
       <jump line="7" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYXZhbGlhYmxlRmllbGRzID0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>parent</text>
       </register>
       <register name="-" type="4">
-        <text>avaliableFields</text>
+        <text>parent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
