@@ -100,11 +100,11 @@
         <mark key="^" line="53" column="5" />
         <mark key="." line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" timestamp="1507011523739">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="5" column="92" />
-        <mark key="." line="5" column="92" />
-        <mark key="^" line="5" column="92" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" timestamp="1507019936008">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" timestamp="1507012939402">
         <mark key="'" line="32" column="51" />
@@ -116,12 +116,12 @@
       <file name="vim_settings.xml" timestamp="1506643379464">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" timestamp="1507013091093">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" timestamp="1507020156058">
+        <mark key="'" line="41" column="64" />
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="32" />
+        <mark key="^" line="42" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/YuiSecurityManager.java" timestamp="1505355234151">
         <mark key="[" line="6" column="13" />
@@ -253,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="28" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="120" column="23" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="94" column="23" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="541" column="32" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="41" column="18" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/MSP430Hex.java" />
@@ -283,7 +281,6 @@
       <jump line="47" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
       <jump line="41" column="54" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
-      <jump line="10" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" />
       <jump line="44" column="47" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" />
       <jump line="37" column="47" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" />
       <jump line="20" column="36" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" />
@@ -353,13 +350,16 @@
       <jump line="7" column="36" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/authorization.js" />
       <jump line="22" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" />
+      <jump line="41" column="64" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzLmZpZWxkcycK</text>
+      <register name="&quot;" type="4">
+        <text>newFacility</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>newFacility</text>
       </register>
       <register name="/" type="4">
         <text>Path</text>
@@ -371,31 +371,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzLmZpZWxkcycK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZhY2lsaXR5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzLmZpZWxkcycK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZ2FuaXphdGlvbikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzLmZpZWxkcycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzLmZpZWxkcycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSBwYXRocy5mYWNpbGl0eQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzLmZpZWxkcycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9ICdvcmdhbml6YXRpb24uZmFjaWxpdGllcy5pbGx1bWluYXRvcnMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSBbJ29yZ2FuaXphdGlvbicsICdmYWNpbGl0aWVzJ10K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSBwYXRocy5mYWNpbGl0eQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcGF0aHMgZnJvbSAnLi4vY29uZmlnL3BhdGhzJwo=</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9ICdvcmdhbml6YXRpb24uZmFjaWxpdGllcy5pbGx1bWluYXRvcnMnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">T2JqZWN0LmZyZWV6ZShwYXRocy5pbGx1bWluYXRvcikK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSBbJ29yZ2FuaXphdGlvbicsICdmYWNpbGl0aWVzJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -444,7 +444,6 @@
         <entry>elp mark</entry>
         <entry>elp</entry>
         <entry>h</entry>
-        <entry>marks</entry>
         <entry>buffers</entry>
         <entry>ls</entry>
         <entry>reg</entry>
@@ -453,6 +452,7 @@
         <entry>vsp</entry>
         <entry>q</entry>
         <entry>spl</entry>
+        <entry>marks</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -515,6 +515,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
