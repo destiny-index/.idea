@@ -14,13 +14,13 @@
       <file name="/fragment.js" timestamp="1506993437370">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" timestamp="1507004891785">
-        <mark key="'" line="98" column="7" />
-        <mark key="[" line="102" column="16" />
-        <mark key="]" line="102" column="7" />
-        <mark key="m" line="105" column="7" />
-        <mark key="." line="102" column="7" />
-        <mark key="^" line="102" column="7" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" timestamp="1507005561275">
+        <mark key="'" line="68" column="45" />
+        <mark key="[" line="69" column="59" />
+        <mark key="m" line="111" column="7" />
+        <mark key="]" line="69" column="59" />
+        <mark key="." line="69" column="59" />
+        <mark key="^" line="70" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/Uglifier.java" timestamp="1505881476265">
         <mark key="'" line="4" column="17" />
@@ -225,12 +225,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" timestamp="1507004865642">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" timestamp="1507005599105">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="58" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/MSP430Hex.java" timestamp="1505783414449">
         <mark key="'" line="21" column="17" />
@@ -261,9 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="19" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="127" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="82" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="159" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="23" column="29" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="4" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/Compressor.java" />
@@ -346,7 +343,6 @@
       <jump line="26" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="17" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="100" column="28" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
-      <jump line="7" column="31" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="102" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
@@ -361,16 +357,20 @@
       <jump line="1" column="58" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" />
       <jump line="98" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
+      <jump line="52" column="29" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
+      <jump line="53" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
+      <jump line="66" column="45" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
+      <jump line="7" column="39" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>facilityPath</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>facilityPath</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxXD4=</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGlsbHVtaW5hdG9yID0gcmVxLnJlc291cmNlcy5maW5kKGlsbHVtaW5hdG9yID0+IGlsbHVtaW5hdG9yLmlkID09PSByZXEucGFyYW1zLmlkKQo=</text>
@@ -379,40 +379,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgb3JnYW5pemF0aW9uUGF0aCA9ICdvcmdhbml6YXRpb24nCmNvbnN0IGZhY2lsaXR5UGF0aCA9ICdvcmdhbml6YXRpb24uZmFjaWxpdGllcycKY29uc3QgaWxsdW1pbmF0b3JQYXRoID0gJ29yZ2FuaXphdGlvbi5mYWNpbGl0aWVzLmlsbHVtaW5hdG9ycycK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVmcmVzaGVkRmFjaWxpdHkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgb3JnYW5pemF0aW9uUGF0aCA9ICdvcmdhbml6YXRpb24nCg==</text>
+        <text encoding="base64">Y29uc3Qgb3JnYW5pemF0aW9uUGF0aCA9ICdvcmdhbml6YXRpb24nCmNvbnN0IGZhY2lsaXR5UGF0aCA9ICdvcmdhbml6YXRpb24uZmFjaWxpdGllcycKY29uc3QgaWxsdW1pbmF0b3JQYXRoID0gJ29yZ2FuaXphdGlvbi5mYWNpbGl0aWVzLmlsbHVtaW5hdG9ycycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgaWxsdW1pbmF0b3JQYXRoID0gJ29yZ2FuaXphdGlvbi5mYWNpbGl0aWVzLmlsbHVtaW5hdG9ycycK</text>
+        <text encoding="base64">Y29uc3Qgb3JnYW5pemF0aW9uUGF0aCA9ICdvcmdhbml6YXRpb24nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cm91dGVyLnBvc3QoJy9hcGkvZmFjaWxpdGllcy86aWQvaWxsdW1pbmF0b3JzJywgZmFjaWxpdHlQYXRoLCBpbGx1bWluYXRvci5jcmVhdGUpCg==</text>
+        <text encoding="base64">Y29uc3QgaWxsdW1pbmF0b3JQYXRoID0gJ29yZ2FuaXphdGlvbi5mYWNpbGl0aWVzLmlsbHVtaW5hdG9ycycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlsbHVtaW5hdG9yID0gYXdhaXQgSWxsdW1pbmF0b3IuZmluZEJ5SWQocmVxLnBhcmFtcy5pZCkK</text>
+        <text encoding="base64">cm91dGVyLnBvc3QoJy9hcGkvZmFjaWxpdGllcy86aWQvaWxsdW1pbmF0b3JzJywgZmFjaWxpdHlQYXRoLCBpbGx1bWluYXRvci5jcmVhdGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEZhY2lsaXR5IGZyb20gJy4uL21vZGVscy9mYWNpbGl0eScK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGlsbHVtaW5hdG9yID0gYXdhaXQgSWxsdW1pbmF0b3IuZmluZEJ5SWQocmVxLnBhcmFtcy5pZCkK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEZhY2lsaXR5IGZyb20gJy4uL21vZGVscy9mYWNpbGl0eScK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlsbHVtaW5hdG9yID0gYXdhaXQgSWxsdW1pbmF0b3IuZmluZEJ5SWQocmVxLnBhcmFtcy5pZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIGV4cG9ydCBhc3luYyBmdW5jdGlvbiByZW1vdmUgKHJlcSwgcmVzLCBuZXh0KSB7Ci8vICAgdHJ5IHsKLy8gICAgIGNvbnN0IGlsbHVtaW5hdG9yID0gYXdhaXQgSWxsdW1pbmF0b3IuZmluZEJ5SWRBbmRSZW1vdmUocmVxLnBhcmFtcy5pZCkKLy8gICAgIGlmICghaWxsdW1pbmF0b3IpIHRocm93IG5ldyBNaXNzaW5nUmVzb3VyY2VFcnJvcigpCi8vCi8vICAgICByZXMuanNvbihpbGx1bWluYXRvci50b09iamVjdCgpKQovLyAgIH0gY2F0Y2ggKGVycikgewovLyAgICAgbmV4dChTZXJ2ZXJFcnJvci5mcm9tKGVycikpCi8vICAgfQovLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxXD4=</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxXD4=</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>facility</last-replace>
       <last-substitute>illuminator</last-substitute>
       <last-dir>-1</last-dir>
@@ -420,7 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Buffered</entry>
         <entry>Buffer</entry>
         <entry>isReleaseCand</entry>
         <entry>LAST_HEX</entry>
@@ -440,13 +439,13 @@
         <entry>illuminator</entry>
         <entry encoding="base64">XDxmYWN0b3J5XD4=</entry>
         <entry encoding="base64">XDwxXD4=</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/illuminator/facility/gc</entry>
         <entry>clo</entry>
         <entry>edit light.js</entry>
         <entry>vspl</entry>
-        <entry>W</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -461,6 +460,7 @@
         <entry>ls</entry>
         <entry>q</entry>
         <entry>reg</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
