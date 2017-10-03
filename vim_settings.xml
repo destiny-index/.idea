@@ -150,11 +150,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.44-1/e528f593b19b04d500992606f58b87fcfded8883/jsch-0.1.44-1-sources.jar!/com/jcraft/jsch/HostKeyRepository.java" timestamp="1505952013082">
         <mark key="'" line="36" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" timestamp="1506990445510">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" timestamp="1506991711730">
         <mark key="'" line="25" column="19" />
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="25" column="71" />
+        <mark key="." line="25" column="71" />
         <mark key="^" line="28" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" timestamp="1505974303407">
@@ -167,12 +167,12 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.test.js" timestamp="1506991021538">
-        <mark key="'" line="54" column="28" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="37" column="5" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.test.js" timestamp="1506991682962">
+        <mark key="'" line="53" column="28" />
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="24" />
+        <mark key="." line="54" column="24" />
+        <mark key="^" line="54" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/organization.test.js" timestamp="1506647453680">
         <mark key="[" line="95" column="42" />
@@ -358,10 +358,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{
+    const child = 
+    return child
+  }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>resource[childPath]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
@@ -372,32 +375,35 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+    const child = 
+    return child
+  }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSBidWlsZFBvcHVsYXRlT3B0aW9uc0Zyb21QYXRoKHBhdGgpCg==</text>
+        <text encoding="base64">ICAgIGlmIChjaGlsZC5tYXApIHsKICAgICAgY2hpbGQuZm9yRWFjaCh4ID0+IHsgeC5wYXJlbnQgPSByZXNvdXJjZXMgfSkKICAgIH0KICAgIGNoaWxkLnBhcmVudCA9IHJlc291cmNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSBidWlsZFBvcHVsYXRlT3B0aW9uc0Zyb21QYXRoKHBhdGgpCiAgICBhd2FpdCB1c2VyLnBvcHVsYXRlKG9wdGlvbnMpLmV4ZWNQb3B1bGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmVudCwgY2hpbGQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHVzZXIucG9wdWxhdGUob3B0aW9ucykuZXhlY1BvcHVsYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlkLCByZXN1bHQuaWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmVudElkID0gdXNlci5vcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBmYWNpbGl0eS5jcmVhdGUoJ1Rlc3RVc2VyJykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSBidWlsZFBvcHVsYXRlT3B0aW9uc0Zyb21QYXRoKHBhdGgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSBidWlsZFBvcHVsYXRlT3B0aW9uc0Zyb21QYXRoKHBhdGgpCiAgICBhd2FpdCB1c2VyLnBvcHVsYXRlKG9wdGlvbnMpLmV4ZWNQb3B1bGF0ZSgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBmYWN0b3J5LmNyZWF0ZSgnVGVzdFVzZXInKQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHVzZXIucG9wdWxhdGUob3B0aW9ucykuZXhlY1BvcHVsYXRlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
