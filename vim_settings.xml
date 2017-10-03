@@ -199,11 +199,11 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" timestamp="1506995342432">
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="28" />
-        <mark key="^" line="46" column="28" />
-        <mark key="." line="46" column="28" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" timestamp="1506998888888">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="9" />
+        <mark key="^" line="47" column="9" />
+        <mark key="." line="47" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/FilesystemImage.java" timestamp="1505396175701">
         <mark key="[" line="4" column="13" />
@@ -322,10 +322,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
@@ -337,31 +337,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwgZnJvbSAndXRpbCcK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJBU0RGQVNERkFTREYiLCByZXN1bHQuaWQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwgZnJvbSAndXRpbCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlW2NoaWxkUGF0aF0uX3BhcmVudCA9IHJlc291cmNlCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJBU0RGQVNERkFTREYiLCByZXN1bHQuaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIHJlc291cmNlW2NoaWxkUGF0aF0uX3BhcmVudCA9IHJlc291cmNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGByZXNvdXJjZVske2NoaWxkUGF0aH1dLl9wYXJlbnQuX2lkYCwgcmVzb3VyY2VbY2hpbGRQYXRoXS5fcGFyZW50LmlkLCB1dGlsLmluc3BlY3QocmVzb3VyY2VbY2hpbGRQYXRoXSwge2RlcHRoOiAwfSkpCg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoaWxkUGF0aCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGByZXNvdXJjZVske2NoaWxkUGF0aH1dLl9wYXJlbnQuX2lkYCwgcmVzb3VyY2VbY2hpbGRQYXRoXS5fcGFyZW50LmlkLCB1dGlsLmluc3BlY3QocmVzb3VyY2VbY2hpbGRQYXRoXSwge2RlcHRoOiAwfSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiVGhlIFBhcmVudCBpczogIiwgcmVzb3VyY2VzLl9wYXJlbnQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoaWxkUGF0aCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdC5fcGFyZW50KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiVGhlIFBhcmVudCBpczogIiwgcmVzb3VyY2VzLl9wYXJlbnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc291cmNlW2NoaWxkUGF0aF0uX3BhcmVudC5pZCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdC5fcGFyZW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
