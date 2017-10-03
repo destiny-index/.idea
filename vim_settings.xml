@@ -14,13 +14,13 @@
       <file name="/fragment.js" timestamp="1506993437370">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" timestamp="1507013071974">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" timestamp="1507072259991">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="30" />
+        <mark key="[" line="128" column="62" />
         <mark key="m" line="121" column="7" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+        <mark key="]" line="128" column="65" />
+        <mark key="." line="128" column="65" />
+        <mark key="^" line="128" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/Mail.java" timestamp="1505968076108">
         <mark key="[" line="10" column="18" />
@@ -35,16 +35,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.test.js" timestamp="1506660294846">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/authorization.js" timestamp="1507010795397">
-        <mark key="'" line="7" column="36" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/authorization.js" timestamp="1507072891790">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/build.gradle" timestamp="1505804902360">
         <mark key="[" line="3" column="14" />
@@ -57,6 +52,12 @@
         <mark key="]" line="14" column="27" />
         <mark key="." line="14" column="27" />
         <mark key="^" line="14" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/crud.js" timestamp="1507074027588">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/DirectoryFilter.java" timestamp="1505870799341">
         <mark key="[" line="11" column="12" />
@@ -76,12 +77,6 @@
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/converter/HAMS2JAMS.java" timestamp="1505453959120">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/GeneratedEHAL.java" timestamp="1505955885438">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/paths.test.js" timestamp="1507009140598">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -100,14 +95,15 @@
         <mark key="^" line="53" column="5" />
         <mark key="." line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" timestamp="1507021824977">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" timestamp="1507073249396">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="55" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" timestamp="1507012939402">
-        <mark key="'" line="32" column="51" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" timestamp="1507072821952">
+        <mark key="'" line="32" column="50" />
         <mark key="[" line="43" column="49" />
         <mark key="]" line="43" column="70" />
         <mark key="." line="43" column="70" />
@@ -116,12 +112,12 @@
       <file name="vim_settings.xml" timestamp="1506643379464">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" timestamp="1507020156058">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" timestamp="1507072271725">
         <mark key="'" line="41" column="64" />
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="32" />
-        <mark key="." line="42" column="32" />
-        <mark key="^" line="42" column="32" />
+        <mark key="[" line="111" column="67" />
+        <mark key="]" line="111" column="70" />
+        <mark key="." line="111" column="70" />
+        <mark key="^" line="111" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/YuiSecurityManager.java" timestamp="1505355234151">
         <mark key="[" line="6" column="13" />
@@ -168,10 +164,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/factory-girl.js" timestamp="1506660310659">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/organization.test.js" timestamp="1506647453680">
+        <mark key="[" line="95" column="42" />
+        <mark key="]" line="95" column="42" />
+        <mark key="." line="95" column="42" />
+        <mark key="^" line="95" column="53" />
       </file>
       <file name="/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/nio/file/Files.class" timestamp="1505790052770">
         <mark key="'" line="233" column="23" />
@@ -226,12 +223,13 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" timestamp="1507005599105">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" timestamp="1507074110414">
+        <mark key="p" line="2" column="0" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-        <mark key="^" line="9" column="9" />
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/FilesystemImage.java" timestamp="1505396175701">
         <mark key="[" line="4" column="13" />
@@ -242,20 +240,11 @@
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/illuminator.factory.js" timestamp="1506667816121">
         <mark key="'" line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/YUIParser.java" timestamp="1505881572180">
-        <mark key="'" line="7" column="38" />
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-      </file>
       <file name="/fragment.java" timestamp="1505893734763">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="23" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="541" column="32" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="41" column="18" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/MSP430Hex.java" />
       <jump line="44" column="12" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="422" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/GUIWindow.java" />
       <jump line="399" column="16" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/GUIWindow.java" />
@@ -330,13 +319,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="99" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="1" column="58" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" />
       <jump line="98" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="52" column="29" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="53" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="66" column="45" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="7" column="39" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
-      <jump line="36" column="45" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
       <jump line="35" column="49" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
       <jump line="9" column="32" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/authorization.js" />
       <jump line="5" column="37" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/paths.js" />
@@ -344,7 +331,6 @@
       <jump line="26" column="52" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="8" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" />
       <jump line="10" column="57" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/authorization.js" />
-      <jump line="32" column="51" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
       <jump line="3" column="27" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" />
       <jump line="2" column="31" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" />
       <jump line="7" column="36" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/authorization.js" />
@@ -353,49 +339,55 @@
       <jump line="10" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.js" />
       <jump line="41" column="64" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" />
+      <jump line="8" column="47" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" />
+      <jump line="36" column="47" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="32" column="50" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" />
+      <jump line="10" column="37" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newFacility</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>newFacility</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Path</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHBhdGhzLmZpZWxkCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW1wb3J0IElsbHVtaW5hdG9yIGZyb20gJy4uL21vZGVscy9pbGx1bWluYXRvcicKaW1wb3J0IHsgU2VydmVyRXJyb3IsIE1pc3NpbmdSZXNvdXJjZUVycm9yIH0gZnJvbSAnLi4vaGVscGVycy9lcnJvcnMnCgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gY3JlYXRlIChyZXEsIHJlcywgbmV4dCkgewogIHRyeSB7CiAgICBjb25zdCBmYWNpbGl0eSA9IHJlcS5yZXNvdXJjZXMuZmluZChmYWNpbGl0eSA9PiBmYWNpbGl0eS5pZCA9PT0gcmVxLnBhcmFtcy5pZCkKICAgIGlmICghZmFjaWxpdHkpIHRocm93IG5ldyBNaXNzaW5nUmVzb3VyY2VFcnJvcigpCgogICAgY29uc3QgaWxsdW1pbmF0b3IgPSBhd2FpdCBJbGx1bWluYXRvci5jcmVhdGUocmVxLmJvZHkpCgogICAgZmFjaWxpdHkuaWxsdW1pbmF0b3JzLmFkZFRvU2V0KGlsbHVtaW5hdG9yLmlkKQogICAgYXdhaXQgZmFjaWxpdHkuc2F2ZSgpCgogICAgcmVzLnN0YXR1cygyMDEpCiAgICAgIC5sb2NhdGlvbihgL2lsbHVtaW5hdG9ycy8ke2lsbHVtaW5hdG9yLl9pZH1gKQogICAgICAuanNvbihpbGx1bWluYXRvci50b09iamVjdCgpKQogIH0gY2F0Y2ggKGVycikgewogICAgbmV4dChTZXJ2ZXJFcnJvci5mcm9tKGVycikpCiAgfQp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gcmVhZCAocmVxLCByZXMsIG5leHQpIHsKICB0cnkgewogICAgY29uc3QgaWxsdW1pbmF0b3IgPSByZXEucmVzb3VyY2VzLmZpbmQoaWxsdW1pbmF0b3IgPT4gaWxsdW1pbmF0b3IuaWQgPT09IHJlcS5wYXJhbXMuaWQpCiAgICBpZiAoIWlsbHVtaW5hdG9yKSB0aHJvdyBuZXcgTWlzc2luZ1Jlc291cmNlRXJyb3IoKQoKICAgIHJlcy5qc29uKGlsbHVtaW5hdG9yLnRvT2JqZWN0KCkpCiAgfSBjYXRjaCAoZXJyKSB7CiAgICBuZXh0KFNlcnZlckVycm9yLmZyb20oZXJyKSkKICB9Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiB1cGRhdGUgKHJlcSwgcmVzLCBuZXh0KSB7CiAgdHJ5IHsKICAgIGNvbnN0IGlsbHVtaW5hdG9yID0gcmVxLnJlc291cmNlcy5maW5kKGlsbHVtaW5hdG9yID0+IGlsbHVtaW5hdG9yLmlkID09PSByZXEucGFyYW1zLmlkKQogICAgaWYgKCFpbGx1bWluYXRvcikgdGhyb3cgbmV3IE1pc3NpbmdSZXNvdXJjZUVycm9yKCkKCiAgICBPYmplY3QuYXNzaWduKGlsbHVtaW5hdG9yLCByZXEuYm9keSkKCiAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBpbGx1bWluYXRvci5zYXZlKCkKICAgIHJlcy5zdGF0dXMoMjAwKQogICAgICAuanNvbihyZXN1bHQudG9PYmplY3QoKSkKICB9IGNhdGNoIChlcnIpIHsKICAgIG5leHQoU2VydmVyRXJyb3IuZnJvbShlcnIpKQogIH0KfQoKZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHJlbW92ZSAocmVxLCByZXMsIG5leHQpIHsKICB0cnkgewogICAgY29uc3QgaWxsdW1pbmF0b3IgPSByZXEucmVzb3VyY2VzLmZpbmQoaWxsdW1pbmF0b3IgPT4gaWxsdW1pbmF0b3IuaWQgPT09IHJlcS5wYXJhbXMuaWQpCiAgICBpZiAoIWlsbHVtaW5hdG9yKSB0aHJvdyBuZXcgTWlzc2luZ1Jlc291cmNlRXJyb3IoKQoKICAgIGNvbnN0IGZhY2lsaXR5ID0gaWxsdW1pbmF0b3IuX3BhcmVudAogICAgZmFjaWxpdHkuaWxsdW1pbmF0b3JzLnJlbW92ZShpbGx1bWluYXRvci5faWQpCgogICAgYXdhaXQgUHJvbWlzZS5hbGwoW2ZhY2lsaXR5LnNhdmUoKSwgaWxsdW1pbmF0b3IucmVtb3ZlKCldKQoKICAgIHJlcy5qc29uKGlsbHVtaW5hdG9yLnRvT2JqZWN0KCkpCiAgfSBjYXRjaCAoZXJyKSB7CiAgICBuZXh0KFNlcnZlckVycm9yLmZyb20oZXJyKSkKICB9Cn0KCmV4cG9ydCBhc3luYyBmdW5jdGlvbiBsaXN0IChyZXEsIHJlcywgbmV4dCkgewogIHRyeSB7CiAgICBjb25zdCBpbGx1bWluYXRvcnMgPSByZXEucmVzb3VyY2VzCiAgICByZXMuanNvbih7IGlsbHVtaW5hdG9ycyB9KQogIH0gY2F0Y2ggKGVycikgewogICAgbmV4dChTZXJ2ZXJFcnJvci5mcm9tKGVycikpCiAgfQp9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZhY2lsaXR5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9yZ2FuaXphdGlvbikK</text>
+        <text encoding="base64">aW1wb3J0IElsbHVtaW5hdG9yIGZyb20gJy4uL21vZGVscy9pbGx1bWluYXRvcicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzLmZpZWxkcycK</text>
+        <text encoding="base64">ICAgIHJldHVybiBtaWRkbGV3YXJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzLmZpZWxkcycK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZhY2lsaXR5ID0gYXdhaXQgRmFjaWxpdHkuZmluZEJ5SWQocmVxLnBhcmFtcy5pZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSAnb3JnYW5pemF0aW9uLmZhY2lsaXRpZXMuaWxsdW1pbmF0b3JzLmZpZWxkcycK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZhY2lsaXR5ID0gYXdhaXQgRmFjaWxpdHkuZmluZEJ5SWQocmVxLnBhcmFtcy5pZCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSBwYXRocy5mYWNpbGl0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9ICdvcmdhbml6YXRpb24uZmFjaWxpdGllcy5pbGx1bWluYXRvcnMnCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgb3duZWRJbGx1bWluYXRvcklkcyA9IGZpbmRSZXNvdXJjZXMoCiAgICAgICAgYXdhaXQgcG9wdWxhdGVUb1BhdGgoYXdhaXQgVXNlci5maW5kQnlJZCh1c2VyLl9pZCksIHBhdGgpLCBwYXRoCiAgICAgICkubWFwKGVsZW0gPT4gZWxlbS5pZCkKCiAgICAgIGV4cGVjdChvd25lZElsbHVtaW5hdG9ySWRzKS5ub3QudG9Db250YWluKGlsbHVtaW5hdG9yLmlkKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGggPSBbJ29yZ2FuaXphdGlvbicsICdmYWNpbGl0aWVzJ10K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZhY2lsaXR5ID0gYXdhaXQgRmFjaWxpdHkuZmluZEJ5SWRBbmRSZW1vdmUocmVxLnBhcmFtcy5pZCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -434,7 +426,6 @@
         <entry>Path</entry>
       </history-search>
       <history-cmd>
-        <entry>vspl</entry>
         <entry>split</entry>
         <entry>vsplit</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -449,10 +440,11 @@
         <entry>reg</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL1BhdGgvL2dj</entry>
-        <entry>vsp</entry>
         <entry>q</entry>
         <entry>spl</entry>
         <entry>marks</entry>
+        <entry>vsl</entry>
+        <entry>vsp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
