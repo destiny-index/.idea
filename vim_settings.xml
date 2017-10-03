@@ -14,45 +14,59 @@
       <file name="/fragment.js" timestamp="1506993437370">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" timestamp="1506994652832">
-        <mark key="'" line="95" column="30" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" timestamp="1507001863531">
+        <mark key="'" line="17" column="6" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/Mail.java" timestamp="1505968076108">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/Uglifier.java" timestamp="1505881476265">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/GUIWindow.java" timestamp="1506056562293">
+        <mark key="'" line="441" column="56" />
+        <mark key="[" line="450" column="0" />
+        <mark key="]" line="450" column="48" />
+        <mark key="." line="450" column="48" />
+        <mark key="^" line="450" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.test.js" timestamp="1506660294846">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/JtregFilter.java" timestamp="1505870778760">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/authorization.js" timestamp="1506649751056">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/build.gradle" timestamp="1505804902360">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="17" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/parser/NullCompressor.java" timestamp="1505881735325">
+        <mark key="'" line="4" column="43" />
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/DirectoryFilter.java" timestamp="1505870799341">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/ConsoleWindow.java" timestamp="1505446095735">
+        <mark key="'" line="6" column="17" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.44-1/e528f593b19b04d500992606f58b87fcfded8883/jsch-0.1.44-1-sources.jar!/com/jcraft/jsch/JSch.java" timestamp="1505952007227">
         <mark key="'" line="112" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/MicroSpider2Category.java" timestamp="1505782431038">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/organization.js" timestamp="1506584702553">
         <mark key="[" line="25" column="0" />
@@ -60,6 +74,13 @@
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/converter/HAMS2JAMS.java" timestamp="1505453959120">
         <mark key="'" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/DeviceTypeCategory.java" timestamp="1505782420241">
+        <mark key="'" line="10" column="37" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="6" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/Ssh99.java" timestamp="1505446014185">
         <mark key="'" line="290" column="79" />
@@ -89,6 +110,20 @@
       <file name="vim_settings.xml" timestamp="1506643379464">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/com/yahoo/platform/yui/compressor/YUICompressor.java" timestamp="1505876933749">
+        <mark key="'" line="416" column="20" />
+        <mark key="[" line="421" column="61" />
+        <mark key="]" line="422" column="16" />
+        <mark key="." line="422" column="16" />
+        <mark key="^" line="422" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/HexFile.java" timestamp="1505780449321">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" timestamp="1506647985306">
         <mark key="'" line="20" column="36" />
         <mark key="[" line="80" column="22" />
@@ -96,11 +131,12 @@
         <mark key="." line="80" column="31" />
         <mark key="^" line="80" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/YuiSecurityManager.java" timestamp="1505355234151">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="6" column="21" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/Minifier.java" timestamp="1505364195699">
+        <mark key="'" line="5" column="24" />
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.factory.js" timestamp="1506663844130">
         <mark key="'" line="26" column="2" />
@@ -112,12 +148,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jcraft/jsch/0.1.44-1/e528f593b19b04d500992606f58b87fcfded8883/jsch-0.1.44-1-sources.jar!/com/jcraft/jsch/HostKeyRepository.java" timestamp="1505952013082">
         <mark key="'" line="36" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/GeneratedFirmware.java" timestamp="1505955891124">
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="3" />
-        <mark key="^" line="44" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" timestamp="1506993555006">
         <mark key="'" line="26" column="41" />
         <mark key="[" line="1" column="0" />
@@ -128,11 +158,12 @@
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" timestamp="1505974303407">
         <mark key="'" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" timestamp="1505968611386">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="7" column="7" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/HexFileStats.java" timestamp="1505780271292">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="11" column="125" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.test.js" timestamp="1506993414392">
         <mark key="'" line="53" column="28" />
@@ -151,77 +182,83 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/WebpageProcessor.java" timestamp="1505778882107">
+        <mark key="'" line="25" column="11" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="55" column="91" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/converter/IHex2mihy.java" timestamp="1505801545033">
+        <mark key="'" line="5" column="13" />
+        <mark key="[" line="198" column="19" />
+        <mark key="]" line="198" column="21" />
+        <mark key="." line="198" column="21" />
+        <mark key="^" line="198" column="21" />
+      </file>
       <file name="/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/nio/file/Files.class" timestamp="1505790052770">
         <mark key="'" line="233" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/DeviceTypeMap.java" timestamp="1505450023032">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/GeneratedHAL.java" timestamp="1505955615339">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1506989846254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/YUIMinifier.java" timestamp="1505368208432">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="50" />
-        <mark key="." line="15" column="50" />
-        <mark key="^" line="15" column="50" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/devicetype/DeviceTypeCategory.java" timestamp="1505888706452">
+        <mark key="'" line="60" column="36" />
+        <mark key="[" line="41" column="47" />
+        <mark key="]" line="42" column="11" />
+        <mark key="^" line="42" column="11" />
+        <mark key="." line="42" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/Compressor.java" timestamp="1505354820485">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="5" column="49" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareVersion.java" timestamp="1505957582219">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/YUICompressor.java" timestamp="1505354987993">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="25" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" timestamp="1507001548477">
+        <mark key="'" line="0" column="39" />
+        <mark key="[" line="49" column="60" />
+        <mark key="]" line="49" column="60" />
+        <mark key="." line="49" column="60" />
+        <mark key="^" line="49" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/YUICompressor.java" timestamp="1505379047355">
-        <mark key="[" line="14" column="62" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="15" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/FSImage.java" timestamp="1505380907234">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/YUISecurityManager.java" timestamp="1505881537626">
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="24" column="40" />
-        <mark key="." line="24" column="40" />
-        <mark key="^" line="24" column="40" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" timestamp="1506998888888">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="9" />
-        <mark key="^" line="47" column="9" />
-        <mark key="." line="47" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/FilesystemImage.java" timestamp="1505396175701">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/MSP430Hex.java" timestamp="1505783414449">
+        <mark key="'" line="21" column="17" />
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="50" column="10" />
+        <mark key="^" line="50" column="10" />
+        <mark key="." line="50" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/illuminator.factory.js" timestamp="1506667816121">
         <mark key="'" line="20" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/MSP430Hex.java" timestamp="1506007675270">
+        <mark key="'" line="41" column="18" />
+        <mark key="[" line="78" column="18" />
+        <mark key="]" line="78" column="30" />
+        <mark key="." line="78" column="30" />
+        <mark key="^" line="78" column="30" />
+      </file>
       <file name="/fragment.java" timestamp="1505893734763">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/FATImageBuilder.java" timestamp="1505397648659">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="5" column="2" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="81" column="34" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="121" column="31" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="91" column="12" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="236" column="28" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="25" column="20" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
@@ -319,49 +356,52 @@
       <jump line="26" column="41" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" />
       <jump line="95" column="30" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/node_modules/supertest/index.js" />
+      <jump line="0" column="39" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.js" />
+      <jump line="26" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
+      <jump line="17" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminator.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuYm9keSkK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>illuminatorPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlkID0gdXNlci5vcmdhbml6YXRpb24KICAgICAgICAuZmFjaWxpdGllc1swXQogICAgICAgIC5pbGx1bWluYXRvcnNbMF0KICAgICAgICAuZmllbGRzWzBdCiAgICAgICAgLl9pZAo=</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHJlbW92ZSAocmVxLCByZXMsIG5leHQpIHsKICB0cnkgewogICAgY29uc3QgaWxsdW1pbmF0b3IgPSBhd2FpdCBJbGx1bWluYXRvci5maW5kQnlJZEFuZFJlbW92ZShyZXEucGFyYW1zLmlkKQogICAgaWYgKCFpbGx1bWluYXRvcikgdGhyb3cgbmV3IE1pc3NpbmdSZXNvdXJjZUVycm9yKCkKCiAgICBjb25zdCBjaGlsZCA9IHJlcS5yZXNvdXJjZXMuZmluZChlbGVtZW50ID0+IGVsZW1lbnQuaWQgPT09IHJlcS5wYXJhbXMuaWQpCiAgICBjb25zdCBwYXJlbnQgPSBjaGlsZC5fcGFyZW50LmRlcG9wdWxhdGUoJ2lsbHVtaW5hdG9ycycpCiAgICBjb25zb2xlLmxvZyhjaGlsZCwgcGFyZW50KQogICAgcmVzLmpzb24oaWxsdW1pbmF0b3IudG9PYmplY3QoKSkKICB9IGNhdGNoIChlcnIpIHsKICAgIG5leHQoU2VydmVyRXJyb3IuZnJvbShlcnIpKQogIH0KfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuYm9keSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwgZnJvbSAndXRpbCcK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld0ZhY2lsaXR5ID0gYXdhaXQgRmFjaWxpdHkuZmluZEJ5SWQoZmFjaWxpdHkuX2lkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJBU0RGQVNERkFTREYiLCByZXN1bHQuaWQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld0ZhY2lsaXR5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlW2NoaWxkUGF0aF0uX3BhcmVudCA9IHJlc291cmNlCg==</text>
+        <text encoding="base64">ICAgIEZhY2lsaXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGZhY2lsaXR5LnNhdmUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGByZXNvdXJjZVske2NoaWxkUGF0aH1dLl9wYXJlbnQuX2lkYCwgcmVzb3VyY2VbY2hpbGRQYXRoXS5fcGFyZW50LmlkLCB1dGlsLmluc3BlY3QocmVzb3VyY2VbY2hpbGRQYXRoXSwge2RlcHRoOiAwfSkpCg==</text>
+        <text encoding="base64">ICAgIC8vIFJlbW92ZSBmcm9tIGZhY2lsaXR5IHRvIGF2b2lkIGRhbmdsaW5nIHJlZmVyZW5jZXMgdG8gYSBkZWxldGVkIGlsbHVtaW5hdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNoaWxkUGF0aCkK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiVGhlIFBhcmVudCBpczogIiwgcmVzb3VyY2VzLl9wYXJlbnQpCg==</text>
+        <text encoding="base64">ICAgIHJlbW92ZWRJbGx1bWluYXRvci5yZW1vdmUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdC5fcGFyZW50KQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IGNoaWxkLnJlbW92ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -417,8 +457,8 @@
         <entry>vspl</entry>
         <entry>W</entry>
         <entry>split</entry>
-        <entry>q</entry>
         <entry>vsplit</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
