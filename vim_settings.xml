@@ -143,11 +143,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/CLionProjects/STLAlgorithms/main.cpp" timestamp="1506842794476">
-        <mark key="[" line="61" column="1" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="0" />
+      <file name="$USER_HOME$/workspace/CLionProjects/STLAlgorithms/main.cpp" timestamp="1507035035440">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/Minifier.java" timestamp="1505364195699">
         <mark key="'" line="5" column="24" />
@@ -459,11 +459,11 @@
       <jump line="9" column="5" filename="$USER_HOME$/workspace/CLionProjects/STLAlgorithms/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBmb28oKSA9IDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>illuminator</text>
@@ -475,7 +475,7 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZpcnR1YWwgdm9pZCBmb28oKSA9IDA7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -484,22 +484,22 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbXBsZXgK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSByZWFsKCkgY29uc3QgeyByZXR1cm4gcmVhbDsgfQo=</text>
+        <text encoding="base64">ICAgIENvbXBsZXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRvdWJsZSBpbWFnaW5hcnk7Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSByZWFsKCkgY29uc3QgeyByZXR1cm4gcmVhbDsgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50X3NxdWFyZSgxLjIzNCk7Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBpbWFnaW5hcnk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoYXIgKiB3aGF0KCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaW50X3NxdWFyZSgxLjIzNCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdXQgPDwgIkhlbGxvLCBXb3JsZCFcbiI7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNoYXIgKiB3aGF0KCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -556,8 +556,8 @@
         <entry>edit CMakeLists.txt</entry>
         <entry>q</entry>
         <entry>s</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
