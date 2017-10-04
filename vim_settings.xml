@@ -97,6 +97,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/express.js" timestamp="1507158180702">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/components/GroupForm.js" timestamp="1507098792634">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -309,7 +314,7 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/webpack.config.js" timestamp="1507097420096">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/webpack.config.js" timestamp="1507158828745">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -551,8 +556,8 @@
       <jump line="9" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/components/ClubList.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhvc3Q6ICcxOTIuMTY4LjAuMTUyJywK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -567,31 +572,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKQogIH0KCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKQogIH0KCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybSwgTW9kYWwgfSBmcm9tICdzZW1hbnRpYy11aS1yZWFjdCcK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIGhvc3Q6ICcxOTIuMTY4LjAuMTUyJywK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KCkgPT4gXy50aW1lcyhOVU1fSUxMVU1JTkFUT1JTX1BFUl9GQUNJTElUWSwgKCkgPT4KICAgIG1ha2VJbGx1bWluYXRvckZpZWxkcyhjbHVicykKICAp</text>
+      <register name="2" type="2">
+        <text encoding="base64">YXBwLnVzZSgnLycsIGV4cHJlc3Muc3RhdGljKCdwdWJsaWMvaW5kZXguaHRtbCcpKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">YXBwLnVzZSgnL2RlYnVnJywgZXhwcmVzcy5zdGF0aWMoJ3B1YmxpYy9pbmRleC5odG1sJykpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKQogIH0KCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKQogIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbGx1bWluYXRvckZpZWxkcykK</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9ybSwgTW9kYWwgfSBmcm9tICdzZW1hbnRpYy11aS1yZWFjdCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbGx1bWluYXRvckZpZWxkc1Byb21pc2VzKQo=</text>
+        <text encoding="base64">ICAgIGhvc3Q6ICcxOTIuMTY4LjAuMTUyJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
