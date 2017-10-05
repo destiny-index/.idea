@@ -635,12 +635,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/RouteNeedLogin.js" timestamp="1507185081264">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/RouteNeedLogin.js" timestamp="1507192208380">
         <mark key="'" line="5" column="10" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -746,11 +746,11 @@
       <jump line="26" column="36" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(group.description: string)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHR5cGUge0NvbXBvbmVudFR5cGV9IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>(group.description: string)</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>props.trigger</text>
@@ -761,37 +761,37 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHR5cGUge0NvbXBvbmVudFR5cGV9IGZyb20gJ3JlYWN0Jwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>{
         ...state,
         apiToken: 
       }</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
         ...state,
         apiToken: null
       }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBkaXNwYXRjaDogRnVuY3Rpb24sZGQK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
   addFieldToGroup, removeFieldFromGroup
 }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENsdWJTZWxlY3Rpb24gZnJvbSAnLi4vY29tcG9uZW50cy9DbHViU2VsZWN0aW9uJwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IENsdWJTZWxlY3Rpb24gZnJvbSAnLi4vY29tcG9uZW50cy9DbHViU2VsZWN0aW9uJwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
