@@ -77,6 +77,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="9" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/components/Facility.js" timestamp="1507168842632">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="5" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="21" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/ConsoleWindow.java" timestamp="1505446095735">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="8" column="15" />
@@ -292,6 +298,9 @@
         <mark key="]" line="50" column="10" />
         <mark key="^" line="50" column="10" />
         <mark key="." line="50" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/.babelrc" timestamp="1507169090081">
+        <mark key="." line="15" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/MSP430Hex.java" timestamp="1506007675270">
         <mark key="'" line="41" column="18" />
@@ -825,7 +834,6 @@ import {</text>
         <entry>Club</entry>
       </history-search>
       <history-cmd>
-        <entry>spl</entry>
         <entry>vsl</entry>
         <entry>vsp</entry>
         <entry>wq</entry>
@@ -844,6 +852,7 @@ import {</text>
         <entry>W</entry>
         <entry>2w</entry>
         <entry>reg</entry>
+        <entry>vspl</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
