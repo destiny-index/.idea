@@ -299,12 +299,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" timestamp="1507255735538">
-        <mark key="'" line="40" column="14" />
-        <mark key="[" line="33" column="43" />
-        <mark key="]" line="33" column="50" />
-        <mark key="." line="33" column="50" />
-        <mark key="^" line="33" column="50" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" timestamp="1507261192975">
+        <mark key="'" line="39" column="65" />
+        <mark key="[" line="39" column="66" />
+        <mark key="]" line="39" column="68" />
+        <mark key="." line="39" column="68" />
+        <mark key="^" line="39" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/factory-girl.js" timestamp="1506660310659">
         <mark key="[" line="6" column="0" />
@@ -790,7 +790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/organization.factory.js" />
       <jump line="7" column="30" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.factory.js" />
       <jump line="6" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.factory.js" />
       <jump line="13" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/facility.factory.js" />
@@ -890,13 +889,14 @@
       <jump line="99" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
       <jump line="25" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
       <jump line="24" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/containers/Login.js" />
+      <jump line="38" column="65" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUge0hpc3Rvcnl9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCg==</text>
+      <register name="&quot;" type="4">
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text>props.trigger</text>
