@@ -124,11 +124,10 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" timestamp="1507255935354">
-        <mark key="'" line="25" column="25" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" timestamp="1507255977963">
+        <mark key="'" line="24" column="25" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/DirectoryFilter.java" timestamp="1505870799341">
@@ -893,8 +892,8 @@
       <jump line="24" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/containers/Login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHR5cGUge0hpc3Rvcnl9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCg==</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -909,10 +908,10 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZSBBY3Rpb24gPSB7fCB0eXBlOiBzdHJpbmcsIHBheWxvYWQ6ID9PYmplY3QgfH0K</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUge0hpc3Rvcnl9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBBY3Rpb24gPSB7fCB0eXBlOiBzdHJpbmcsIHBheWxvYWQ6ID9PYmplY3QgfH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -921,22 +920,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Y29uc3QgaW5pdGlhbFN0YXRlID0gewogIHJlZGlyZWN0VXJsOiAnJywKfQoK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
         ...state,
         redirectUrl: 
       }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBsb2dpbkZvcm06IGluaXRpYWxMb2dpbkZvcm1TdGF0ZQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdGlhbExvZ2luRm9ybVN0YXRlOiBMb2dpbkZvcm1TdGF0ZSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
