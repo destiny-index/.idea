@@ -117,12 +117,6 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" timestamp="1507269320641">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="6" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="75" column="6" />
-      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/DirectoryFilter.java" timestamp="1505870799341">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="22" />
@@ -294,12 +288,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" timestamp="1507268929967">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/factory-girl.js" timestamp="1506660310659">
         <mark key="[" line="6" column="0" />
@@ -774,10 +762,10 @@
         <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/components/LoginForm.js" timestamp="1507269238659">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="4" />
-        <mark key="." line="34" column="4" />
-        <mark key="^" line="34" column="3" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/YUISecurityManager.java" timestamp="1505881537626">
         <mark key="[" line="24" column="41" />
