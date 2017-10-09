@@ -199,6 +199,7 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" timestamp="1507549403588" />
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/facility.test.js" timestamp="1507075549003">
         <mark key="'" line="41" column="64" />
         <mark key="[" line="89" column="37" />
@@ -278,7 +279,6 @@
         <mark key="." line="125" column="1" />
         <mark key="^" line="113" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" timestamp="1507511822486" />
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/factory-girl.js" timestamp="1507508825578">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="11" column="0" />
@@ -783,12 +783,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" timestamp="1507549231270">
-        <mark key="'" line="29" column="16" />
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="26" />
-        <mark key="." line="33" column="26" />
-        <mark key="^" line="25" column="1" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" timestamp="1507549579009">
+        <mark key="'" line="33" column="44" />
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/RouteNeedLogin.js" timestamp="1507268861576">
         <mark key="'" line="29" column="0" />
@@ -799,7 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="33" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
       <jump line="10" column="47" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
       <jump line="62" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
       <jump line="16" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/RouteNeedLogin.js" />
@@ -899,10 +898,11 @@
       <jump line="30" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubSelection.js" />
       <jump line="61" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCard.js" />
       <jump line="24" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" />
+      <jump line="33" column="44" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzdGF0aWMgZGVmYXVsdFByb3BzID0gewogICAgZGlzYWJsZWRDbHViczogW10KICB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jg==</text>
@@ -916,32 +916,32 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICBzdGF0aWMgZGVmYXVsdFByb3BzID0gewogICAgZGlzYWJsZWRDbHViczogW10KICB9Cgo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">PENsdWJDYXJkCiAgICAgICAga2V5PXtjbHViLmlkfQogICAgICAgIGNsdWI9e2NsdWJ9CiAgICAgICAgYXJyb3dEaXJlY3Rpb249e3Byb3BzLmRpc2FibGVkQ2x1YnMgJiYKICAgICAgICAgIHByb3BzLmRpc2FibGVkQ2x1YnMuaW5jbHVkZXMoY2x1Yi5pZCkKICAgICAgICAgID8gdW5kZWZpbmVkCiAgICAgICAgICA6IHByb3BzLmFycm93RGlyZWN0aW9uCiAgICAgICAgfQogICAgICAgIGhhbmRsZUNsdWJDbGljaz17cHJvcHMuaGFuZGxlQ2x1YkNsaWNrfQogICAgICAgIGhhbmRsZUNsdWJEZWxldGU9e3Byb3BzLmhhbmRsZUNsdWJEZWxldGV9CiAgICAgIC8+</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgY2hpbGRQcm9wcyA9IHsKICAgICAgICBrZXk6IGNsdWIuaWQsCiAgICAgICAgY2x1Yk5hbWU6IHN0cmluZywKICAgICAgICAKICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGhhbmRsZUNsdWJEZWxldGU9e3Byb3BzLmRlbGV0ZUNsdWJGcm9tQ2x1YnN9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgPGRpdiA+Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CiAgICBjb25zdCBpY29uID0gYXJyb3dEaXJlY3Rpb24KICA6CiAgICBudWxsCgogICAgY29uc3QgZGVsZXRlTW9kYWwgPSBhcnJvd0RpcmVjdGlvbiAhPT0gJ3JpZ2h0JwogICAgICA/IDogbnVsbAoK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PE1vZGFsCiAgICAgICAgc2l6ZT0nc21hbGwnCiAgICAgICAgdHJpZ2dlcj17PEljb24gbmFtZT0iZGVsZXRlIiBsaW5rIHN0eWxlPXt7ZmxvYXQ6ICdyaWdodCd9fS8+fQogICAgICAgIGhlYWRlcj17PEhlYWRlciBpY29uPSdkZWxldGUnIGNvbnRlbnQ9J0NvbmZpcm0gRGVsZXRlJy8+fQogICAgICAgIGNvbnRlbnQ9e2BEbyB5b3UgcmVhbGx5IHdhbnQgdG8gZGVsZXRlOiAke2NsdWIubmFtZX1gfQogICAgICAgIGFjdGlvbnM9e1t7CiAgICAgICAgICBrZXk6ICdubycsCiAgICAgICAgICBjb250ZW50OiAnQ2FuY2VsJywKICAgICAgICAgIHRyaWdnZXJDbG9zZTogdHJ1ZQogICAgICAgIH0sIHsKICAgICAgICAgIGtleTogJ3llcycsCiAgICAgICAgICBjb250ZW50OiAnRGVsZXRlJywKICAgICAgICAgIGNvbG9yOiAncmVkJywKICAgICAgICAgIHRyaWdnZXJDbG9zZTogdHJ1ZSwKICAgICAgICAgIG9uQ2xpY2s6IHRoaXMuaGFuZGxlQ2x1YkRlbGV0ZQogICAgICAgIH1dfQogICAgICAvPg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
