@@ -317,8 +317,8 @@
         <mark key="^" line="42" column="11" />
         <mark key="." line="42" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubSelection.js" timestamp="1507531862286">
-        <mark key="'" line="20" column="29" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubSelection.js" timestamp="1507539894200">
+        <mark key="'" line="30" column="20" />
         <mark key="[" line="72" column="59" />
         <mark key="]" line="72" column="59" />
         <mark key="." line="72" column="59" />
@@ -797,8 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupForm.js" />
-      <jump line="63" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupForm.js" />
       <jump line="73" column="28" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupForm.js" />
       <jump line="111" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupForm.js" />
       <jump line="14" column="33" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
@@ -897,6 +895,8 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubSelection.js" />
       <jump line="24" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubSelection.js" />
       <jump line="127" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" />
+      <jump line="12" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubSelection.js" />
+      <jump line="30" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubSelection.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
