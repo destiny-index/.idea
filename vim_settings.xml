@@ -494,12 +494,12 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1507626954474">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="433" column="2" />
-        <mark key="]" line="452" column="49" />
-        <mark key="." line="452" column="49" />
-        <mark key="^" line="452" column="49" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1507676884677">
+        <mark key="'" line="432" column="56" />
+        <mark key="[" line="435" column="0" />
+        <mark key="]" line="435" column="0" />
+        <mark key="." line="435" column="0" />
+        <mark key="^" line="434" column="31" />
         <mark key="o" line="432" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/authorization.test.js" timestamp="1507013218113">
@@ -915,7 +915,6 @@
       <jump line="56" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
       <jump line="3" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
       <jump line="26" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
-      <jump line="432" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="382" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="127" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="21" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
@@ -932,16 +931,17 @@
       <jump line="278" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="300" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
+      <jump line="432" column="56" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FieldId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC5tYXAoZmllbGQgPT4gewogICAgICBpZiAoZmllbGQuY2x1YnMuaW5jbHVkZXMoaWQpKSB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIC4uLmZpZWxkLAogICAgICAgICAgY2x1YnM6IGZpZWxkLmNsdWJzLmZpbHRlcihjbHViSWQgPT4gY2x1YklkICE9PSBpZCkKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIGZpZWxkCiAgICB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>FieldId</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>OPEN</text>
+        <text encoding="base64">XDxzdGF0ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>'CLOSE_GROUP'</text>
@@ -950,40 +950,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBieUlkOiB7Cg==</text>
+        <text encoding="base64">ICAgIC5tYXAoZmllbGQgPT4gewogICAgICBpZiAoZmllbGQuY2x1YnMuaW5jbHVkZXMoaWQpKSB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIC4uLmZpZWxkLAogICAgICAgICAgY2x1YnM6IGZpZWxkLmNsdWJzLmZpbHRlcihjbHViSWQgPT4gY2x1YklkICE9PSBpZCkKICAgICAgICB9CiAgICAgIH0KICAgICAgcmV0dXJuIGZpZWxkCiAgICB9KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBbXQo=</text>
+        <text encoding="base64">ICAgICAgZmllbGQuY2x1YnMgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBmaWVsZCA9IHN0YXRlW2ZpZWxkSWRdMWBgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaWVsZHMuZm9yRWFjaCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhdHVzID0gewogIE9QRU46ICdPUEVOJywKICBDTE9TRUQ6ICdDTE9TRUQnCn0KCg==</text>
+        <text encoding="base64">ICBjb25zdCB7aWR9ID0gYWN0aW9uLnBheWxvYWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gewogICAgLi4uc3RhdGUKICB9Cg==</text>
+        <text encoding="base64">ICBPYmplY3QuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGNsb3NlRmllbGQoc3RhdGUsIGFjdGlvbikK</text>
+        <text encoding="base64">ICBieUlkOiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRvZ2dsZUZpZWxkKHN0YXRlLCBhY3Rpb24pCg==</text>
+        <text encoding="base64">ICBjb25zdCBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>OPEN</last-search>
+      <last-search encoding="base64">XDxzdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>OPEN</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0ZVw+</last-pattern>
       <last-replace>'CLOSED'</last-replace>
       <last-substitute>'closed'</last-substitute>
       <last-dir>1</last-dir>
@@ -991,7 +991,6 @@
     </search>
     <history>
       <history-search>
-        <entry>:\ Action</entry>
         <entry>type</entry>
         <entry>mapStat</entry>
         <entry>mapSta</entry>
@@ -1011,6 +1010,7 @@
         <entry>'CLOS</entry>
         <entry>CLOSED</entry>
         <entry>OPEN</entry>
+        <entry encoding="base64">XDxzdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
