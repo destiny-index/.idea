@@ -910,7 +910,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>|</text>
+        <text>\v=\ ('\w+')</text>
       </register>
       <register name="0" type="4">
         <text>'DELETE_CLUB'</text>
@@ -950,17 +950,16 @@
       </register>
     </registers>
     <search>
-      <last-search>|</last-search>
+      <last-search>\v=\ ('\w+')</last-search>
       <last-offset />
-      <last-pattern>|</last-pattern>
+      <last-pattern>\v=\ ('\w+')</last-pattern>
       <last-replace>\n|</last-replace>
-      <last-substitute>|</last-substitute>
+      <last-substitute>\v=\ ('\w+')</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Fields</entry>
         <entry>Field</entry>
         <entry>clubs</entry>
         <entry>Clubs</entry>
@@ -980,9 +979,9 @@
         <entry>schedWDay</entry>
         <entry>exp</entry>
         <entry>|</entry>
+        <entry>\v=\ ('\w+')</entry>
       </history-search>
       <history-cmd>
-        <entry>2w</entry>
         <entry>sp</entry>
         <entry>reg</entry>
         <entry>spl</entry>
@@ -1002,6 +1001,7 @@
         <entry encoding="base64">JzwsJz5zL3wvXG58L2dj</entry>
         <entry>we</entry>
         <entry>w</entry>
+        <entry>%s/\v=\ ('\w+')/\:\ \1\ \= \1/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
