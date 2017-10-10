@@ -62,13 +62,6 @@
         <mark key="." line="10" column="56" />
         <mark key="^" line="10" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" timestamp="1507603988313">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="170" column="34" />
-        <mark key="]" line="170" column="36" />
-        <mark key="." line="170" column="36" />
-        <mark key="^" line="170" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/express.js" timestamp="1507159964066">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -236,11 +229,6 @@
         <mark key="[" line="5" column="44" />
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" timestamp="1507602890421">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" timestamp="1505968611386">
         <mark key="[" line="129" column="0" />
@@ -659,12 +647,6 @@
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubSelection.js" timestamp="1507596982466">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="129" column="70" />
-        <mark key="^" line="27" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/organization.test.js" timestamp="1506647453680">
         <mark key="[" line="95" column="42" />
