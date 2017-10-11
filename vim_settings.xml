@@ -114,12 +114,12 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" timestamp="1507681667074">
-        <mark key="'" line="46" column="78" />
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="64" column="4" />
-        <mark key="." line="64" column="4" />
-        <mark key="^" line="64" column="4" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" timestamp="1507683683371">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="45" column="46" />
+        <mark key="^" line="31" column="53" />
+        <mark key="." line="45" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/DirectoryFilter.java" timestamp="1505870799341">
         <mark key="[" line="11" column="12" />
@@ -472,12 +472,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/types/redux.js" timestamp="1507680789742">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/types/redux.js" timestamp="1507683460616">
         <mark key="'" line="3" column="79" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="6" column="23" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/build.gradle" timestamp="1505804902360">
         <mark key="[" line="3" column="14" />
@@ -840,13 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" />
-      <jump line="10" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubSelection.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubSelection.js" />
-      <jump line="5" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/types.js" />
-      <jump line="101" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubSelection.js" />
-      <jump line="165" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" />
-      <jump line="10" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/reducers.js" />
       <jump line="2" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/types/redux.js" />
       <jump line="95" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubSelection.js" />
       <jump line="27" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" />
@@ -938,18 +931,25 @@
       <jump line="71" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
       <jump line="2" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
       <jump line="72" column="79" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
-      <jump line="46" column="78" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
+      <jump line="4" column="43" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDogUmVkaXJlY3RVcmxTdGF0ZSA=</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogUmVkaXJlY3RVcmxTdGF0ZSA=</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>schedule</text>
+        <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0eXBlOiB0eXBlcy5ISURFX0xPR0lOX1NQSU5ORVIK</text>
@@ -958,40 +958,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQXV0aGVudGljYXRpb25TdGF0ZSA9IHsKICBsb2dpbkZvcm06IExvZ2luRm9ybVN0YXRlLAogIGFwaVRva2VuOiBBcGlUb2tlblN0YXRlLAogIHJlZGlyZWN0VXJsOiBSZWRpcmVjdFVybFN0YXRlCn0K</text>
+        <text encoding="base64">ICB8IHt8IHR5cGU6IHN0cmluZywgcGF5bG9hZD86IGFueSB8fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3JkZAo=</text>
+        <text encoding="base64">ICAvLyB8IHt8IHR5cGU6IHN0cmluZywgcGF5bG9hZD86IGFueSB8fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQXV0aGVudGljYXRpb25SZWR1Y2VyID0gKEF1dGhlbnRpY2F0aW9uU3RhdGUsIEFjdGlvbikgPT4gQXV0aGVudGljYXRpb25TdGF0ZQo=</text>
+        <text encoding="base64">Y29uc3QgY2xlYXJMb2dpbkZvcm1FcnJvciA9IChzdGF0ZSwgYWN0aW9uKSA9PiB7CiAgaWYgKHN0YXRlLmVycm9yKSB7CiAgICBjb25zdCB7ZXJyb3I6ICwgLi4ubmV4dFN0YXRlfSA9IHN0YXRlCiAgICByZXR1cm4gbmV4dFN0YXRlCiAgfQogIHJldHVybiBzdGF0ZQp9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0YXRlLmVycm9yKSB7CiAgICAgICAgY29uc3Qge2Vycm9yOiBpZ25vcmVkLCAuLi5uZXh0U3RhdGV9ID0gc3RhdGUKICAgICAgICByZXR1cm4gbmV4dFN0YXRlCiAgICAgIH0KICAgICAgcmV0dXJuIHN0YXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgQXV0aGVudGljYXRpb25TdGF0ZSA9IHsKICBsb2dpbkZvcm06IExvZ2luRm9ybSwKICBhcGlUb2tlbjogQXBpVG9rZW4sCiAgcmVkaXJlY3RVcmw6IFJlZGlyZWN0VXJsCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUkVDRUlWRV9UT0tFTiB9IGZyb20gJy4vdHlwZXMnCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgeyBEaXNwYXRjaCwgR2V0U3RhdGUgfSBmcm9tICcuLi8uLi90eXBlcy9yZWR1eCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0TG9naW5Gb3JtU3RhdGUgfSBmcm9tICcuL3JlZHVjZXJzJwppbXBvcnQgKiBhcyB0eXBlcyBmcm9tICcuL3R5cGVzJwo=</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgUmVkaXJlY3RVcmwgPSBzdHJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>schedule</last-search>
+      <last-search encoding="base64">XDw+XD4=</last-search>
       <last-offset />
-      <last-pattern>schedule</last-pattern>
+      <last-pattern encoding="base64">XDw+XD4=</last-pattern>
       <last-replace>'CLOSED'</last-replace>
       <last-substitute>'closed'</last-substitute>
       <last-dir>1</last-dir>
@@ -999,7 +999,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clubInf</entry>
         <entry>pay</entry>
         <entry>this</entry>
         <entry>class</entry>
@@ -1019,9 +1018,9 @@
         <entry>clubId</entry>
         <entry>HIGHLI</entry>
         <entry>schedule</entry>
+        <entry encoding="base64">XDw+XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\v=\ ('\w+')/\:\ \1\ \= \1/</entry>
         <entry>s/\w\= ('.+')/:</entry>
         <entry>%s/\v= ('.+')/:</entry>
         <entry>%s/\v= ('.+')/\:</entry>
@@ -1040,6 +1039,7 @@
         <entry>spl</entry>
         <entry>vsp</entry>
         <entry>bn</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
