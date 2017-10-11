@@ -74,11 +74,12 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" timestamp="1507687892455">
-        <mark key="'" line="95" column="58" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="78" column="28" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" timestamp="1507693267379">
+        <mark key="'" line="100" column="58" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="68" column="12" />
+        <mark key="." line="68" column="12" />
+        <mark key="^" line="68" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/fields/containers/FieldOptions.js" timestamp="1507165991189">
         <mark key="'" line="9" column="13" />
@@ -670,47 +671,47 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dHlwZW9mIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNhc2UgdHlwZXMuRURJVF9HUk9VUDoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZW9mIA==</text>
+        <text>GroupsByI</text>
       </register>
       <register name="/" type="4">
         <text>'closed'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNyZWF0ZUdyb3VwID0gKGdyb3VwOiBHcm91cCk6IENyZWF0ZUdyb3VwQWN0aW9uID0+ICh7CiAgdHlwZTogdHlwZXMuQ1JFQVRFX0dST1VQLAogIHBheWxvYWQ6IHsKICAgIGdyb3VwCiAgfQp9KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5ieUlkKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgdHlwZXMuRURJVF9HUk9VUDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRkCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5ieUlkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdyb3VwOiBHcm91cAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0ZS5hc2RmLnF3ZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0ZS5ieUlkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0ZS5hc2RmCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdyb3VwOiBHcm91cAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
