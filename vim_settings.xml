@@ -40,12 +40,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" timestamp="1507866219885">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" timestamp="1507866951627">
         <mark key="'" line="125" column="3" />
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="37" column="36" />
-        <mark key="." line="37" column="36" />
-        <mark key="^" line="37" column="36" />
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+        <mark key="^" line="37" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupForm.js" timestamp="1507849959720">
         <mark key="'" line="43" column="33" />
@@ -131,12 +131,12 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1507866189758">
-        <mark key="'" line="381" column="0" />
-        <mark key="[" line="537" column="1" />
-        <mark key="]" line="540" column="22" />
-        <mark key="." line="540" column="22" />
-        <mark key="^" line="540" column="22" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1507867895745">
+        <mark key="'" line="382" column="5" />
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="63" column="7" />
+        <mark key="." line="63" column="7" />
+        <mark key="^" line="63" column="7" />
         <mark key="o" line="431" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/crud.js" timestamp="1507075526315">
@@ -256,6 +256,7 @@
         <mark key="]" line="51" column="75" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.js" timestamp="1507867168624" />
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/reducers/showMenu.js" timestamp="1507159320911">
         <mark key="'" line="4" column="14" />
         <mark key="[" line="0" column="8" />
@@ -401,7 +402,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507855774927">
+      <file name="/Dummy.txt" timestamp="1507867655316">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/devicetype/DeviceTypeCategory.java" timestamp="1505888706452">
@@ -482,7 +483,6 @@
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/Field.css" timestamp="1507852160768" />
     </filemarks>
     <jumps>
-      <jump line="5" column="44" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
       <jump line="103" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
       <jump line="2" column="35" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
       <jump line="1" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/actions.js" />
@@ -582,78 +582,69 @@
       <jump line="14" column="24" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" />
       <jump line="118" column="3" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" />
+      <jump line="382" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L0hlYWRlcj4K</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>clockColor</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>toggleField</text>
+        <text>schedule</text>
       </register>
       <register name="0" type="4">
-        <text>{
-      id: 'GR01',
-      details: {
-        name: 'Grantham Reserve',
-        imageUrl: 'photos/Grantham Reserve.png',
-        summary: 'Baseballl, Tennis, Football, recreation',
-        description: 'Baseballl, Tennis, Football, recreation',
-        extra: 'no lights on recreation',
-        coordinates: {
-          lng: 150.928189,
-          lat: -33.788374
-        }
-      },
-      mapView: {
-        hover: false,
-        selected: false
-      },
-      fields: ['GR01_01', 'GR01_02', 'GR01_03']
-    }</text>
+        <text>schedules: {
+        'MON': {'ON': '17:00', 'OFF': '22:30'},
+        'TUE': {'ON': '17:00', 'OFF': '22:30'},
+        'WED': {'ON': '17:00', 'OFF': '22:30'},
+        'THU': {'ON': '17:00', 'OFF': '22:30'},
+        'FRI': {'ON': '17:00', 'OFF': '22:30'},
+        'SAT': {'ON': '17:00', 'OFF': '22:30'},
+        'SUN': {'ON': '00:00', 'OFF': '00:00'}
+      },</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L0hlYWRlcj4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgfCAnTU9OJwogIHwgJ1RVRScKICB8ICdXRUQnCiAgfCAnVEhVJwogIHwgJ0ZSSScKICB8ICdTQVQnCiAgfCAnU1VOJw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8SGVhZGVyIGFzPSdoMic+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0hlYWRlcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBjbG9ja0NvbG9yID0KCg==</text>
+        <text encoding="base64">ICAgICAgICA8SGVhZGVyIGFzPSdoMic+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgb3BlbiB9ID0gdGhpcy5zdGF0ZQo=</text>
+        <text encoding="base64">ICAgIGxldCBjbG9ja0NvbG9yID0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmV4cG9ydCB0eXBlIE9wZW5TY2hlZHVsZUZvcm1BY3Rpb24gPSB7CiAgdHlwZQp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgb3BlbiB9ID0gdGhpcy5zdGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDogPExhYmVsIHBvaW50aW5nPSdyaWdodCc+RklFTEQgQ1VSUkVOVExZIENMT1NFRDwvTGFiZWw+Cg==</text>
+        <text encoding="base64">CmV4cG9ydCB0eXBlIE9wZW5TY2hlZHVsZUZvcm1BY3Rpb24gPSB7CiAgdHlwZQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAodGhpcy5wcm9wcy5maWVsZC5zdGF0dXMgPT09ICdvcGVuJykK</text>
+        <text encoding="base64">ICAgIDogPExhYmVsIHBvaW50aW5nPSdyaWdodCc+RklFTEQgQ1VSUkVOVExZIENMT1NFRDwvTGFiZWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAodGhpcy5wcm9wcy5maWVsZC5zdGF0dXMgPT09ICdvcGVuJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>toggleField</last-search>
+      <last-search>schedule</last-search>
       <last-offset />
-      <last-pattern>toggleField</last-pattern>
-      <last-replace>lightingInfo</last-replace>
-      <last-substitute>facility</last-substitute>
+      <last-pattern>schedule</last-pattern>
+      <last-replace>schedules</last-replace>
+      <last-substitute>schedule</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -669,7 +660,6 @@
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry>clubId</entry>
         <entry>HIGHLI</entry>
-        <entry>schedule</entry>
         <entry encoding="base64">XDw+XD4=</entry>
         <entry>'closed'</entry>
         <entry>dispatch</entry>
@@ -679,9 +669,9 @@
         <entry>facility</entry>
         <entry>state</entry>
         <entry>toggleField</entry>
+        <entry>schedule</entry>
       </history-search>
       <history-cmd>
-        <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz5zLydvcGVuJy8nT1BFTicv</entry>
         <entry encoding="base64">JzwsJz5zLydjbG9zZWQnLydDTE9TRUQnLw==</entry>
         <entry>'OPE</entry>
@@ -700,6 +690,7 @@
         <entry>spl</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2xpZ2h0c0N0cmwvbGlnaHRpbmdJbmZvLw==</entry>
+        <entry encoding="base64">JzwsJz5zL3NjaGVkdWxlL3NjaGVkdWxlcw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
