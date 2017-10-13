@@ -311,12 +311,12 @@
         <mark key="." line="89" column="38" />
         <mark key="^" line="111" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/reducers.js" timestamp="1507874639253">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/reducers.js" timestamp="1507877855703">
         <mark key="'" line="304" column="3" />
-        <mark key="[" line="304" column="18" />
-        <mark key="]" line="304" column="24" />
-        <mark key="." line="304" column="24" />
-        <mark key="^" line="304" column="24" />
+        <mark key="[" line="304" column="25" />
+        <mark key="]" line="304" column="21" />
+        <mark key="." line="304" column="21" />
+        <mark key="^" line="304" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/fields/actions.js" timestamp="1507165992190">
         <mark key="'" line="61" column="13" />
@@ -606,10 +606,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tail</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>tail</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>filt</text>
