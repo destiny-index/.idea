@@ -168,8 +168,8 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" timestamp="1508204557614">
-        <mark key="'" line="23" column="46" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" timestamp="1508296031442">
+        <mark key="'" line="63" column="53" />
         <mark key="[" line="24" column="57" />
         <mark key="]" line="24" column="61" />
         <mark key="^" line="24" column="61" />
@@ -625,7 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/types.js" />
       <jump line="19" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="387" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
@@ -725,6 +724,7 @@
       <jump line="343" column="61" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="25" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
       <jump line="24" column="24" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/types.js" />
+      <jump line="63" column="53" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
