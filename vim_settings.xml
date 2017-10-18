@@ -12,10 +12,12 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" timestamp="1508306928736">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" timestamp="1508367707879">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="199" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/index.js" timestamp="1507166246495">
         <mark key="'" line="0" column="11" />
@@ -81,11 +83,6 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/authorization.js" timestamp="1508204657673">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" timestamp="1508283139109">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -99,12 +96,11 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" timestamp="1508367354065">
-        <mark key="'" line="117" column="27" />
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="25" column="20" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" timestamp="1508368325615">
+        <mark key="'" line="124" column="19" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/fields/containers/FieldOptions.js" timestamp="1507165991189">
         <mark key="'" line="9" column="13" />
@@ -310,12 +306,12 @@
         <mark key="." line="78" column="30" />
         <mark key="^" line="78" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/types.js" timestamp="1508303963387">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/types.js" timestamp="1508367565960">
         <mark key="'" line="9" column="21" />
-        <mark key="[" line="10" column="70" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="11" column="54" />
-        <mark key="^" line="11" column="54" />
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="13" column="66" />
+        <mark key="." line="13" column="66" />
+        <mark key="^" line="13" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/googleMaps/containers/Map.js" timestamp="1507166022651">
         <mark key="'" line="9" column="10" />
@@ -324,10 +320,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/types.js" timestamp="1508291567825">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="/fragment.js" timestamp="1508367995865">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" timestamp="1508132704606">
         <mark key="'" line="107" column="19" />
@@ -459,11 +453,6 @@
         <mark key="]" line="16" column="74" />
         <mark key="." line="16" column="74" />
         <mark key="^" line="16" column="74" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/config.js" timestamp="1508199124869">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupsAccordion.js" timestamp="1508118242631">
         <mark key="[" line="53" column="1" />
@@ -650,10 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/actions.js" />
-      <jump line="136" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsModal.js" />
-      <jump line="284" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
-      <jump line="1" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/types.js" />
       <jump line="281" column="28" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="6" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="247" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
@@ -750,52 +735,56 @@
       <jump line="320" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
       <jump line="27" column="17" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/components/GroupsAccordion.js" />
       <jump line="6" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/components/GroupPanelTitle.js" />
+      <jump line="163" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
+      <jump line="167" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
+      <jump line="125" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNhc2UgdHlwZXMuTE9BRF9HUk9VUDogewogICAgICBjb25zdCB7Z3JvdXB9ID0gYWN0aW9uLnBheWxvYWQKICAgICAgcmV0dXJuIGtrawogICAgfQo=</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>comp</text>
       </register>
-      <register name="0" type="4">
-        <text>getNameOfFacilityContainingField(props.facilities, id)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNhc2UgdHlwZXMuQUNUSVZBVEVfR1JPVVBfUEFORUw6IHsKICAgICAgY29uc3Qge2lkfSA9IGFjdGlvbi5wYXlsb2FkCiAgICAgIHJldHVybiB7CiAgICAgICAgLi4uc3RhdGUsCiAgICAgICAgW2lkXTogewogICAgICAgICAgLi4uc3RhdGVbaWRdLAogICAgICAgICAgYWN0aXZlOiB0cnVlCiAgICAgICAgfQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtHcm91cElkXTogewogICAgICBhY3RpdmU6IGZhbHNlCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgdHlwZXMuTE9BRF9HUk9VUDogewogICAgICBjb25zdCB7Z3JvdXB9ID0gYWN0aW9uLnBheWxvYWQKICAgICAgcmV0dXJuIGtrawogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpZWxkID0gZ2V0RmllbGQodGhpcy5wcm9wcy5maWVsZHMsIHRoaXMucHJvcHMuZmllbGRJZCkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmaWVsZD86IEZpZWxkLAo=</text>
+        <text encoding="base64">ICAgICAgcmVkdWNlQnlJZChncm91cC5pZCwgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmaWVsZHM6IEZpZWxkc1N0YXRlLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaWVsZHM6IHN0YXRlLmZpZWxkcwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvYWRGaWVsZEFzeW5jPXt9Cg==</text>
+        <text encoding="base64">Y29uc3QgYWN0aXZhdGVHcm91cFBhbmVsID0gKHN0YXRlLCBhY3Rpb24pID0+IHsKICAKfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldEZpZWxkKHRoaXMucHJvcHMuZmllbGRzLCB0aGlzLnByb3BzLmZpZWxkSWQpICYmCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZ3JvdXBVaSA9IHN0YXRlW2lkXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -842,17 +831,17 @@
         <entry encoding="base64">JzwsJz5zL3NjaGVkdWxlL3NjaGVkdWxlcw==</entry>
         <entry>qw</entry>
         <entry>%s/      mainContact: '',       contactPhone: '' //gc</entry>
-        <entry>W</entry>
         <entry>Lw</entry>
         <entry>vspl</entry>
         <entry>spl</entry>
         <entry>&quot;w</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL2FjdGlvblwucGF5bG9hZC9wYXlsb2FkL2dj</entry>
-        <entry>reg</entry>
         <entry>e</entry>
         <entry>wq</entry>
         <entry>we</entry>
+        <entry>reg</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
