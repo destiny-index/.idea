@@ -224,12 +224,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" timestamp="1508284445156">
-        <mark key="'" line="104" column="15" />
-        <mark key="[" line="98" column="1" />
-        <mark key="]" line="98" column="1" />
-        <mark key="." line="98" column="1" />
-        <mark key="^" line="98" column="1" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" timestamp="1508288723705">
+        <mark key="'" line="101" column="15" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" timestamp="1508216539828">
         <mark key="'" line="114" column="11" />
@@ -372,13 +372,12 @@
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1508284544099">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1508288521856">
         <mark key="'" line="284" column="43" />
-        <mark key="[" line="299" column="7" />
-        <mark key="]" line="97" column="16" />
-        <mark key="." line="97" column="16" />
-        <mark key="^" line="97" column="16" />
-        <mark key="o" line="496" column="6" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="." line="300" column="0" />
+        <mark key="o" line="495" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/crud.js" timestamp="1507075526315">
         <mark key="'" line="59" column="0" />
@@ -714,14 +713,14 @@
       <jump line="104" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZUZvcm06IGZhbHNlCg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>action\.payload</text>
@@ -733,31 +732,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZUZvcm06IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzdGF0aWMgZGVmYXVsdFByb3BzID0gewogICAgY2x1YjogewogICAgICBpZDogJycsCiAgICAgIG5hbWU6ICcnLAogICAgICBhYmJyZXZpYXRpb246ICcnLAogICAgICBwaW46ICcnLAogICAgICBjb250YWN0TmFtZTogJycsCiAgICAgIGNvbnRhY3RQaG9uZTogJycKICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB8IE9wZW5DbHViQ3JlYXRpb25Gb3JtQWN0aW9uCiAgfCBDbG9zZUNsdWJDcmVhdGlvbkZvcm1BY3Rpb24KICB8IEVkaXRDbHViQ3JlYXRpb25Gb3JtQWN0aW9uCg==</text>
+        <text encoding="base64">ICBjbHViOiBDbHViLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCgoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzdGF0ZSA9IENsdWJDcmVhdGlvbkZvcm0uZGVmYXVsdFByb3BzCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CmV4cG9ydCB0eXBlIE9wZW5DbHViQ3JlYXRpb25Gb3JtQWN0aW9uID0gewogIHR5cGU6IHR5cGVvZiBPUEVOX0NMVUJfQ1JFQVRJT05fRk9STQp9CmV4cG9ydCBjb25zdCBvcGVuQ2x1YkNyZWF0aW9uRm9ybSA9ICgpOiBPcGVuQ2x1YkNyZWF0aW9uRm9ybUFjdGlvbiA9PiAoewogIHR5cGU6IE9QRU5fQ0xVQl9DUkVBVElPTl9GT1JNCn0pCmV4cG9ydCB0eXBlIENsb3NlQ2x1YkNyZWF0aW9uRm9ybUFjdGlvbiA9IHsKICB0eXBlOiB0eXBlb2YgQ0xPU0VfQ0xVQl9DUkVBVElPTl9GT1JNCn0KZXhwb3J0IGNvbnN0IGNsb3NlQ2x1YkNyZWF0aW9uRm9ybSA9ICgpOiBDbG9zZUNsdWJDcmVhdGlvbkZvcm1BY3Rpb24gPT4gKHsKICB0eXBlOiBDTE9TRV9DTFVCX0NSRUFUSU9OX0ZPUk0KfSkKZXhwb3J0IHR5cGUgRWRpdENsdWJDcmVhdGlvbkZvcm1BY3Rpb24gPSB7CiAgdHlwZTogdHlwZW9mIEVESVRfQ0xVQl9DUkVBVElPTl9GT1JNLAogIHBheWxvYWQ6IHsKICAgIFtuYW1lOiAkS2V5czxDbHViPl06IHN0cmluZwogIH0KfQpleHBvcnQgY29uc3QgZWRpdENsdWJDcmVhdGlvbkZvcm0gPSAoCiAgbmFtZTogJEtleXM8Q2x1Yj4sCiAgdmFsdWU6IHN0cmluZwopOiBFZGl0Q2x1YkNyZWF0aW9uRm9ybUFjdGlvbiA9PiAoewogIHR5cGU6IEVESVRfQ0xVQl9DUkVBVElPTl9GT1JNLAogIHBheWxvYWQ6IHtbbmFtZV06IHZhbHVlfQp9KQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IE9QRU5fQ0xVQl9DUkVBVElPTl9GT1JNOiAnT1BFTl9DTFVCX0NSRUFUSU9OX0ZPUk0nID0gJ09QRU5fQ0xVQl9DUkVBVElPTl9GT1JNJwpleHBvcnQgY29uc3QgQ0xPU0VfQ0xVQl9DUkVBVElPTl9GT1JNOiAnQ0xPU0VfQ0xVQl9DUkVBVElPTl9GT1JNJyA9ICdDTE9TRV9DTFVCX0NSRUFUSU9OX0ZPUk0nCmV4cG9ydCBjb25zdCBFRElUX0NMVUJfQ1JFQVRJT05fRk9STTogJ0VESVRfQ0xVQl9DUkVBVElPTl9GT1JNJyA9ICdFRElUX0NMVUJfQ1JFQVRJT05fRk9STScK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZUZvcm06IGZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4ge30K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQ3JlYXRpb25Gb3JtID0gewogIG9wZW46IGJvb2xlYW4sCiAgY2x1YjogQ2x1Ygp9Cgo=</text>
+        <text encoding="base64">ICB8IE9wZW5DbHViQ3JlYXRpb25Gb3JtQWN0aW9uCiAgfCBDbG9zZUNsdWJDcmVhdGlvbkZvcm1BY3Rpb24KICB8IEVkaXRDbHViQ3JlYXRpb25Gb3JtQWN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
