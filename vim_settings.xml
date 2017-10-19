@@ -43,7 +43,8 @@
       <file name="/a.dummy" timestamp="1508376378195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" timestamp="1508206896648">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" timestamp="1508382676337">
+        <mark key="'" line="2" column="20" />
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="35" />
         <mark key="^" line="7" column="35" />
@@ -671,10 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
-      <jump line="28" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/components/GroupsAccordion.js" />
-      <jump line="65" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/components/GroupsAccordion.js" />
-      <jump line="91" column="54" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
       <jump line="145" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
       <jump line="83" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
       <jump line="181" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
@@ -771,6 +768,10 @@
       <jump line="36" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/actions.js" />
       <jump line="154" column="47" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/reducers.js" />
       <jump line="1" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/reducers.js" />
+      <jump line="3" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" />
+      <jump line="7" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" />
+      <jump line="42" column="74" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -783,7 +784,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVTZWFyY2hSZXN1bHRTZWxlY3RcPg==</text>
+        <text encoding="base64">XDxtb2RlbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gc3RhdGUKICB9Cg==</text>
@@ -823,9 +824,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVTZWFyY2hSZXN1bHRTZWxlY3RcPg==</last-search>
+      <last-search encoding="base64">XDxtb2RlbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVTZWFyY2hSZXN1bHRTZWxlY3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RlbFw+</last-pattern>
       <last-replace>payload</last-replace>
       <last-substitute>action\.payload</last-substitute>
       <last-dir>1</last-dir>
@@ -833,7 +834,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'closed'</entry>
         <entry>dispatch</entry>
         <entry>class Groups</entry>
         <entry>lightsCtrl</entry>
@@ -853,6 +853,7 @@
         <entry encoding="base64">XDxjaGFuZ2VHb29nbGVNYXBWaWV3XD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVNYXBWaWV3Q2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVTZWFyY2hSZXN1bHRTZWxlY3RcPg==</entry>
+        <entry encoding="base64">XDxtb2RlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
