@@ -107,6 +107,13 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="48" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/express.js" timestamp="1508478465203">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/types.js" timestamp="1508204039320">
         <mark key="[" line="1" column="69" />
         <mark key="]" line="1" column="69" />
@@ -118,6 +125,13 @@
         <mark key="]" line="1" column="43" />
         <mark key="^" line="1" column="89" />
         <mark key="." line="1" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/index.js" timestamp="1508478689697">
+        <mark key="'" line="2" column="8" />
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCard.js" timestamp="1507531831983">
         <mark key="'" line="25" column="37" />
@@ -754,8 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/actions.js" />
-      <jump line="46" column="1" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/actions.js" />
       <jump line="1" column="36" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/actions.js" />
       <jump line="32" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="125" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
@@ -854,16 +866,18 @@
       <jump line="119" column="28" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="117" column="28" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="58" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/reducers.js" />
+      <jump line="2" column="8" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/index.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/express.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGh0dHAgZnJvbSAnaHR0cCcKaW1wb3J0IGh0dHBzIGZyb20gJ2h0dHBzJwoK</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>mainMe</text>
@@ -875,31 +889,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycikK</text>
+        <text encoding="base64">aW1wb3J0IGh0dHAgZnJvbSAnaHR0cCcKaW1wb3J0IGh0dHBzIGZyb20gJ2h0dHBzJwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaWxsdW1pbmF0b3IubWFjKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgTG9hZEZhY2lsaXRpZXNBY3Rpb24gPSB7CiAgdHlwZTogdHlwZW9mIExPQURfRkFDSUxJVElFUywKICBwYXlsb2FkOiB7CiAgICBmYWNpbGl0aWVzOiBBcnJheTxGYWNpbGl0eT4KICB9Cn0KCg==</text>
+        <text encoding="base64">Y29uc3QgaHR0cFNlcnZlci5saXN0ZW4obGlzdGVuKTsKY29uc3QgaHR0cHNTZXJ2ZXIubGlzdGVuKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
+        <text encoding="base64">YXBwLnVzZSgnLycsIGV4cHJlc3Muc3RhdGljKCdkaXN0L2NsaWVudCcpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBQcm9wcyA9IHsKICBtYWluTWVudTogTWFpbk1lbnVTdGF0ZSwKICB0b2dnbGVNYWluTWVudTogKCkgPT4gdm9pZCwKICBsb2dvdXQ6ICgpID0+IHZvaWQsCn0KCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBQcm9wcyA9IHsKICBtYWluTWVudTogTWFpbk1lbnVTdGF0ZSwKICB0b2dnbGVNYWluTWVudTogKCkgPT4gdm9pZCwKICBsb2dvdXQ6ICgpID0+IHZvaWQsCn0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaWxsdW1pbmF0b3IubWFjKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SG9tZVBhZ2UucHJvcFR5cGVzID0gewogIG1haW5NZW51OiBQcm9wVHlwZXMuYm9vbC5pc1JlcXVpcmVkLAogIHRvZ2dsZU1haW5NZW51OiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogIGxvZ291dDogUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZAp9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgTG9hZEZhY2lsaXRpZXNBY3Rpb24gPSB7CiAgdHlwZTogdHlwZW9mIExPQURfRkFDSUxJVElFUywKICBwYXlsb2FkOiB7CiAgICBmYWNpbGl0aWVzOiBBcnJheTxGYWNpbGl0eT4KICB9Cn0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBQcm9wcyA9IHsKICBtYWluTWVudTogTWFpbk1lbnVTdGF0ZSwKICB0b2dnbGVNYWluTWVudTogKCkgPT4gdm9pZCwKICBsb2dvdXQ6ICgpID0+IHZvaWQsCn0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
