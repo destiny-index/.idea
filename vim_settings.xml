@@ -282,12 +282,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" timestamp="1508740725132">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" timestamp="1508741833912">
         <mark key="'" line="55" column="75" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="4" column="44" />
-        <mark key="." line="8" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/WebpageProcessor.java" timestamp="1505778882107">
         <mark key="'" line="25" column="11" />
@@ -773,49 +772,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBMYWJlbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6ICcxZW0nfX0K</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>moment().startOf('day').minute(daily.start)</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFRhYmxlLkNlbGwga2V5PXtkYWlseS5kYXl9PgogICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbW9tZW50KCkuc3RhcnRPZignZGF5JykubWludXRlKGRhaWx5LnN0YXJ0KS5mb3JtYXQoJ2hoOm1tIGEnKQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgIDwvVGFibGUuQ2VsbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6ICcxZW0nfX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBMYWJlbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6ICcxZW0nfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBEaXZpZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6ICcxZW0nfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBHcmlkLAo=</text>
+        <text encoding="base64">ICBJbnB1dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRhdGVGb3JtYXQ9e2ZhbHNlfQogICAgICAgICAgICAgICAgICAgICAgdGltZUZvcm1hdD17J0xUJ30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLnByb3BzLn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZm9ybWF0KCdMVCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SW5wdXQgdmFsdWU9e21vbWVudCgpLnN0YXJ0T2YoJ2RheScpLm1pbnV0ZShkYWlseS5lbmQpLmZvcm1hdCgnaGg6bW0gYScpfSAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFRhYmxlLkNlbGwga2V5PXtkYWlseS5kYXl9PntkYWlseS5lbmR9PC9UYWJsZS5DZWxsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0lucHV0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHttb21lbnQoKS5zdGFydE9mKCdkYXknKS5taW51dGUoZGFpbHkuZW5kKS5mb3JtYXQoJ2hoOm1tIGEnKX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnJlbmRlck9wZW5DbG9zZWRCdXR0b24oKX0K</text>
+        <text encoding="base64">ICBMYWJlbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJPcGVuQ2xvc2VkQnV0dG9uKCl9Cg==</text>
+        <text encoding="base64">ICBEaXZpZGVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
