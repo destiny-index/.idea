@@ -743,11 +743,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" timestamp="1509322616046">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="32" />
-        <mark key="." line="10" column="33" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" timestamp="1509324386091">
+        <mark key="'" line="6" column="27" />
+        <mark key="[" line="14" column="49" />
+        <mark key="]" line="14" column="52" />
+        <mark key="." line="14" column="52" />
+        <mark key="^" line="14" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareVersion.java" timestamp="1505957582219">
         <mark key="'" line="7" column="4" />
@@ -805,11 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
-      <jump line="82" column="29" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
-      <jump line="82" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
-      <jump line="231" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
       <jump line="10" column="42" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
       <jump line="42" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
       <jump line="30" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
@@ -905,16 +901,21 @@
       <jump line="200" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="72" column="44" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
       <jump line="71" column="70" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
+      <jump line="13" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" />
+      <jump line="21" column="32" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" />
+      <jump line="6" column="27" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" />
+      <jump line="7" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcj0id2hpdGUiCg==</text>
+      <register name="&quot;" type="4">
+        <text>pathname</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>pathname</text>
       </register>
       <register name="/" type="4">
         <text>ownProps.field.</text>
@@ -926,31 +927,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcj0id2hpdGUiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZlcnRlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZlcnRlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBzdHlsZT17e2hlaWdodDogJzEwZW0nfX0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IE9yZ2FuaXphdGlvblByb2ZpbGUgZnJvbSAnLi9vcmdhbml6YXRpb25zL2NvbXBvbmVudHMvT3JnYW5pemF0aW9uUHJvZmlsZScK</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcj0id2hpdGUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxQcml2YXRlUm91dGUgcGF0aD0nL29yZ2FuaXphdGlvbicgY29tcG9uZW50PXtPcmdhbml6YXRpb25Qcm9maWxlfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBpbnZlcnRlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8UHJpdmF0ZVJvdXRlIHBhdGg9Ii8iIGNvbXBvbmVudD17TWFwfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnZlcnRlZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8TWFwIC8+Cg==</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE9yZ2FuaXphdGlvblByb2ZpbGUgZnJvbSAnLi9vcmdhbml6YXRpb25zL2NvbXBvbmVudHMvT3JnYW5pemF0aW9uUHJvZmlsZScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -989,7 +990,6 @@
         <entry>ownProps.field.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/props/this.props</entry>
         <entry>%s/props/this.props/</entry>
         <entry>%s/props/this.props/gc</entry>
         <entry>&quot;w</entry>
@@ -1008,6 +1008,7 @@
         <entry>clo</entry>
         <entry>qw</entry>
         <entry>W</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
