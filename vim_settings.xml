@@ -288,12 +288,12 @@
         <mark key="^" line="34" column="60" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" timestamp="1508291462224">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" timestamp="1509506001652">
         <mark key="'" line="119" column="10" />
-        <mark key="[" line="67" column="48" />
-        <mark key="]" line="68" column="41" />
-        <mark key="." line="68" column="41" />
-        <mark key="^" line="68" column="41" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="26" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/OrganizationProfile.js" timestamp="1509429784093">
         <mark key="'" line="50" column="47" />
@@ -824,14 +824,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>}, {</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>LOAD</text>
@@ -870,7 +870,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vspl</text>
       </register>
     </registers>
     <search>
@@ -913,10 +913,8 @@
         <entry>:w</entry>
         <entry>bp</entry>
         <entry>bn</entry>
-        <entry>vspl</entry>
         <entry encoding="base64">JzwsJz5zL09wZW4vQ2xvc2U=</entry>
         <entry encoding="base64">JzwsJz5zL09QRU4vQ0xPU0U=</entry>
-        <entry>only</entry>
         <entry>&quot;w</entry>
         <entry>wq</entry>
         <entry>q</entry>
@@ -926,6 +924,8 @@
         <entry>spl</entry>
         <entry>qw</entry>
         <entry>w</entry>
+        <entry>only</entry>
+        <entry>vspl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
