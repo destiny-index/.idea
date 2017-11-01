@@ -99,12 +99,12 @@
         <mark key="^" line="119" column="43" />
         <mark key="." line="119" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" timestamp="1509519300269">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" timestamp="1509577724410">
         <mark key="'" line="41" column="13" />
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="30" />
-        <mark key="^" line="42" column="13" />
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="146" column="6" />
+        <mark key="." line="146" column="6" />
+        <mark key="^" line="146" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/express.js" timestamp="1508478465203">
         <mark key="'" line="15" column="4" />
@@ -725,11 +725,11 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js" timestamp="1509508551429">
         <mark key="'" line="2261" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditForm.js" timestamp="1509513280484">
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-        <mark key="^" line="19" column="13" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditForm.js" timestamp="1509577804850">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/FATImageBuilder.java" timestamp="1505397648659">
         <mark key="'" line="3" column="0" />
@@ -857,13 +857,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>add</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -875,33 +875,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbHViOiBnZXRDbHViRnJvbUNyZWF0ZUZvcm0oc3RhdGUuZmllbGRzLCBvd25Qcm9wcy5maWVsZC5pZCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQ2x1YkFzeW5jIH0gZnJvbSAnLi4vYWN0aW9ucycKaW1wb3J0IHsKICBjbG9zZUNsdWJDcmVhdGlvbkZvcm0sCiAgZWRpdENsdWJDcmVhdGlvbkZvcm0sCiAgb3BlbkNsdWJDcmVhdGlvbkZvcm0KfSBmcm9tICcuLi8uLi9maWVsZHMvYWN0aW9ucycKaW1wb3J0IHsKICBnZXRDbHViRnJvbUNyZWF0ZUZvcm0sCiAgaXNDbHViQ3JlYXRlRm9ybU9wZW4KfSBmcm9tICcuLi8uLi9maWVsZHMvcmVkdWNlcnMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZWRpdENsdWJVaTogUmVkdWNlcjxDbHViLCBFZGl0Q2x1YlVpQWN0aW9uPiA9IChzdGF0ZSA9IGluaXRpYWxDbHViLCBhY3Rpb24pID0+IHsKICBjb25zdCB7aWQ6IGlnbm9yZWQsIC4uLmVkaXR9ID0gYWN0aW9uLnBheWxvYWQKICByZXR1cm4gewogICAgLi4uc3RhdGUsCiAgICAuLi5lZGl0CiAgfQp9Cgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHJlZHVjZUJ5SWQoYWN0aW9uLnBheWxvYWQuaWQsIGFjdGlvbiwgZWRpdENsdWJVaSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgZWRpdENsdWJVaTogUmVkdWNlcjxDbHViLCBFZGl0Q2x1YlVpQWN0aW9uPiA9IChzdGF0ZSA9IGluaXRpYWxDbHViLCBhY3Rpb24pID0+IHsKICBjb25zdCB7aWQ6IGlnbm9yZWQsIC4uLmVkaXR9ID0gYWN0aW9uLnBheWxvYWQKICByZXR1cm4gewogICAgLi4uc3RhdGUsCiAgICAuLi5lZGl0CiAgfQp9Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHJlZHVjZUJ5SWQoYWN0aW9uLnBheWxvYWQuaWQsIGFjdGlvbiwgZWRpdENsdWJVaSkK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IEVESVRfQ0xVQl9VSTogJ0VESVRfQ0xVQl9VSScgPSAnRURJVF9DTFVCX1VJJwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
     id: ClubId
   }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgQ2x1YnNVaSA9IHsKICBbQ2x1YklkXTogQ2x1Ygp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
