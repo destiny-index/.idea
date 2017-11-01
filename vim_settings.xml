@@ -20,11 +20,12 @@
         <mark key="." line="67" column="4" />
         <mark key="^" line="67" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" timestamp="1509498826758">
-        <mark key="'" line="210" column="23" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="0" />
-        <mark key="." line="210" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" timestamp="1509500590018">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="248" column="19" />
+        <mark key="]" line="249" column="22" />
+        <mark key="." line="249" column="22" />
+        <mark key="^" line="249" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/index.js" timestamp="1507166246495">
         <mark key="'" line="0" column="11" />
@@ -134,12 +135,12 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" timestamp="1509498498000">
-        <mark key="'" line="143" column="34" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="108" column="55" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" timestamp="1509500491094">
+        <mark key="'" line="86" column="21" />
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/fields/containers/FieldOptions.js" timestamp="1507165991189">
         <mark key="'" line="9" column="13" />
@@ -721,9 +722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="30" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" />
-      <jump line="34" column="29" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" />
-      <jump line="26" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" />
       <jump line="61" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" />
       <jump line="56" column="4" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" />
       <jump line="7" column="24" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/components/OrganizationProfile.js" />
@@ -821,10 +819,13 @@
       <jump line="24" column="29" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/actions.js" />
       <jump line="112" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" />
       <jump line="51" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" />
+      <jump line="85" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" />
+      <jump line="196" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}, {</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
@@ -833,7 +834,7 @@
         <text>}, {</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aGlzXD4=</text>
+        <text>LOAD</text>
       </register>
       <register name="0" type="4">
         <text>LOAD_ALL_GROUPS</text>
@@ -842,28 +843,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChncm91cHM6IGFueSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIChncm91cHM6IEFycmF5PEdyb3VwPikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGdyb3Vwcy5mb3JFYWNoKGdyb3VwID0+IHsKICAgIH0pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2gobG9hZEFsbEdyb3Vwcyhncm91cCkpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y29uc3QgYWxsSWRzUmVkdWNlcjogUmVkdWNlcjxHcm91cElkcywgQWN0aW9uPiA9ICgKICBzdGF0ZSA9IGluaXRpYWwuYWxsSWRzLAogIGFjdGlvbgopID0+IHsKICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7CiAgICBjYXNlIHR5cGVzLkNSRUFURV9HUk9VUDoKICAgIGNhc2UgdHlwZXMuTE9BRF9HUk9VUDoKICAgICAgaWYgKHN0YXRlLmluY2x1ZGVzKGFjdGlvbi5wYXlsb2FkLmdyb3VwLmlkKSkgewogICAgICAgIHJldHVybiBzdGF0ZQogICAgICB9CiAgICAgIHJldHVybiBbLi4uc3RhdGUsIGFjdGlvbi5wYXlsb2FkLmdyb3VwLmlkXQogICAgCiAgICBjYXNlIHR5cGVzLkRFTEVURV9HUk9VUDogewogICAgICBjb25zdCB7cGF5bG9hZH0gPSBhY3Rpb24KICAgICAgcmV0dXJuIHN0YXRlLmZpbHRlcihpZCA9PiBpZCAhPT0gcGF5bG9hZC5pZCkKICAgIH0KICAgIGRlZmF1bHQ6CiAgICAgIHJldHVybiBzdGF0ZQogIH0KfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTE9BRF9BTExfR1JPVVBTIH0gZnJvbSAnLi90eXBlcycK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIChncm91cHM6IGFueSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIChncm91cHM6IEFycmF5PEdyb3VwPikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGdyb3Vwcy5mb3JFYWNoKGdyb3VwID0+IHsKICAgIH0pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2gobG9hZEFsbEdyb3Vwcyhncm91cCkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -873,17 +874,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aGlzXD4=</last-search>
+      <last-search>LOAD</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aGlzXD4=</last-pattern>
+      <last-pattern>LOAD</last-pattern>
       <last-replace>CLOSE</last-replace>
       <last-substitute>name</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>editGroup</entry>
         <entry>\{props</entry>
         <entry>props</entry>
         <entry>ope</entry>
@@ -903,6 +903,7 @@
         <entry>name</entry>
         <entry>link</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry>LOAD</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL293blByb3BzLmZpZWxkLi8vZ2M=</entry>
