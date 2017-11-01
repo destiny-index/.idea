@@ -260,12 +260,12 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" timestamp="1508809878945">
-        <mark key="'" line="123" column="32" />
-        <mark key="[" line="142" column="33" />
-        <mark key="]" line="142" column="41" />
-        <mark key="." line="142" column="41" />
-        <mark key="^" line="142" column="41" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" timestamp="1509511246321">
+        <mark key="'" line="348" column="12" />
+        <mark key="[" line="351" column="15" />
+        <mark key="]" line="351" column="15" />
+        <mark key="." line="351" column="15" />
+        <mark key="^" line="351" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/components/GoogleMap.js" timestamp="1508375708848">
         <mark key="'" line="6" column="6" />
@@ -291,12 +291,12 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js" timestamp="1509342506342">
         <mark key="'" line="2181" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" timestamp="1509508882642">
-        <mark key="'" line="114" column="14" />
-        <mark key="[" line="116" column="3" />
-        <mark key="]" line="116" column="3" />
-        <mark key="." line="116" column="3" />
-        <mark key="^" line="116" column="3" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" timestamp="1509511330070">
+        <mark key="'" line="124" column="22" />
+        <mark key="[" line="126" column="5" />
+        <mark key="]" line="127" column="11" />
+        <mark key="." line="127" column="11" />
+        <mark key="^" line="127" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/OrganizationProfile.js" timestamp="1509429784093">
         <mark key="'" line="50" column="47" />
@@ -467,12 +467,11 @@
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1509508219569">
-        <mark key="'" line="479" column="34" />
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="35" />
-        <mark key="." line="25" column="35" />
-        <mark key="^" line="25" column="50" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1509511189971">
+        <mark key="'" line="480" column="34" />
+        <mark key="[" line="398" column="0" />
+        <mark key="]" line="398" column="0" />
+        <mark key="." line="398" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/socketio.js" timestamp="1509318091674">
         <mark key="'" line="20" column="32" />
@@ -660,12 +659,12 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="38" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" timestamp="1509508137773">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" timestamp="1509510030388">
         <mark key="'" line="43" column="50" />
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" timestamp="1509419486834">
         <mark key="'" line="141" column="23" />
@@ -744,12 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" />
-      <jump line="24" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" />
-      <jump line="79" column="58" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UserCreationForm.js" />
-      <jump line="11" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/user.js" />
-      <jump line="15" column="28" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/user.js" />
-      <jump line="42" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/user.js" />
       <jump line="75" column="8" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/actions.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/config/axios.js" />
       <jump line="5" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/config/axios.js" />
@@ -841,55 +834,61 @@
       <jump line="1425" column="53" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js" />
       <jump line="2261" column="26" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js" />
       <jump line="116" column="31" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
-      <jump line="322" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
       <jump line="115" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
       <jump line="111" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
+      <jump line="100" column="8" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
+      <jump line="482" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
+      <jump line="322" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
+      <jump line="121" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
+      <jump line="336" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
+      <jump line="124" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
+      <jump line="10" column="44" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgUkVTRVRfQ0xVQl9DUkVBVElPTl9GT1JNOiB7CiAgICAgIHJldHVybiByZWR1Y2VCeUlkKGFjdGlvbi5wYXlsb2FkLmlkLCByZXNldENsdWJDcmVhdGlvbkZvcm0pCiAgICB9Cg==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKGNsb3NlQ2x1YkNyZWF0aW9uRm9ybShvd25Qcm9wcy5maWVsZC5pZCkpCg==</text>
+      <register name="0" type="4">
+        <text>ResetClubCreationFormAction</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNhc2UgUkVTRVRfQ0xVQl9DUkVBVElPTl9GT1JNOiB7CiAgICAgIHJldHVybiByZWR1Y2VCeUlkKGFjdGlvbi5wYXlsb2FkLmlkLCByZXNldENsdWJDcmVhdGlvbkZvcm0pCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoYW5kbGVTdWJtaXQ6ICgpID0+IHsKICAgIGRpc3BhdGNoKGNyZWF0ZUNsdWJBc3luYygpKQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoKGNyZWF0ZUNsdWJBc3luYyh0aGlzLnByb3BzLmNsdWIpKQo=</text>
+        <text encoding="base64">Y29uc3QgcmVzZXRDbHViQ3JlYXRpb25Gb3JtZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBoYW5kbGVTdWJtaXRDbGljayA9IGFzeW5jICgpID0+IHsKICAgIGF3YWl0IHRoaXMucHJvcHMuY3JlYXRlQ2x1YkFzeW5jKHRoaXMucHJvcHMuY2x1YikKICAgIHRoaXMucHJvcHMuY2xvc2VDbHViQ3JlYXRpb25Gb3JtKCkKICB9CgogIGhhbmRsZUNhbmNlbENsaWNrID0gKCkgPT4gewogICAgdGhpcy5wcm9wcy5jbG9zZUNsdWJDcmVhdGlvbkZvcm0oKQogIH0KCiAgaGFuZGxlQ2hhbmdlID0gKGV2ZW50KSA9PiB7CiAgICB0aGlzLnByb3BzLmVkaXRDbHViQ3JlYXRpb25Gb3JtKGV2ZW50LnRhcmdldC5uYW1lLCBldmVudC50YXJnZXQudmFsdWUpCiAgfQo=</text>
+        <text encoding="base64">ICBwYXlsb2FkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPScoMDIpIDg4MTQgNTIzNScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSdDb250YWN0IE5hbWUnCg==</text>
+        <text encoding="base64">Y29uc3QgbWVyZ2VQcm9wcyA9IChzdGF0ZVByb3BzLCBkaXNwYXRjaFByb3BzLCBvd25Qcm9wcykgPT4gewogIHJldHVybiB7CiAgICAuLi5zdGF0ZVByb3BzLAogICAgLi4uZGlzcGF0Y2hQcm9wcywKICAgIC4uLm93blByb3BzLAogICAgaGFuZGxlU3VibWl0OiAoKSA9PiB7CiAgICAgIGRpc3BhdGNoUHJvcHMuY3JlYXRlQ2x1YkFzeW5jKHN0YXRlUHJvcHMuY2x1YikKICAgICAgZGlzcGF0Y2hQcm9wcy5vbkNsb3NlKCkKICAgIH0sCiAgICBoYW5kbGVDYW5jZWw6ICgpID0+IHsKICAgICAgCiAgICB9CiAgfQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSc5OTk5Jwo=</text>
+        <text encoding="base64">ICBjcmVhdGVDbHViQXN5bmM6IChjbHViKSA9PiB7CiAgICBkaXNwYXRjaChjcmVhdGVDbHViQXN5bmMoY2x1YikpCiAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJBYmJyZXYuIgo=</text>
+        <text encoding="base64">ICBoYW5kbGVDYW5jZWw6ICgpID0+IHsKICAgIGRpc3BhdGNoKGNsb3NlQ2x1YkNyZWF0aW9uRm9ybShvd25Qcm9wcy5maWVsZC5pZCkpCiAgfSwKICBoYW5kbGVDaGFuZ2U6IChldmVudDogU3ludGhldGljSW5wdXRFdmVudDxIVE1MSW5wdXRFbGVtZW50PikgPT4gewogICAgY29uc3Qge25hbWUsIHZhbHVlfSA9IGV2ZW50LnRhcmdldAogICAgZGlzcGF0Y2goZWRpdENsdWJDcmVhdGlvbkZvcm0ob3duUHJvcHMuZmllbGQuaWQsIChuYW1lOiBhbnkpLCB2YWx1ZSkpCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuYW1lPSduYW1lJwo=</text>
+        <text encoding="base64">ICBtZXJnZVByb3BzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -945,8 +944,8 @@
         <entry>only</entry>
         <entry>%s/this.props.handleChange/handleChange/</entry>
         <entry>spl</entry>
-        <entry>clo</entry>
         <entry>vspl</entry>
+        <entry>clo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
