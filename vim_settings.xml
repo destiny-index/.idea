@@ -354,11 +354,11 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" timestamp="1509687173195">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" timestamp="1509922896119">
         <mark key="'" line="7" column="9" />
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="18" />
-        <mark key="." line="31" column="18" />
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/types.js" timestamp="1509684948171">
@@ -951,14 +951,14 @@
       <jump line="7" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiZmFjaWxpdHkxIiwK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>Parry Park</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmcxXD4=</text>
