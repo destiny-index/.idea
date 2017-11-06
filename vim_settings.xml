@@ -717,6 +717,12 @@
         <mark key="." line="36" column="48" />
         <mark key="^" line="36" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/components/FacilitySearch.js" timestamp="1509928558409">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="72" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/index.js" timestamp="1508124820987">
         <mark key="'" line="14" column="9" />
         <mark key="[" line="9" column="22" />
@@ -939,14 +945,14 @@
       <jump line="77" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmcxXD4=</text>
@@ -958,31 +964,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmVycm9yKGVycikK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5jZWxUb2tlbjogc291cmNlLnRva2VuCg==</text>
+      <register name="2" type="4">
+        <text>{
+            cancelToken: this.cancelTokenSource.token
+          }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZS5jYW5jZWwoKQo=</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRoaXMuY2FuY2VsVG9rZW5Tb3VyY2UuY2FuY2VsKCkKICAgIH0gY2F0Y2ggKGVycikgewogICAgICBjb25zb2xlLmVycm9yKGVycikKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzb3VyY2UgPSBheGlvcy5DYW5jZWxUb2tlbi5zb3VyY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiVGhlIENyZXN0IFNwb3J0aW5nIENvbXBsZXgiLAogICAgICAgICJDYW1wYmVsbCBBdGhsZXRpYyBGaWVsZCIsCiAgICAgICAgIlBpY2tlbiBPdmFsIiwKICAgICAgICAiQ3JveWRvbiBQYXJrIiwKICAgICAgICAiQmVhbWFuIFBhcmsiLAogICAgICAgICJSdXNlIFBhcmsiLAogICAgICAgICJQYXJyeSBQYXJrIgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY2FuY2VsVG9rZW5Tb3VyY2UuY2FuY2VsKCcnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEFERF9GSUVMRF9DTFVCOiAnQUREX0ZJRUxEX0NMVUInID0gJ0FERF9GSUVMRF9DTFVCJwpleHBvcnQgY29uc3QgUkVNT1ZFX0ZJRUxEX0NMVUI6ICdSRU1PVkVfRklFTERfQ0xVQicgPSAnUkVNT1ZFX0ZJRUxEX0NMVUInCgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhbmNlbFRva2VuU291cmNlLmNhbmNlbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBBRERfRklFTERfQ0xVQiwKICBSRU1PVkVfRklFTERfQ0xVQiwK</text>
+        <text encoding="base64">ICAgICAgaWYgKGF4aW9zLmlzQ2FuY2VsKGVycikpIHsKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYWRkRmllbGRDbHViID0gKHN0YXRlLCBhY3Rpb24pID0+IHsKICBjb25zdCB7ZmllbGRJZCwgY2x1YklkfSA9IGFjdGlvbi5wYXlsb2FkCiAgY29uc3QgZmllbGQgPSBzdGF0ZVtmaWVsZElkXQoKICByZXR1cm4gewogICAgLi4uc3RhdGUsCiAgICBbZmllbGRJZF06IHsuLi5maWVsZCwgY2x1YnM6IFsuLi5maWVsZC5jbHVicywgY2x1YklkXX0KICB9Cn0KCmNvbnN0IHJlbW92ZUNsdWJGcm9tRmllbGQgPSAoc3RhdGUsIGFjdGlvbikgPT4gewogIGNvbnN0IHtmaWVsZElkLCBjbHViSWR9ID0gYWN0aW9uLnBheWxvYWQKICBjb25zdCBmaWVsZCA9IHN0YXRlW2ZpZWxkSWRdCiAgY29uc3QgY2x1YnMgPSBmaWVsZC5jbHVicy5maWx0ZXIoaWQgPT4gaWQgIT09IGNsdWJJZCkKCiAgcmV0dXJuIHsKICAgIC4uLnN0YXRlLAogICAgW2ZpZWxkSWRdOiB7Li4uZmllbGQsIGNsdWJzfQogIH0KfQoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQUREX0ZJRUxEX0NMVUI6CiAgICAgIHJldHVybiBhZGRGaWVsZENsdWIoc3RhdGUsIGFjdGlvbikKICAgIGNhc2UgUkVNT1ZFX0ZJRUxEX0NMVUI6CiAgICAgIHJldHVybiByZW1vdmVDbHViRnJvbUZpZWxkKHN0YXRlLCBhY3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgdHJ5IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1021,8 +1029,6 @@
         <entry encoding="base64">XDxvcmcxXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Croydon Park football/field10</entry>
-        <entry>%s/Croydon Park tennis/field11</entry>
         <entry>%s/Croydon Park baseball/field12</entry>
         <entry>%s/Beaman Park football/field13</entry>
         <entry>%s/Beaman Park tennis/field14</entry>
@@ -1040,7 +1046,9 @@
         <entry>%s/Beaman Park/illuminator5</entry>
         <entry>%s/Ruse Park/illuminator6</entry>
         <entry>%s/Parry Park/illuminator7</entry>
+        <entry>w2</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
