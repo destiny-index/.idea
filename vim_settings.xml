@@ -98,12 +98,12 @@
         <mark key="." line="53" column="43" />
         <mark key="^" line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" timestamp="1509938005021">
-        <mark key="'" line="54" column="17" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="105" column="3" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" timestamp="1509944366185">
+        <mark key="'" line="46" column="60" />
+        <mark key="[" line="110" column="6" />
+        <mark key="]" line="110" column="6" />
+        <mark key="." line="110" column="6" />
+        <mark key="^" line="114" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/express.js" timestamp="1508478465203">
         <mark key="'" line="15" column="4" />
@@ -806,8 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
-      <jump line="350" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
       <jump line="409" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
       <jump line="1538" column="8" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
       <jump line="468" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
@@ -906,16 +904,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/components/GroupField.js" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/components/GroupField.js" />
+      <jump line="101" column="17" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
+      <jump line="46" column="60" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9hZEZpZWxkQXN5bmMgfSBmcm9tICcuLi8uLi9maWVsZHMvYWN0aW9ucycK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>props.</text>
@@ -927,34 +927,34 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9hZEZpZWxkQXN5bmMgfSBmcm9tICcuLi8uLi9maWVsZHMvYWN0aW9ucycK</text>
+        <text encoding="base64">ICAgIDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9hZEZpZWxkQXN5bmMgfSBmcm9tICcuLi9hY3Rpb25zJwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBsb2FkRmllbGRBc3luYzogKCkgPT4gewogICAgZGlzcGF0Y2gobG9hZEZpZWxkQXN5bmMob3duUHJvcHMuZmllbGRJZCkpCiAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCAoKSB7CiAgICB0aGlzLnByb3BzLmxvYWRGaWVsZEFzeW5jKCkKICB9Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXBGaWVsZHMgfSBmcm9tICcuLi9yZWR1Y2VycycK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldEdyb3VwRmllbGRzID0gKHN0YXRlOiBHcm91cCkgPT4gewogIHJldHVybiBzdGF0ZS5ieUlkW2lkXS5maWVsZHMKfQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb3BzID0gdGhpcy5wcm9wcwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPyB0aGlzLnByb3BzLmRlc2VsZWN0RmFjaWxpdHkoaWQpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIChpc0ZhY2lsaXR5U2VsZWMpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIHRoaXMucHJvcHMuc2VsZWN0RmFjaWxpdHkoaWQpCiAgICB0aGlzLmNlbnRlck1hcE9uRmFjaWxpdHkoaWQpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIHRoaXMucHJvcHMuZGVzZWxlY3RGYWNpbGl0eShpZCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkcykK</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9hZEZpZWxkQXN5bmMgfSBmcm9tICcuLi8uLi9maWVsZHMvYWN0aW9ucycK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vspl</text>
       </register>
     </registers>
     <search>
@@ -990,7 +990,6 @@
         <entry>props.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Beaman Park tennis/field14</entry>
         <entry>%s/Beaman Park baseball/field15</entry>
         <entry>%s/Ruse Park football/field16</entry>
         <entry>%s/Ruse Park tennis/field17</entry>
@@ -1010,6 +1009,7 @@
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz4lcy9wcm9wcy4vLw==</entry>
         <entry>w</entry>
+        <entry>vspl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
