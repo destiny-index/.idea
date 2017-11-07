@@ -560,7 +560,7 @@
         <mark key="." line="28" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1510033297660">
-        <mark key="'" line="218" column="25" />
+        <mark key="'" line="219" column="25" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -936,7 +936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/components/FacilityItem.js" />
       <jump line="33" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/containers/FacilityList.js" />
       <jump line="24" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldList.js" />
       <jump line="49" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/components/FacilityItem.js" />
@@ -1036,16 +1035,17 @@
       <jump line="45" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/messager.js" />
       <jump line="158" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" />
       <jump line="18" column="34" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/socketio.js" />
+      <jump line="30" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwaUZpZWxkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHtsaWdodC5uYW1lfQo=</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>Clubs</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>SCHEDULE</text>
@@ -1057,31 +1057,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwaUZpZWxkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHtsaWdodC5uYW1lfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJidW55YW4iOiAiXjEuOC4xMiIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwaUZpZWxkKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWwpCg==</text>
+        <text encoding="base64">ICAgICJidW55YW4iOiAiXjEuOC4xMiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh2YWwpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaXN0KQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlkKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhsaXN0KQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlkKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpbGx1bWluYXRvcnMuYWxsSWRzLmxlbmd0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
