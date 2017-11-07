@@ -696,12 +696,12 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="38" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/field.js" timestamp="1509939208308">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/field.js" timestamp="1510012488119">
         <mark key="'" line="28" column="26" />
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="3" />
+        <mark key="[" line="55" column="48" />
+        <mark key="]" line="55" column="46" />
+        <mark key="." line="55" column="46" />
+        <mark key="^" line="55" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" timestamp="1509581661290">
         <mark key="'" line="43" column="50" />
@@ -709,6 +709,9 @@
         <mark key="]" line="82" column="43" />
         <mark key="." line="82" column="43" />
         <mark key="^" line="82" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/socketio.js" timestamp="1510012266000">
+        <mark key="'" line="16" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/converter/IHex2mihy.java" timestamp="1505801545033">
         <mark key="'" line="5" column="13" />
@@ -801,7 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
       <jump line="1236" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
       <jump line="219" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
       <jump line="1413" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
@@ -901,6 +903,7 @@
       <jump line="52" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/actions.js" />
       <jump line="42" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/actions.js" />
       <jump line="1" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/types.js" />
+      <jump line="16" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/socketio.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -949,7 +952,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vspl</text>
       </register>
     </registers>
     <search>
@@ -1003,8 +1006,8 @@
         <entry>W</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz4lcy9wcm9wcy4vLw==</entry>
-        <entry>vspl</entry>
         <entry>w</entry>
+        <entry>vspl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
