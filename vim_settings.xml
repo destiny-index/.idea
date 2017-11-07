@@ -83,7 +83,7 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="47" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" timestamp="1510026687133">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" timestamp="1510026718397">
         <mark key="'" line="67" column="26" />
         <mark key="[" line="69" column="27" />
         <mark key="]" line="69" column="27" />
@@ -796,6 +796,13 @@
         <mark key="." line="198" column="21" />
         <mark key="^" line="198" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" timestamp="1510028671006">
+        <mark key="'" line="96" column="42" />
+        <mark key="[" line="41" column="58" />
+        <mark key="]" line="41" column="62" />
+        <mark key="." line="41" column="62" />
+        <mark key="^" line="41" column="62" />
+      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/GeneratedHAL.java" timestamp="1505955615339">
         <mark key="'" line="7" column="13" />
         <mark key="[" line="5" column="0" />
@@ -874,8 +881,8 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" timestamp="1508211797151">
-        <mark key="'" line="31" column="16" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" timestamp="1510028249864">
+        <mark key="'" line="47" column="12" />
         <mark key="[" line="28" column="43" />
         <mark key="]" line="29" column="5" />
         <mark key="." line="29" column="5" />
@@ -890,8 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="48" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
-      <jump line="156" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
       <jump line="0" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/field.test.js" />
       <jump line="39" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/field.test.js" />
@@ -990,16 +995,18 @@
       <jump line="16" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/containers/FacilityCard.js" />
       <jump line="19" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldOptions.js" />
       <jump line="67" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
+      <jump line="47" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" />
+      <jump line="95" column="42" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLnNvcnQoKGNsdWJBLCBjbHViQikgPT4gY2x1YkEubmFtZSAtIGNsdWJCLm5hbWUpCg==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>SCHEDULE</text>
@@ -1011,31 +1018,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPEZpZWxkR3JvdXBzIGZpZWxkPXtwcm9wcy5maWVsZH0gLz4K</text>
+        <text encoding="base64">ICAgICAgLnNvcnQoKGNsdWJBLCBjbHViQikgPT4gY2x1YkEubmFtZSAtIGNsdWJCLm5hbWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPEZpZWxkR3JvdXBzIGZpZWxkPXtwcm9wcy5maWVsZH0gLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxJY29uCiAgICAgIHN0eWxlPXt7ZmxvYXQ6ICdyaWdodCd9fQogICAgICBuYW1lPSJ3YXJuaW5nIGNpcmNsZSIKICAgICAgaW52ZXJ0ZWQKICAgIC8+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CnNjaGVtYS5tZXRob2RzLm1lcmdlQ29uZmlndXJhdGlvbiA9IGZ1bmN0aW9uIChzdGFydCwgZW5kKSB7CiAgaWYgKHN0YXJ0ID09PSB1bmRlZmluZWQpIHN0YXJ0ID0gLUluZmluaXR5CiAgaWYgKGVuZCA9PT0gdW5kZWZpbmVkKSBlbmQgPSBJbmZpbml0eQoKICBjb25zdCBsaXN0ID0gdGhpcy5jZmdMb2cKICAgIC5maWx0ZXIoKF8sIGluZGV4KSA9PiBpbmRleCA+PSBzdGFydCAmJiBpbmRleCA8PSBlbmQpCiAgcmV0dXJuIF8ubWVyZ2Uoe30sIC4uLmxpc3QpCn0KCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2NoZW1hLm1ldGhvZHMubWVyZ2VDb25maWd1cmF0aW9uID0gZnVuY3Rpb24gKHN0YXJ0LCBlbmQpIHsKICBpZiAoc3RhcnQgPT09IHVuZGVmaW5lZCkgc3RhcnQgPSAtSW5maW5pdHkKICBpZiAoZW5kID09PSB1bmRlZmluZWQpIGVuZCA9IEluZmluaXR5CgogIGNvbnN0IGxpc3QgPSB0aGlzLmNmZ0xvZwogICAgLmZpbHRlcigoXywgaW5kZXgpID0+IGluZGV4ID49IHN0YXJ0ICYmIGluZGV4IDw9IGVuZCkKICByZXR1cm4gXy5tZXJnZSh7fSwgLi4ubGlzdCkKfQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZmllbGRzIGZyb20gJy4uL2NvbnRyb2xsZXJzL2ZpZWxkJwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxJY29uCiAgICAgIHN0eWxlPXt7ZmxvYXQ6ICdyaWdodCd9fQogICAgICBuYW1lPSJ3YXJuaW5nIGNpcmNsZSIKICAgICAgaW52ZXJ0ZWQKICAgIC8+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CnNjaGVtYS5tZXRob2RzLm1lcmdlQ29uZmlndXJhdGlvbiA9IGZ1bmN0aW9uIChzdGFydCwgZW5kKSB7CiAgaWYgKHN0YXJ0ID09PSB1bmRlZmluZWQpIHN0YXJ0ID0gLUluZmluaXR5CiAgaWYgKGVuZCA9PT0gdW5kZWZpbmVkKSBlbmQgPSBJbmZpbml0eQoKICBjb25zdCBsaXN0ID0gdGhpcy5jZmdMb2cKICAgIC5maWx0ZXIoKF8sIGluZGV4KSA9PiBpbmRleCA+PSBzdGFydCAmJiBpbmRleCA8PSBlbmQpCiAgcmV0dXJuIF8ubWVyZ2Uoe30sIC4uLmxpc3QpCn0KCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">c2NoZW1hLm1ldGhvZHMubWVyZ2VDb25maWd1cmF0aW9uID0gZnVuY3Rpb24gKHN0YXJ0LCBlbmQpIHsKICBpZiAoc3RhcnQgPT09IHVuZGVmaW5lZCkgc3RhcnQgPSAtSW5maW5pdHkKICBpZiAoZW5kID09PSB1bmRlZmluZWQpIGVuZCA9IEluZmluaXR5CgogIGNvbnN0IGxpc3QgPSB0aGlzLmNmZ0xvZwogICAgLmZpbHRlcigoXywgaW5kZXgpID0+IGluZGV4ID49IHN0YXJ0ICYmIGluZGV4IDw9IGVuZCkKICByZXR1cm4gXy5tZXJnZSh7fSwgLi4ubGlzdCkKfQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgZmllbGRzIGZyb20gJy4uL2NvbnRyb2xsZXJzL2ZpZWxkJwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CmxpZ2h0c1NjaGVtYS52aXJ0dWFsKCduYW1lJykuZ2V0KGZ1bmN0aW9uICgpIHsKICByZXR1cm4gdGhpcy5vdXRwdXQKfSkKCmxpZ2h0c1NjaGVtYS52aXJ0dWFsKCdwaG9uZScpLmdldChmdW5jdGlvbiAoKSB7CiAgaWYgKCF0aGlzLnBhcmVudCgpLl9wYXJlbnQpIHsKICAgIHJldHVybiAnJwogIH0KICByZXR1cm4gdGhpcy5wYXJlbnQoKS5fcGFyZW50LnBob25lTnVtYmVyCn0pCgpsaWdodHNTY2hlbWEudmlydHVhbCgnc21zJykuZ2V0KGZ1bmN0aW9uICgpIHsKICBpZiAoIXRoaXMucGFyZW50KCkuX3BhcmVudCkgewogICAgcmV0dXJuICcnCiAgfQogIHJldHVybiB0aGlzLnBhcmVudCgpLl9wYXJlbnQubWFzdGVyUGluCn0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
