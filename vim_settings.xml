@@ -127,8 +127,8 @@
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/index.js" timestamp="1508478689697">
-        <mark key="'" line="2" column="8" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/index.js" timestamp="1510095846121">
+        <mark key="'" line="3" column="35" />
         <mark key="[" line="3" column="40" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -822,6 +822,9 @@
         <mark key="." line="82" column="43" />
         <mark key="^" line="82" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/socketio.js" timestamp="1510095912064">
+        <mark key="'" line="17" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" timestamp="1509924131360">
         <mark key="'" line="129" column="19" />
         <mark key="[" line="105" column="0" />
@@ -936,8 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldList.js" />
-      <jump line="49" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/components/FacilityItem.js" />
       <jump line="26" column="4" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldList.js" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldList.js" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldList.js" />
@@ -1036,6 +1037,8 @@
       <jump line="18" column="34" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/socketio.js" />
       <jump line="30" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
       <jump line="7" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/search.test.js" />
+      <jump line="3" column="35" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/index.js" />
+      <jump line="17" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/socketio.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
