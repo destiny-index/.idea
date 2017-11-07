@@ -225,19 +225,19 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" timestamp="1509679478231">
-        <mark key="'" line="49" column="39" />
-        <mark key="[" line="53" column="77" />
-        <mark key="]" line="54" column="0" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" timestamp="1510018451173">
+        <mark key="'" line="70" column="77" />
+        <mark key="[" line="71" column="55" />
+        <mark key="]" line="71" column="55" />
         <mark key="^" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="." line="71" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.js" timestamp="1509604471877">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.js" timestamp="1510018609365">
         <mark key="'" line="13" column="14" />
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
+        <mark key="[" line="40" column="2" />
+        <mark key="]" line="40" column="1" />
+        <mark key="^" line="40" column="1" />
+        <mark key="." line="40" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/HexFile.java" timestamp="1505780449321">
         <mark key="'" line="11" column="4" />
@@ -702,8 +702,12 @@
         <mark key="." line="38" column="38" />
         <mark key="^" line="38" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/field.js" timestamp="1510012488119">
-        <mark key="'" line="28" column="26" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/field.js" timestamp="1510018421038">
+        <mark key="'" line="8" column="32" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" timestamp="1509581661290">
         <mark key="'" line="43" column="50" />
@@ -806,17 +810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
-      <jump line="7" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/demo/data.json" />
-      <jump line="115" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/components/GroupForm.js" />
-      <jump line="48" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/components/GroupPanelTitle.js" />
-      <jump line="129" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
-      <jump line="77" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
-      <jump line="91" column="34" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
-      <jump line="157" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
-      <jump line="71" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/components/FacilitySearch.js" />
-      <jump line="50" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
-      <jump line="52" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/containers/FacilityList.js" />
       <jump line="16" column="50" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/containers/FacilityList.js" />
       <jump line="115" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="118" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
@@ -906,19 +899,30 @@
       <jump line="188" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" />
       <jump line="118" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
       <jump line="355" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
+      <jump line="39" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/field.js" />
+      <jump line="10" column="32" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/field.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="69" column="40" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="71" column="44" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="72" column="68" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="73" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="7" column="29" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="18" column="40" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="30" column="57" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="70" column="77" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJmaWVsZCByZWFkIikK</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>socket</text>
+        <text>field</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsb2FkRmFjaWxpdGllc01vbml0b3I6ICgpID0+IHZvaWQsCg==</text>
@@ -927,48 +931,47 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2FkRmFjaWxpdHlBc3luYycpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJmaWVsZCByZWFkIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dlYnNvY2tldCBjb25uZWN0JykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvYmopCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dlYnNvY2tldCBkaXNjb25uZWN0JykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvYmopCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2Rpc2Nvbm5lY3QnKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2Nvbm5lY3QnKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgcmV0dXJuIGFzeW5jIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2Nvbm5lY3QnKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmllbGQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmllbGQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgb2JqID0gZmllbGQudG9KU09OKCkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>socket</last-search>
+      <last-search>field</last-search>
       <last-offset />
-      <last-pattern>socket</last-pattern>
+      <last-pattern>field</last-pattern>
       <last-replace />
-      <last-substitute>props.</last-substitute>
+      <last-substitute>socket</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Beaman Park football</entry>
         <entry>Beaman Park tennis</entry>
         <entry>Beaman Park baseball</entry>
         <entry>Ruse Park football</entry>
@@ -988,6 +991,7 @@
         <entry encoding="base64">XDxdXD4=</entry>
         <entry>props.</entry>
         <entry>socket</entry>
+        <entry>field</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Ruse Park football/field16</entry>
