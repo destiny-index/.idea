@@ -788,12 +788,12 @@
         <mark key="." line="198" column="21" />
         <mark key="^" line="198" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" timestamp="1510029772812">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" timestamp="1510103846605">
         <mark key="'" line="106" column="42" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="40" column="27" />
+        <mark key="[" line="50" column="66" />
+        <mark key="]" line="50" column="79" />
+        <mark key="." line="50" column="79" />
+        <mark key="^" line="50" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/GeneratedHAL.java" timestamp="1505955615339">
         <mark key="'" line="7" column="13" />
@@ -873,7 +873,7 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" timestamp="1510028249864">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" timestamp="1510103804815">
         <mark key="'" line="47" column="12" />
         <mark key="[" line="28" column="43" />
         <mark key="]" line="29" column="5" />
@@ -933,7 +933,6 @@
       <jump line="16" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/containers/FacilityCard.js" />
       <jump line="19" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldOptions.js" />
       <jump line="67" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
-      <jump line="47" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" />
       <jump line="95" column="42" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" />
       <jump line="10" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.factory.js" />
       <jump line="35" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
@@ -989,6 +988,7 @@
       <jump line="156" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/OrganizationProfile.js" />
       <jump line="165" column="32" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/OrganizationProfile.js" />
       <jump line="115" column="35" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" />
+      <jump line="47" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
