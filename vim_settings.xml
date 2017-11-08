@@ -244,6 +244,12 @@
         <mark key="^" line="68" column="54" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.js" timestamp="1510020666436">
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="35" column="53" />
+        <mark key="." line="35" column="53" />
+        <mark key="^" line="35" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/mongoplugins/extendvirtual.js" timestamp="1510098148257">
         <mark key="'" line="2" column="12" />
         <mark key="[" line="3" column="0" />
@@ -438,6 +444,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/docker-compose.yml" timestamp="1510111037880">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/containers/FacilityList.js" timestamp="1509941278726">
         <mark key="'" line="33" column="19" />
@@ -861,6 +873,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/illuminator.factory.js" timestamp="1510020602829">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/containers/FacilityCard.js" timestamp="1510029846483">
         <mark key="'" line="16" column="16" />
