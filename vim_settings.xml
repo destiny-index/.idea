@@ -225,6 +225,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/bitbucket-pipelines.yml" timestamp="1510105784776">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/clubs/actions.js" timestamp="1507161524607">
         <mark key="'" line="3" column="18" />
         <mark key="[" line="0" column="0" />
@@ -421,6 +426,11 @@
         <mark key="]" line="13" column="66" />
         <mark key="." line="13" column="66" />
         <mark key="^" line="13" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/Dockerfile" timestamp="1510105788567">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/googleMaps/containers/Map.js" timestamp="1507166022651">
         <mark key="'" line="9" column="10" />
