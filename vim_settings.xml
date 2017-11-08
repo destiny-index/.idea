@@ -212,6 +212,9 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/attachment.js" timestamp="1510122559377">
+        <mark key="'" line="45" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/DeviceTypeCategory.java" timestamp="1505782420241">
         <mark key="'" line="10" column="37" />
         <mark key="[" line="7" column="0" />
@@ -856,7 +859,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510104980420">
+      <file name="/Dummy.txt" timestamp="1510122511883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareVersion.java" timestamp="1505957582219">
@@ -941,12 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
-      <jump line="36" column="3" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
-      <jump line="156" column="36" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
-      <jump line="16" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
-      <jump line="134" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" />
-      <jump line="35" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="150" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="200" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="52" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/actions.js" />
@@ -1041,6 +1038,12 @@
       <jump line="171" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" />
       <jump line="187" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" />
       <jump line="147" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
+      <jump line="18" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/attachment.js" />
+      <jump line="5" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/attachment.js" />
+      <jump line="3" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/attachment.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/node_modules/busboy/lib/main.js" />
+      <jump line="45" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/attachment.js" />
+      <jump line="26" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/attachment.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
