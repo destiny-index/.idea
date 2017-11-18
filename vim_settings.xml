@@ -51,11 +51,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" timestamp="1510975718641">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" timestamp="1511007744252">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/build.gradle" timestamp="1505804902360">
         <mark key="[" line="3" column="14" />
@@ -370,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="34" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="121" column="31" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="91" column="12" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="236" column="28" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
@@ -470,13 +470,14 @@
       <jump line="15" column="1" filename="$USER_HOME$/workspace/CLionProjects/misc/src/Programmer.cpp" />
       <jump line="7" column="5" filename="$USER_HOME$/workspace/CLionProjects/misc/src/Programmer.cpp" />
       <jump line="17" column="18" filename="$USER_HOME$/workspace/CLionProjects/misc/src/Programmer.cpp" />
+      <jump line="0" column="15" filename="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dm9pZCBwcmludEluZm8oUHJvZ3JhbW1lciAmcHJvZ3JhbW1lcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -488,31 +489,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dm9pZCBwcmludEluZm8oUHJvZ3JhbW1lciAmcHJvZ3JhbW1lcik7Cg==</text>
+        <text encoding="base64">ICBhdXRvIHAgPSBzdGQ6Om1ha2VfdW5pcXVlPGludD4oMTIzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludEluZm8oYW50aG9ueSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnZvaWQgcHJpbnRJbmZvKFByb2dyYW1tZXIgJnByb2dyYW1tZXIpIHsKICBzdGQ6OmNvdXQgPDwgIlByaW50aW5nIHRoZSBQcm9ncmFtbWVyXG4iOwogIHByb2dyYW1tZXIucHJpbnQoKTsKfQo=</text>
+        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgc3RkOjpjb3V0IDw8ICJQcmludGluZyB0aGUgUHJvZ3JhbWVyIGNhc3QgdG8gUGVyc29uXG4iOwoKICBQZXJzb24gJnBlcnNvbiA9IHByb2dyYW1tZXI7CiAgcGVyc29uLnByaW50KCk7CgogIHN0ZDo6Y291dCA8PCAiUHJpbnRpbmcgdGhlIFBlcnNvbiBjYXN0IGJhY2sgdG8gUHJvZ3JhbW1lclxuIjsKICBhdXRvICZjYXN0UHJvZ3JhbW1lciA9IGR5bmFtaWNfY2FzdDxQcm9ncmFtbWVyICY+KHBlcnNvbik7CiAgY2FzdFByb2dyYW1tZXIuc2V0RXhwZXJpZW5jZSgxMCk7CiAgY2FzdFByb2dyYW1tZXIucHJpbnQoKTsKCiAgc3RkOjpjb3V0IDw8IHN0ZDo6Ym9vbGFscGhhCiAgICAgICAgICAgIDw8ICh0eXBlaWQocHJvZ3JhbW1lcikgPT0gdHlwZWlkKHBlcnNvbikpIDw8ICJcbiI7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcm9ncmFtbWVyCg==</text>
+        <text encoding="base64">ICBzdGQ6Om1ha2VfdW5pcXVlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcm9ncmFtbWVyLT5zZXRFeHBlcmllbmNlKDIwKTsKICBwcm9ncmFtbWVyLT5wcmludCgpOwp9Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGNhc3NlcnQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gYW50aG9ueTsK</text>
+        <text encoding="base64">ICBhc3NlcnQoNCA9PSA1KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJpdHMvdW5pcXVlX3B0ci5oPgo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkhlbGxvLCBXb3JsZCEiIDw8IHN0ZDo6ZW5kbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -567,9 +568,9 @@
         <entry>%s/authorizeIlluminators/authorizeFacilities/gc</entry>
         <entry>s/illuminator/facility/gc</entry>
         <entry>%s/illuminator/facility/gc</entry>
-        <entry>clo</entry>
         <entry>edit CMakeLists.txt</entry>
         <entry>q</entry>
+        <entry>clo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
