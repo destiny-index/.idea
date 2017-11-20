@@ -51,12 +51,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" timestamp="1511007744252">
-        <mark key="'" line="0" column="15" />
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="42" />
-        <mark key="." line="8" column="41" />
+      <file name="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" timestamp="1511009137767">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/build.gradle" timestamp="1505804902360">
         <mark key="[" line="3" column="14" />
@@ -371,10 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="31" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="91" column="12" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
-      <jump line="236" column="28" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
-      <jump line="25" column="20" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="232" column="27" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
       <jump line="20" column="30" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
       <jump line="128" column="19" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/WebpageProcessor.java" />
@@ -470,14 +464,18 @@
       <jump line="15" column="1" filename="$USER_HOME$/workspace/CLionProjects/misc/src/Programmer.cpp" />
       <jump line="7" column="5" filename="$USER_HOME$/workspace/CLionProjects/misc/src/Programmer.cpp" />
       <jump line="17" column="18" filename="$USER_HOME$/workspace/CLionProjects/misc/src/Programmer.cpp" />
-      <jump line="0" column="15" filename="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" />
+      <jump line="13" column="7" filename="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" />
+      <jump line="12" column="23" filename="$USER_HOME$/workspace/CLionProjects/ATourOfCpp/main.cpp" />
+      <jump line="823" column="4" filename="/usr/include/c++/7/bits/unique_ptr.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXR1cm4gc3RkOjptYWtlX3VuaXF1ZTxIZW4+KHN0ZDo6bW92ZShoZW4pKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -489,31 +487,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhdXRvIHAgPSBzdGQ6Om1ha2VfdW5pcXVlPGludD4oMTIzKTsK</text>
+        <text encoding="base64">ICByZXR1cm4gc3RkOjptYWtlX3VuaXF1ZTxIZW4+KHN0ZDo6bW92ZShoZW4pKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGQ6OnVuaXF1ZV9wdHI8SGVuPiBteV9oZW4gPSBtYWtlX2hlbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgbmFtZXNwYWNlIHN0ZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
+        <text encoding="base64">ICBIZW4gKGludCBpZCwgZG91YmxlIGVnZ3MpIDppZChpZCksIGVnZ3MoZWdncykge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGQ6Om1ha2VfdW5pcXVlKCkK</text>
+        <text encoding="base64">ICByZXR1cm4gaGVuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGNhc3NlcnQ+Cg==</text>
+        <text encoding="base64">ICBhc3NlcnQobXlfaGVuLmlkID09IDUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhc3NlcnQoNCA9PSA1KTsK</text>
+        <text encoding="base64">ICBIZW4mIG15X2hlbiA9IG1ha2VfaGVuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgoK</text>
+        <text encoding="base64">ICByZXR1cm4gaGVuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdGQ6OmNvdXQgPDwgIkhlbGxvLCBXb3JsZCEiIDw8IHN0ZDo6ZW5kbDsK</text>
+        <text encoding="base64">ICBIZW4gdGVtcF9oZW57NSwgNS42fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
