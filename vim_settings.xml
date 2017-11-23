@@ -208,8 +208,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldOptions.js" timestamp="1511325362674">
-        <mark key="'" line="19" column="16" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldOptions.js" timestamp="1511400420474">
+        <mark key="'" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.js" timestamp="1511314430033">
         <mark key="[" line="0" column="0" />
@@ -332,12 +332,11 @@
         <mark key="]" line="105" column="10" />
         <mark key="." line="105" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" timestamp="1511313696775">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="111" column="33" />
-        <mark key="]" line="111" column="42" />
-        <mark key="^" line="111" column="42" />
-        <mark key="." line="111" column="42" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" timestamp="1511400765346">
+        <mark key="'" line="108" column="24" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/auth.test.js" timestamp="1510097225127">
         <mark key="[" line="26" column="45" />
@@ -406,9 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="35" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
-      <jump line="171" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" />
-      <jump line="187" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" />
       <jump line="147" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
       <jump line="18" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/attachment.js" />
       <jump line="3" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/attachment.js" />
@@ -506,10 +502,13 @@
       <jump line="47" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" />
       <jump line="151" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" />
       <jump line="82" column="44" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
+      <jump line="16" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldOptions.js" />
+      <jump line="108" column="24" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" />
+      <jump line="21" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubCardList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBjb2xsZWN0aW9uTmFtZSA9IG1vZGVsLmNvbGxlY3Rpb24uY29sbGVjdGlvbk5hbWUK</text>
+        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUgKG5leHRQcm9wcykgewogICAgaWYgKHRoaXMucHJvcHMuY2x1YnMgPT09IG5leHRQcm9wcy5jbHVicykKICB9Cgo=</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
@@ -527,37 +526,37 @@
         <text />
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUgKG5leHRQcm9wcykgewogICAgaWYgKHRoaXMucHJvcHMuY2x1YnMgPT09IG5leHRQcm9wcy5jbHVicykKICB9Cgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICBjb25zdCBjb2xsZWN0aW9uTmFtZSA9IG1vZGVsLmNvbGxlY3Rpb24uY29sbGVjdGlvbk5hbWUK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">cmVxLnF1ZXJ5LmlkcwogICAgICAgICAgPyByZXEucmVzb3VyY2VzLmZpbHRlcihyZXNvdXJjZSA9PiByZXEucXVlcnkuaWRzLmluY2x1ZGVzKHJlc291cmNlLmlkKSkKICAgICAgICAgIDogcmVxLnJlc291cmNlcw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICBtb2RhbDogTW9kYWxTdGF0ZQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
   return {
     ...state.rootModal
   }
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBzdGF0ZSA9PiBzdGF0ZS5yb290TW9kYWwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBkaXNwYXRjaCA9PiBkaXNwYXRjaAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>{
   ''
 }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
