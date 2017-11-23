@@ -68,6 +68,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/organization.factory.js" timestamp="1511310959660">
+        <mark key="'" line="3" column="17" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="19" column="107" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/illuminator.js" timestamp="1511220898181">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -123,6 +130,19 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" timestamp="1511394426897">
+        <mark key="[" line="85" column="17" />
+        <mark key="]" line="85" column="16" />
+        <mark key="^" line="85" column="16" />
+        <mark key="." line="85" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/RootModal.js" timestamp="1511394679230">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/admin/containers/IlluminatorAdminPage.js" timestamp="1510032384795">
         <mark key="[" line="14" column="0" />
@@ -230,6 +250,12 @@
         <mark key="]" line="171" column="30" />
         <mark key="." line="171" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/ListManager.js" timestamp="1511393818368">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.factory.js" timestamp="1511306199235">
         <mark key="'" line="18" column="65" />
         <mark key="[" line="0" column="0" />
@@ -291,6 +317,13 @@
         <mark key="]" line="105" column="10" />
         <mark key="." line="105" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" timestamp="1511313696775">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="111" column="33" />
+        <mark key="]" line="111" column="42" />
+        <mark key="^" line="111" column="42" />
+        <mark key="." line="111" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/auth.test.js" timestamp="1510097225127">
         <mark key="[" line="26" column="45" />
         <mark key="]" line="26" column="45" />
@@ -309,11 +342,6 @@
         <mark key="]" line="6" column="13" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/reducers.js" timestamp="1511321690299">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/verify.test.js" timestamp="1510098523154">
         <mark key="[" line="86" column="0" />
@@ -353,8 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="41" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/passport.js" />
-      <jump line="23" column="34" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/user.js" />
       <jump line="1" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/user.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/node_modules/bcryptjs/index.js" />
       <jump line="156" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/OrganizationProfile.js" />
@@ -453,16 +479,18 @@
       <jump line="21" column="30" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/actions.js" />
       <jump line="19" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldOptions.js" />
       <jump line="115" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" />
+      <jump line="4" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/RootModal.js" />
+      <jump line="10" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/RootModal.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUge01vZGFsVHlwZX0gZnJvbSAnLi4vcmVkdWNlcnMnCg==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>// eslint-disable-line no-unused-vars</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -474,28 +502,28 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUge01vZGFsVHlwZX0gZnJvbSAnLi4vcmVkdWNlcnMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExPQURfVVNFUjogJ0xPQURfVVNFUicgPSAnTE9BRF9VU0VSJwo=</text>
+        <text encoding="base64">dHlwZSBNb2RhbFR5cGUgPQogIHwgJ0NMVUJTX01BTkFHRVInCiAgfCAnR1JPVVBTX01BTkFHRVInCiAgfCAnRklFTERfQVZBSUxBQklMSVRZJwogIHwgJ0xJR0hUU19DT05UUk9MJwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAnQ0xVQlNfTUFOQUdFUic6IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExPQURfQUxMX1VTRVJTOiAnTE9BRF9BTExfVVNFUlMnID0gJ0xPQURfQUxMX1VTRVJTJwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IERFTEVURV9VU0VSOiAnREVMRVRFX1VTRVInID0gJ0RFTEVURV9VU0VSJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gc3RhdGUK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IExPQURfVVNFUjogJ0xPQURfVVNFUicgPSAnTE9BRF9VU0VSJwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
