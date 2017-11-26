@@ -5,12 +5,12 @@
       <mark key="M" line="351" column="79" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" timestamp="1511484937080">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" timestamp="1511737201238">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="52" column="74" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="53" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" timestamp="1511485840307">
         <mark key="'" line="147" column="16" />
@@ -29,11 +29,11 @@
         <mark key="." line="79" column="29" />
         <mark key="^" line="79" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/ManageUsers.js" timestamp="1511504780978">
-        <mark key="[" line="120" column="19" />
-        <mark key="]" line="120" column="19" />
-        <mark key="." line="120" column="19" />
-        <mark key="^" line="120" column="18" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/ManageUsers.js" timestamp="1511736472502">
+        <mark key="[" line="91" column="35" />
+        <mark key="]" line="91" column="35" />
+        <mark key="." line="91" column="35" />
+        <mark key="^" line="91" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/organization.factory.js" timestamp="1511310959660">
         <mark key="'" line="3" column="17" />
@@ -136,12 +136,12 @@
         <mark key="." line="33" column="19" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" timestamp="1511486857083">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" timestamp="1511736892641">
         <mark key="'" line="100" column="15" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="53" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="69" column="58" />
+        <mark key="]" line="69" column="7" />
+        <mark key="^" line="69" column="7" />
+        <mark key="." line="69" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UserCreationForm.js" timestamp="1511502910482">
         <mark key="'" line="29" column="23" />
@@ -164,14 +164,15 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UserCreationModal.js" timestamp="1511503188438">
-        <mark key="'" line="88" column="11" />
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="11" column="9" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UserCreationModal.js" timestamp="1511736137694">
+        <mark key="'" line="14" column="18" />
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="24" />
+        <mark key="^" line="44" column="24" />
+        <mark key="." line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" timestamp="1511501653150">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" timestamp="1511736038920">
+        <mark key="'" line="14" column="12" />
         <mark key="[" line="12" column="1" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -245,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
-      <jump line="148" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
       <jump line="25" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" />
       <jump line="67" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupsManagement.js" />
@@ -345,16 +344,18 @@
       <jump line="119" column="33" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/ManageUsers.js" />
       <jump line="21" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/ManageUsers.js" />
       <jump line="121" column="53" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/ManageUsers.js" />
+      <jump line="14" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UserCreationModal.js" />
+      <jump line="14" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8RGl2aWRlciAvPgo=</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>overlay</text>
       </register>
       <register name="/" type="4">
         <text>getName</text>
@@ -366,31 +367,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy51c2Vycy5tYXAodXNlciA9PgogICAgICAgICAgICAgIDxIZWFkZXIga2V5PXt1c2VyLmlkfSBhcz0naDQnIHN0eWxlPXt7d2lkdGg6ICcxMDAlJ319PgogICAgICAgICAgICAgICAgPEhlYWRlci5Db250ZW50PgogICAgICAgICAgICAgICAgICB7dXNlci51c2VybmFtZX0KICAgICAgICAgICAgICAgICAgPEhlYWRlci5TdWJoZWFkZXI+e3VzZXIuZW1haWx9PC9IZWFkZXIuU3ViaGVhZGVyPgogICAgICAgICAgICAgICAgPC9IZWFkZXIuQ29udGVudD4KICAgICAgICAgICAgICAgIDxDb25maXJtVXNlckRlbGV0ZQogICAgICAgICAgICAgICAgICB1c2VyPXt1c2VyfQogICAgICAgICAgICAgICAgICBvbkNvbmZpcm09e3RoaXMucHJvcHMuZGVsZXRlVXNlckFzeW5jfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8L0hlYWRlcj4KICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICA8RGl2aWRlciAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy51c2Vycy5tYXAodXNlciA9PgogICAgICAgICAgICAgIDxIZWFkZXIga2V5PXt1c2VyLmlkfSBhcz0naDQnIHN0eWxlPXt7d2lkdGg6ICcxMDAlJ319PgogICAgICAgICAgICAgICAgPEhlYWRlci5Db250ZW50PgogICAgICAgICAgICAgICAgICB7dXNlci51c2VybmFtZX0KICAgICAgICAgICAgICAgICAgPEhlYWRlci5TdWJoZWFkZXI+e3VzZXIuZW1haWx9PC9IZWFkZXIuU3ViaGVhZGVyPgogICAgICAgICAgICAgICAgPC9IZWFkZXIuQ29udGVudD4KICAgICAgICAgICAgICAgIDxDb25maXJtVXNlckRlbGV0ZQogICAgICAgICAgICAgICAgICB1c2VyPXt1c2VyfQogICAgICAgICAgICAgICAgICBvbkNvbmZpcm09e3RoaXMucHJvcHMuZGVsZXRlVXNlckFzeW5jfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8L0hlYWRlcj4KICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cD4K</text>
+        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDb25maXJtVXNlckRlbGV0ZQogICAgICAgICAgICAgICAgICB1c2VyPXt1c2VyfQogICAgICAgICAgICAgICAgICBvbkNvbmZpcm09e3RoaXMucHJvcHMuZGVsZXRlVXNlckFzeW5jfQogICAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICA8cD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8SWNvbiBsaW5rIHNpemU9ImxhcmdlIgogICAgICAgICAgbmFtZT0idXNlciBkZWxldGUiCiAgICAgICAgICBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0KICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDb25maXJtVXNlckRlbGV0ZQogICAgICAgICAgICAgICAgICB1c2VyPXt1c2VyfQogICAgICAgICAgICAgICAgICBvbkNvbmZpcm09e3RoaXMucHJvcHMuZGVsZXRlVXNlckFzeW5jfQogICAgICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8SWNvbiBsaW5rIHNpemU9ImxhcmdlIgogICAgICAgICAgbmFtZT0idXNlciBkZWxldGUiCiAgICAgICAgICBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0K</text>
+        <text encoding="base64">ICAgICAgICA8SWNvbiBsaW5rIHNpemU9ImxhcmdlIgogICAgICAgICAgbmFtZT0idXNlciBkZWxldGUiCiAgICAgICAgICBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0KICAgICAgICAvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SWNvbiBsaW5rIHNpemU9ImxhcmdlIgogICAgICAgICAgbmFtZT0idXNlciBkZWxldGUiCiAgICAgICAgICBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxNb2RhbAogICAgICAgICAgICAgICAgICBzaXplPSJtaW5pIgogICAgICAgICAgICAgICAgICB0cmlnZ2VyPXsKICAgICAgICAgICAgICAgICAgICA8SWNvbiBsaW5rIHNpemU9ImxhcmdlIgogICAgICAgICAgICAgICAgICAgICAgbmFtZT0idXNlciBkZWxldGUiCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0KICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxIZWFkZXIgaWNvbj0ndXNlciBkZWxldGUnIGNvbnRlbnQ9J0RlbGV0ZSBVc2VyJyAvPgogICAgICAgICAgICAgICAgICA8TW9kYWwuQ29udGVudD4KICAgICAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgICAgIERvIHlvdSByZWFsbHkgd2FudCB0byBkZWxldGUgdXNlcgogICAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz4ge3VzZXIudXNlcm5hbWV9IDwvc3Ryb25nPj8KICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgIDwvTW9kYWwuQ29udGVudD4KICAgICAgICAgICAgICAgICAgPE1vZGFsLkFjdGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBjb2xvcj0ncmVkJwogICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5kZWxldGVVc2VyQXN5bmModXNlci5pZCl9CiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgPEljb24gbmFtZT0ndHJhc2gnIC8+RGVsZXRlIFVzZXIKICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgPC9Nb2RhbC5BY3Rpb25zPgogICAgICAgICAgICAgICAgPC9Nb2RhbD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxNb2RhbAogICAgICAgICAgICAgICAgICBzaXplPSJtaW5pIgogICAgICAgICAgICAgICAgICB0cmlnZ2VyPXsKICAgICAgICAgICAgICAgICAgICA8SWNvbiBsaW5rIHNpemU9ImxhcmdlIgogICAgICAgICAgICAgICAgICAgICAgbmFtZT0idXNlciBkZWxldGUiCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17e2Zsb2F0OiAncmlnaHQnfX0KICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxIZWFkZXIgaWNvbj0ndXNlciBkZWxldGUnIGNvbnRlbnQ9J0RlbGV0ZSBVc2VyJyAvPgogICAgICAgICAgICAgICAgICA8TW9kYWwuQ29udGVudD4KICAgICAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgICAgIERvIHlvdSByZWFsbHkgd2FudCB0byBkZWxldGUgdXNlcgogICAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz4ge3VzZXIudXNlcm5hbWV9IDwvc3Ryb25nPj8KICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgIDwvTW9kYWwuQ29udGVudD4KICAgICAgICAgICAgICAgICAgPE1vZGFsLkFjdGlvbnM+CiAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBjb2xvcj0ncmVkJwogICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gdGhpcy5wcm9wcy5kZWxldGVVc2VyQXN5bmModXNlci5pZCl9CiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgPEljb24gbmFtZT0ndHJhc2gnIC8+RGVsZXRlIFVzZXIKICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgPC9Nb2RhbC5BY3Rpb25zPgogICAgICAgICAgICAgICAgPC9Nb2RhbD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
