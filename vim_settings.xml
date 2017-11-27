@@ -26,9 +26,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1511247410045">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/illuminatorcfg.test.js" timestamp="1510100002854">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -38,9 +35,6 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1511494780247">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" timestamp="1511398247046">
         <mark key="'" line="2" column="20" />
@@ -78,17 +72,17 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" timestamp="1511756934881">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" timestamp="1511759441355">
         <mark key="'" line="71" column="15" />
-        <mark key="[" line="188" column="12" />
-        <mark key="]" line="188" column="21" />
-        <mark key="^" line="188" column="21" />
-        <mark key="." line="188" column="21" />
+        <mark key="[" line="198" column="29" />
+        <mark key="]" line="198" column="29" />
+        <mark key="^" line="189" column="63" />
+        <mark key="." line="198" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" timestamp="1511485346588">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" timestamp="1511762641645">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/mongoplugins/withchildren.js" timestamp="1510097570592">
         <mark key="[" line="82" column="0" />
@@ -112,11 +106,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" timestamp="1511758162018">
-        <mark key="'" line="72" column="21" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="12" />
-        <mark key="." line="68" column="12" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" timestamp="1511761580238">
+        <mark key="'" line="99" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UserCreationForm.js" timestamp="1511502910482">
         <mark key="'" line="29" column="23" />
@@ -150,12 +144,6 @@
         <mark key="]" line="44" column="24" />
         <mark key="^" line="44" column="24" />
         <mark key="." line="44" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/reducers.js" timestamp="1511496168738">
-        <mark key="'" line="3" column="22" />
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="41" />
-        <mark key="." line="5" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" timestamp="1511736038920">
         <mark key="'" line="14" column="12" />
@@ -280,11 +268,11 @@
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/components/GoogleMap.js" timestamp="1511756394603">
         <mark key="'" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/OrganizationProfile.js" timestamp="1511482401708">
-        <mark key="'" line="114" column="21" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="56" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/index.js" timestamp="1511761117855">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" timestamp="1511321409938">
         <mark key="[" line="6" column="0" />
@@ -298,11 +286,12 @@
         <mark key="." line="27" column="21" />
         <mark key="^" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" timestamp="1511483196518">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="15" column="4" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" timestamp="1511763171454">
+        <mark key="'" line="22" column="14" />
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="17" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="50" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" timestamp="1511502305179">
         <mark key="'" line="197" column="23" />
@@ -311,25 +300,10 @@
         <mark key="^" line="176" column="29" />
         <mark key="." line="176" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/Groups.js" timestamp="1511406513769">
-        <mark key="'" line="151" column="10" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="10" />
-        <mark key="." line="105" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ClubsModal.js" timestamp="1511401292721">
-        <mark key="'" line="108" column="24" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/auth.test.js" timestamp="1510097225127">
         <mark key="[" line="26" column="45" />
         <mark key="]" line="26" column="45" />
         <mark key="." line="26" column="45" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1511498062318">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/RootModal.js" timestamp="1511395576298">
         <mark key="'" line="25" column="0" />
@@ -337,6 +311,9 @@
         <mark key="]" line="28" column="21" />
         <mark key="^" line="28" column="21" />
         <mark key="." line="28" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/flow-typed/npm/react-router-dom_v4.x.x.js" timestamp="1511760504962">
+        <mark key="'" line="77" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/actions.js" timestamp="1511322211012">
         <mark key="[" line="6" column="0" />
@@ -381,17 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/reducers.js" />
-      <jump line="11" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/ModalRoot.js" />
-      <jump line="2" column="33" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/ModalRoot.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/ModalRoot.js" />
-      <jump line="3" column="46" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/ModalRoot.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/ModalRoot.js" />
-      <jump line="33" column="49" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/ModalRoot.js" />
-      <jump line="21" column="48" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/reducers.js" />
-      <jump line="19" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/ModalRoot.js" />
-      <jump line="44" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/reducers.js" />
-      <jump line="43" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/reducers.js" />
       <jump line="95" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
       <jump line="54" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="49" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
@@ -481,61 +447,74 @@
       <jump line="71" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="6" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/components/GoogleMap.js" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/node_modules/google-map-react/lib/index.js" />
+      <jump line="91" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/flow-typed/npm/react-router-dom_v4.x.x.js" />
+      <jump line="153" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/flow-typed/npm/react-router-dom_v4.x.x.js" />
+      <jump line="31" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/flow-typed/npm/react-router-dom_v4.x.x.js" />
+      <jump line="77" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/flow-typed/npm/react-router-dom_v4.x.x.js" />
+      <jump line="3" column="38" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/node_modules/react-router/index.js" />
+      <jump line="73" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
+      <jump line="100" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
+      <jump line="25" column="8" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" />
+      <jump line="9" column="8" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" />
+      <jump line="14" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9NZW51Lk1lbnU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>open</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>open</text>
       </register>
       <register name="/" type="4">
-        <text>getName</text>
+        <text>onClick</text>
       </register>
-      <register name="0" type="4">
-        <text>{ width: '350px', overflow: 'auto' }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBuYW1lOiBzdHJpbmcsCiAgYWJicmV2aWF0aW9uOiBzdHJpbmcsCiAgcGluOiBudW1iZXIgfCBzdHJpbmcsCiAgY29udGFjdE5hbWU6IHN0cmluZywKICBjb250YWN0UGhvbmU6IHN0cmluZywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9NZW51Lk1lbnU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnUuTWVudSBhdHRhY2hlZD0iYm90dG9tIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9NZW51Lk1lbnU+Cg==</text>
+        <text encoding="base64">ICAgICAgaWQ6ICcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE1lbnUuTWVudSBwb3NpdGlvbj0ncmlnaHQnPgo=</text>
+        <text encoding="base64">ICAgICAgZmllbGRzOiAnJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L0dyaWQuUm93Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8R3JpZC5Sb3c+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBzdGF0ZSA9IHsKICAgIG5hbWU6ICcnLAogICAgYWJicmV2aWF0aW9uOiAnJywKICAgIAogIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3toZWlnaHQ6ICdpbmhlcml0J319Cg==</text>
+      <register name="8" type="4">
+        <text>{
+  
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3dYOiAnaGlkZGVuJywKICAgICAgICAgICAgb3ZlcmZsb3dZOiAnYXV0bycK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getName</last-search>
+      <last-search>onClick</last-search>
       <last-offset />
-      <last-pattern>getName</last-pattern>
+      <last-pattern>onClick</last-pattern>
       <last-replace>state.ui</last-replace>
       <last-substitute>props.scheduleUi</last-substitute>
       <last-dir>1</last-dir>
@@ -543,9 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Parry Park</entry>
-        <entry encoding="base64">XDxvcmcxXD4=</entry>
-        <entry encoding="base64">XDxdXD4=</entry>
         <entry>props.</entry>
         <entry>socket</entry>
         <entry>field</entry>
@@ -563,6 +539,9 @@
         <entry>map</entry>
         <entry>props.scheduleUi</entry>
         <entry>getName</entry>
+        <entry>match</entry>
+        <entry>Location</entry>
+        <entry>onClick</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SCHEDULE/CLOSED</entry>
@@ -581,9 +560,9 @@
         <entry>w'</entry>
         <entry>qw</entry>
         <entry>only</entry>
-        <entry>spl</entry>
         <entry>W</entry>
         <entry>&quot;w</entry>
+        <entry>spl</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
