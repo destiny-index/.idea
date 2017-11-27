@@ -49,12 +49,12 @@
         <mark key="." line="19" column="107" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" timestamp="1511747350456">
-        <mark key="'" line="57" column="17" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" timestamp="1511752227362">
+        <mark key="'" line="58" column="17" />
         <mark key="[" line="188" column="11" />
         <mark key="]" line="188" column="11" />
         <mark key="." line="188" column="11" />
-        <mark key="^" line="188" column="30" />
+        <mark key="^" line="188" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/reducers.js" timestamp="1511485346588">
         <mark key="[" line="5" column="14" />
@@ -230,12 +230,12 @@
         <mark key="." line="33" column="19" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" timestamp="1511747413693">
-        <mark key="'" line="75" column="49" />
-        <mark key="[" line="70" column="25" />
-        <mark key="]" line="70" column="25" />
-        <mark key="." line="70" column="25" />
-        <mark key="^" line="42" column="92" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" timestamp="1511752260785">
+        <mark key="'" line="72" column="21" />
+        <mark key="[" line="71" column="19" />
+        <mark key="]" line="71" column="19" />
+        <mark key="." line="71" column="19" />
+        <mark key="^" line="71" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UserCreationForm.js" timestamp="1511502910482">
         <mark key="'" line="29" column="23" />
@@ -378,8 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" />
-      <jump line="187" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" />
       <jump line="103" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
       <jump line="134" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" />
       <jump line="22" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/asyncRequest.js" />
@@ -478,16 +476,18 @@
       <jump line="95" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="197" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
       <jump line="57" column="17" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/googleMaps/containers/Map.js" />
+      <jump line="32" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/containers/PrivateRoute.js" />
+      <jump line="72" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHN0eWxlPXt7ZmxleEdyb3c6IDF9fQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPXt7ZmxleEdyb3c6IDF9fQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>getName</text>
@@ -499,31 +499,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoZWQ9J2JvdHRvbScK</text>
+        <text encoding="base64">ICBzdHlsZT86IE9iamVjdCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9Db250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNoZWQ9J2JvdHRvbScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPENvbnRhaW5lcj4K</text>
+        <text encoding="base64">ICAgICAgPC9Db250YWluZXI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9Db250YWluZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgPENvbnRhaW5lcj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbnRhaW5lcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9Db250YWluZXI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENvbnRhaW5lcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ1JpZ2h0OiAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogMCwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ1JpZ2h0OiAwLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogJzEwMHZoJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ1JpZ2h0OiAwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -562,7 +562,6 @@
         <entry>getName</entry>
       </history-search>
       <history-cmd>
-        <entry>Q</entry>
         <entry>%s/SCHEDULE/CLOSED</entry>
         <entry>%s/SCHEDULE/OPEN</entry>
         <entry>2</entry>
@@ -572,7 +571,6 @@
         <entry>wall</entry>
         <entry>vspl</entry>
         <entry>:w</entry>
-        <entry>spl</entry>
         <entry>2w</entry>
         <entry>we</entry>
         <entry>wq</entry>
@@ -581,6 +579,8 @@
         <entry>W</entry>
         <entry>qw</entry>
         <entry>&quot;w</entry>
+        <entry>only</entry>
+        <entry>spl</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
