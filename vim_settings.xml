@@ -10,8 +10,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" timestamp="1511834568583">
-        <mark key="'" line="66" column="21" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" timestamp="1511840363158">
+        <mark key="'" line="66" column="16" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -175,12 +175,11 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/reusable/PaginatedTable/index.js" timestamp="1511835348051">
-        <mark key="'" line="55" column="60" />
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="42" column="42" />
-        <mark key="." line="42" column="42" />
-        <mark key="^" line="42" column="42" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/reusable/PaginatedTable/index.js" timestamp="1511840270409">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UserDeletionModal.js" timestamp="1511504308665">
         <mark key="'" line="5" column="0" />
@@ -431,7 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="30" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" />
       <jump line="2" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" />
       <jump line="67" column="34" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" />
@@ -529,18 +527,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" />
       <jump line="75" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" />
       <jump line="46" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/reducers.js" />
-      <jump line="66" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" />
       <jump line="43" column="60" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/reusable/PaginatedTable/index.js" />
+      <jump line="49" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/reusable/PaginatedTable/index.js" />
+      <jump line="66" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU9J3NlYXJjaCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVNlYXJjaENoYW5nZX0K</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>, State</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -552,31 +551,33 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU9J3NlYXJjaCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVNlYXJjaENoYW5nZX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgUGFnaW5hdGVkVGFibGVIZWFkZXIgPQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlPXt0aGlzLnN0YXRlLnNlYXJjaH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0ZSA9IHsKICAgIHNlYXJjaDogJycKICB9CgogIGhhbmRsZVNlYXJjaENoYW5nZSA9IChlOiBTeW50aGV0aWNFdmVudDw+LCB7dmFsdWV9OiB7dmFsdWU6IHN0cmluZ30pID0+IHsKICAgIHRoaXMuc2V0U3RhdGUoeyBzZWFyY2g6IHZhbHVlIH0pCiAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgTGlua0ZpZWxkcyBleHRlbmRzIFJlYWN0LkNvbXBvbmVudDx7CiAgYXNzaWduZWU6IENsdWIKfT4gewogIHJlbmRlciAoKSB7CiAgICByZXR1cm4gKAogICAgICA8c3BhbiAvPgogICAgKQogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgTGlua0ZpZWxkcyBleHRlbmRzIFJlYWN0LkNvbXBvbmVudDx7CiAgYXNzaWduZWU6IENsdWIKfT4gewogIHJlbmRlciAoKSB7CiAgICByZXR1cm4gKAogICAgICA8c3BhbiAvPgogICAgKQogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxEZWxldGVHcm91cEljb24gZ3JvdXA9e2dyb3VwfSAvPgo=</text>
+      <register name="6" type="4">
+        <text>type State = {
+  search: string
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7ZmxvYXQ6ICdyaWdodCd9fSA+CiAgICAgICAgICAgICAgICAgIDxJY29uIG5hbWU9ImVkaXQiIGxpbmsgLz4KICAgICAgICAgICAgICAgICAgPEljb24gbmFtZT0iZGVsZXRlIiBsaW5rIC8+CiAgICAgICAgICAgICAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU9J3NlYXJjaCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgUGFnaW5hdGVkVGFibGVIZWFkZXIgPQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPXt7ZmxvYXQ6ICdyaWdodCd9fSA+CiAgICAgICAgICAgICAgICAgIDxJY29uIG5hbWU9ImRlbGV0ZSIgbGluayAvPgogICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
