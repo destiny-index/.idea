@@ -225,6 +225,9 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/FirmwareUpgrade.java" timestamp="1511835652226">
+        <mark key="'" line="134" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/Demo.js" timestamp="1507174746048">
         <mark key="'" line="6" column="44" />
         <mark key="[" line="51" column="0" />
@@ -528,7 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="33" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupForm.js" />
       <jump line="95" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
       <jump line="69" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/actions.js" />
       <jump line="14" column="48" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
@@ -628,6 +630,7 @@
       <jump line="49" column="8" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" />
       <jump line="32" column="29" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" />
       <jump line="40" column="11" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" />
+      <jump line="134" column="26" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/FirmwareUpgrade.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
