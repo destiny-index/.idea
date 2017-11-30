@@ -120,13 +120,13 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="44" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" timestamp="1512015484372">
-        <mark key="'" line="177" column="33" />
-        <mark key="[" line="155" column="15" />
-        <mark key="m" line="162" column="40" />
-        <mark key="]" line="155" column="15" />
-        <mark key="." line="155" column="15" />
-        <mark key="^" line="155" column="15" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" timestamp="1512016477005">
+        <mark key="'" line="149" column="14" />
+        <mark key="[" line="3" column="39" />
+        <mark key="m" line="165" column="40" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" timestamp="1511736038920">
         <mark key="'" line="14" column="12" />
@@ -313,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="19" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/actions.js" />
       <jump line="218" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
       <jump line="32" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
@@ -413,10 +412,11 @@
       <jump line="36" column="38" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubFieldsModal.js" />
       <jump line="32" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubFieldsModal.js" />
       <jump line="106" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/actions.js" />
+      <jump line="149" column="14" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvRm9ybT4K</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
@@ -434,31 +434,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvRm9ybT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+IDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXI9ezxzcGFuPjxJY29uIG5hbWU9J2V4Y2hhbmdlJyAvPkFzc2lnbiBvciBSZW1vdmUgRmllbGRzPC9zcGFuPn0K</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB2YWx1ZTogJycgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgeyBGaWVsZElkIH0gZnJvbSAnLi4vLi4vZmllbGRzL3JlZHVjZXJzJwo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXI9ezxzcGFuPjxJY29uIG5hbWU9J2V4Y2hhbmdlJyAvPkFzc2lnbiBvciBSZW1vdmUgRmllbGRzPC9zcGFuPn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZW5kZXIiKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyB2YWx1ZTogJycgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCBhZGRGaWVsZFRvQ2x1YkFzeW5jID0gKAogIGNsdWJJZDogQ2x1YklkLCBmaWVsZElkOiBGaWVsZElkCik6IFRodW5rQWN0aW9uID0+IGFzeW5jIChkaXNwYXRjaCwgZ2V0U3RhdGUpID0+IHsKICB0cnkgewogICAgY29uc3QgY2x1YiA9IGdldENsdWIoZ2V0U3RhdGUoKS5jbHVicywgY2x1YklkKQogICAgY29uc3Qge2RhdGE6IHVwZGF0ZWRDbHVifSA9IGF3YWl0IGF4aW9zLnB1dChgL2FwaS9jbHVicy8ke2NsdWIuaWR9YCwgewogICAgICAuLi5jbHViLAogICAgICBmaWVsZHM6IFsuLi5jbHViLmZpZWxkcywgZmllbGRJZF0KICAgIH0pCgogICAgZGlzcGF0Y2gobG9hZENsdWIodXBkYXRlZENsdWIpKQogIH0gY2F0Y2ggKGVycikgewogICAgY29uc29sZS5lcnJvcihlcnIpCiAgfQp9CgpleHBvcnQgY29uc3QgcmVtb3ZlRmllbGRGcm9tQ2x1YkFzeW5jID0gKAogIGNsdWJJZDogQ2x1YklkLCBmaWVsZElkOiBGaWVsZElkCik6IFRodW5rQWN0aW9uID0+IGFzeW5jIChkaXNwYXRjaCwgZ2V0U3RhdGUpID0+IHsKICB0cnkgewogICAgY29uc3QgY2x1YiA9IGdldENsdWIoZ2V0U3RhdGUoKS5jbHVicywgY2x1YklkKQoKICAgIGNvbnN0IHtkYXRhOiB1cGRhdGVkQ2x1Yn0gPSBhd2FpdCBheGlvcy5wdXQoYC9hcGkvY2x1YnMvJHtjbHViLmlkfWAsIHsKICAgICAgLi4uY2x1YiwKICAgICAgZmllbGRzOiBjbHViLmZpZWxkcy5maWx0ZXIoaWQgPT4gaWQgIT09IGZpZWxkSWQpCiAgICB9KQoKICAgIGRpc3BhdGNoKGxvYWRDbHViKHVwZGF0ZWRDbHViKSkKICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnNvbGUuZXJyb3IoZXJyKQogIH0KfQo=</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgeyBGaWVsZElkIH0gZnJvbSAnLi4vLi4vZmllbGRzL3JlZHVjZXJzJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuPk1hbmFnZSBGaWVsZHM8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZW5kZXIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNsdWIgPQo=</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBhZGRGaWVsZFRvQ2x1YkFzeW5jID0gKAogIGNsdWJJZDogQ2x1YklkLCBmaWVsZElkOiBGaWVsZElkCik6IFRodW5rQWN0aW9uID0+IGFzeW5jIChkaXNwYXRjaCwgZ2V0U3RhdGUpID0+IHsKICB0cnkgewogICAgY29uc3QgY2x1YiA9IGdldENsdWIoZ2V0U3RhdGUoKS5jbHVicywgY2x1YklkKQogICAgY29uc3Qge2RhdGE6IHVwZGF0ZWRDbHVifSA9IGF3YWl0IGF4aW9zLnB1dChgL2FwaS9jbHVicy8ke2NsdWIuaWR9YCwgewogICAgICAuLi5jbHViLAogICAgICBmaWVsZHM6IFsuLi5jbHViLmZpZWxkcywgZmllbGRJZF0KICAgIH0pCgogICAgZGlzcGF0Y2gobG9hZENsdWIodXBkYXRlZENsdWIpKQogIH0gY2F0Y2ggKGVycikgewogICAgY29uc29sZS5lcnJvcihlcnIpCiAgfQp9CgpleHBvcnQgY29uc3QgcmVtb3ZlRmllbGRGcm9tQ2x1YkFzeW5jID0gKAogIGNsdWJJZDogQ2x1YklkLCBmaWVsZElkOiBGaWVsZElkCik6IFRodW5rQWN0aW9uID0+IGFzeW5jIChkaXNwYXRjaCwgZ2V0U3RhdGUpID0+IHsKICB0cnkgewogICAgY29uc3QgY2x1YiA9IGdldENsdWIoZ2V0U3RhdGUoKS5jbHVicywgY2x1YklkKQoKICAgIGNvbnN0IHtkYXRhOiB1cGRhdGVkQ2x1Yn0gPSBhd2FpdCBheGlvcy5wdXQoYC9hcGkvY2x1YnMvJHtjbHViLmlkfWAsIHsKICAgICAgLi4uY2x1YiwKICAgICAgZmllbGRzOiBjbHViLmZpZWxkcy5maWx0ZXIoaWQgPT4gaWQgIT09IGZpZWxkSWQpCiAgICB9KQoKICAgIGRpc3BhdGNoKGxvYWRDbHViKHVwZGF0ZWRDbHViKSkKICB9IGNhdGNoIChlcnIpIHsKICAgIGNvbnNvbGUuZXJyb3IoZXJyKQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
