@@ -33,7 +33,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" timestamp="1510802538023">
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" timestamp="1512024255384">
+        <mark key="'" line="109" column="27" />
         <mark key="[" line="23" column="41" />
         <mark key="]" line="23" column="42" />
         <mark key="." line="23" column="42" />
@@ -531,7 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreationForm.js" />
       <jump line="69" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/actions.js" />
       <jump line="14" column="48" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
       <jump line="15" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
@@ -631,6 +631,7 @@
       <jump line="32" column="29" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" />
       <jump line="40" column="11" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" />
       <jump line="134" column="26" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/FirmwareUpgrade.java" />
+      <jump line="109" column="27" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -640,7 +641,7 @@
         <text>// eslint-disable-line no-unused-vars</text>
       </register>
       <register name="/" type="4">
-        <text>filt</text>
+        <text>bootloader</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CmNvbnN0IEdyb3VwUGFuZWxUaXRsZSA9IChwcm9wczogewogIGdyb3VwOiBHcm91cCwKICBvcGVuR3JvdXA6IEdyb3VwSWQgPT4gdm9pZCwKICBjbG9zZUdyb3VwOiBHcm91cElkID0+IHZvaWQsCiAgZWRpdEdyb3VwOiBHcm91cCA9PiB2b2lkLAp9KSA9PiAoCiAgPHNwYW4+CiAgICA8c3Ryb25nPntwcm9wcy5ncm91cC5uYW1lfTwvc3Ryb25nPgogICAgPEdyb3VwRm9ybQogICAgICB0aXRsZT0iRWRpdCBHcm91cCIgZ3JvdXA9e3Byb3BzLmdyb3VwfQogICAgICB0cmlnZ2VyPXsKICAgICAgICA8SWNvbiBsaW5rIHNpemU9ImxhcmdlIiBuYW1lPSJlZGl0IgogICAgICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0J319CiAgICAgICAgLz4KICAgICAgfQogICAgICBvblN1Ym1pdD17cHJvcHMuZWRpdEdyb3VwfQogICAgLz4KICAgIDxCdXR0b24KICAgICAgbmVnYXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLmNsb3NlR3JvdXAocHJvcHMuZ3JvdXAuaWQpCiAgICAgIH19CiAgICA+CiAgICAgIENsb3NlCiAgICA8L0J1dHRvbj4KICAgIDxCdXR0b24KICAgICAgcG9zaXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLm9wZW5Hcm91cChwcm9wcy5ncm91cC5pZCkKICAgICAgfX0KICAgID4KICAgICAgT3BlbgogICAgPC9CdXR0b24+CiAgPC9zcGFuPgopCg==</text>
@@ -680,9 +681,9 @@
       </register>
     </registers>
     <search>
-      <last-search>filt</last-search>
+      <last-search>bootloader</last-search>
       <last-offset />
-      <last-pattern>filt</last-pattern>
+      <last-pattern>bootloader</last-pattern>
       <last-replace>schedules</last-replace>
       <last-substitute>schedule</last-substitute>
       <last-dir>1</last-dir>
@@ -690,7 +691,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\v= ('.+')</entry>
         <entry>'open'</entry>
         <entry>'CLOS</entry>
         <entry>CLOSED</entry>
@@ -710,6 +710,7 @@
         <entry>schedule</entry>
         <entry>map</entry>
         <entry>filt</entry>
+        <entry>bootloader</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLydjbG9zZWQnLydDTE9TRUQnLw==</entry>
