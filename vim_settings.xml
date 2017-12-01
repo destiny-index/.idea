@@ -132,13 +132,12 @@
         <mark key="^" line="61" column="25" />
         <mark key="." line="61" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" timestamp="1512103424829">
-        <mark key="'" line="68" column="5" />
-        <mark key="[" line="68" column="69" />
-        <mark key="m" line="192" column="40" />
-        <mark key="]" line="69" column="5" />
-        <mark key="." line="69" column="5" />
-        <mark key="^" line="69" column="5" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" timestamp="1512104685333">
+        <mark key="[" line="203" column="0" />
+        <mark key="m" line="193" column="40" />
+        <mark key="]" line="203" column="32" />
+        <mark key="^" line="206" column="68" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/reducers.js" timestamp="1511736038920">
         <mark key="'" line="14" column="12" />
@@ -328,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/actions.js" />
       <jump line="90" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UsersManagement.js" />
       <jump line="35" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UsersManagement.js" />
       <jump line="81" column="33" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/reducers.js" />
@@ -428,52 +426,53 @@
       <jump line="84" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="62" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
       <jump line="68" column="5" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
+      <jump line="203" column="49" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXAgfSBmcm9tICcuL3JlZHVjZXJzJwppbXBvcnQgdHlwZSB7IEZpZWxkSWQgfSBmcm9tICcuLi9maWVsZHMvcmVkdWNlcnMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQubmFtZX0K</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>getNameOfFacilityContainingField(this.props.facilities, field.id)</text>
+        <text>open</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9wdGlvbnMgPSB0aGlzLmdldEZpZWxkc1dpdGhGYWNpbGl0eU5hbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgID8gPExhYmVsIGhvcml6b250YWw+b3BlbjwvTGFiZWw+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXAgfSBmcm9tICcuL3JlZHVjZXJzJwppbXBvcnQgdHlwZSB7IEZpZWxkSWQgfSBmcm9tICcuLi9maWVsZHMvcmVkdWNlcnMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQubmFtZX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGFiZWwgaG9yaXpvbnRhbD57aXNGaWVsZE9wZW4oZmllbGQpID8gJ29wZW4nIDogJ2Nsb3NlZCd9PC9MYWJlbD4K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghcXVlcnkpIHJldHVybiBvcHRpb25zCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXAgfSBmcm9tICcuL3JlZHVjZXJzJwppbXBvcnQgdHlwZSB7IEZpZWxkSWQgfSBmcm9tICcuLi9maWVsZHMvcmVkdWNlcnMnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExhYmVsIGhvcml6b250YWw+e2ZpZWxkLmZhY2lsaXR5TmFtZX08L0xhYmVsPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0QWxsRmllbGRzIH0gZnJvbSAnLi4vcmVkdWNlcnMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvU3Bhbi5Db250ZW50Pgo=</text>
+        <text encoding="base64">ICAgIGlmICghcXVlcnkpIHJldHVybiBvcHRpb25zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPExhYmVsIGhvcml6b250YWw+e2ZpZWxkLmZhY2lsaXR5TmFtZX08L0xhYmVsPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L0hlYWRlcj4K</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0QWxsRmllbGRzIH0gZnJvbSAnLi4vcmVkdWNlcnMnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -527,10 +526,10 @@
         <entry>vspl</entry>
         <entry>:w</entry>
         <entry>spl</entry>
-        <entry>&quot;w</entry>
         <entry>vsp</entry>
         <entry>clo</entry>
         <entry>W</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
