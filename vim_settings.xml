@@ -209,12 +209,12 @@
         <mark key="." line="167" column="72" />
         <mark key="^" line="167" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" timestamp="1511932011307">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/actions.js" timestamp="1512105706645">
         <mark key="'" line="74" column="25" />
-        <mark key="[" line="181" column="57" />
-        <mark key="]" line="182" column="32" />
-        <mark key="." line="182" column="32" />
-        <mark key="^" line="182" column="32" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="178" column="32" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupsManagement.js" timestamp="1512092848454">
         <mark key="'" line="139" column="32" />
@@ -430,7 +430,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQubmFtZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
@@ -448,31 +448,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQubmFtZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGFiZWwgaG9yaXpvbnRhbD57aXNGaWVsZE9wZW4oZmllbGQpID8gJ29wZW4nIDogJ2Nsb3NlZCd9PC9MYWJlbD4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIGlmIChnZXRGaWVsZChnZXRTdGF0ZSgpLmZpZWxkcywgaWQpKSB7CiAgICAgIHJldHVybiAvLyBBbHJlYWR5IGxvYWRlZAogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXAgfSBmcm9tICcuL3JlZHVjZXJzJwppbXBvcnQgdHlwZSB7IEZpZWxkSWQgfSBmcm9tICcuLi9maWVsZHMvcmVkdWNlcnMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZmllbGQubmFtZX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGFiZWwgaG9yaXpvbnRhbD57aXNGaWVsZE9wZW4oZmllbGQpID8gJ29wZW4nIDogJ2Nsb3NlZCd9PC9MYWJlbD4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghcXVlcnkpIHJldHVybiBvcHRpb25zCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0R3JvdXAgfSBmcm9tICcuL3JlZHVjZXJzJwppbXBvcnQgdHlwZSB7IEZpZWxkSWQgfSBmcm9tICcuLi9maWVsZHMvcmVkdWNlcnMnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPExhYmVsIGhvcml6b250YWw+e2ZpZWxkLmZhY2lsaXR5TmFtZX08L0xhYmVsPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0QWxsRmllbGRzIH0gZnJvbSAnLi4vcmVkdWNlcnMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
