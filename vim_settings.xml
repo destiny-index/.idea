@@ -17,7 +17,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1511937692922">
+      <file name="/fragment.js" timestamp="1512365781605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/illuminatorcfg.test.js" timestamp="1510100002854">
@@ -245,6 +245,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" timestamp="1512365140361">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="157" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/actions.js" timestamp="1511493261636">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="16" column="20" />
@@ -331,11 +336,11 @@
         <mark key="." line="168" column="47" />
         <mark key="^" line="168" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.js" timestamp="1512364592675">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="35" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.js" timestamp="1512364812840">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+        <mark key="^" line="3" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminatorcfg.js" timestamp="1510100001054">
         <mark key="[" line="42" column="0" />
@@ -360,10 +365,6 @@
         <mark key="^" line="13" column="27" />
         <mark key="." line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/group.js" timestamp="1512107556463">
-        <mark key="'" line="3" column="43" />
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" timestamp="1511321409938">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -376,6 +377,13 @@
         <mark key="]" line="72" column="31" />
         <mark key="." line="72" column="31" />
         <mark key="^" line="72" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/template.test.js" timestamp="1512364992002">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" timestamp="1512090643530">
         <mark key="'" line="6" column="0" />
@@ -501,6 +509,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.test.js" timestamp="1512366156338">
+        <mark key="'" line="45" column="29" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/db/seeds.js" timestamp="1511244115545">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -543,15 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditModal.js" />
-      <jump line="1" column="24" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditModal.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditModal.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditModal.js" />
-      <jump line="2" column="34" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditModal.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditModal.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/modal/containers/ModalRoot.js" />
-      <jump line="20" column="34" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/actions.js" />
-      <jump line="17" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreateModal.js" />
       <jump line="4" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/components/ClubForm.js" />
       <jump line="37" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/actions.js" />
@@ -643,52 +648,64 @@
       <jump line="75" column="63" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
       <jump line="20" column="41" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
       <jump line="76" column="73" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/template.test.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
+      <jump line="30" column="3" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
+      <jump line="13" column="29" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.test.js" />
+      <jump line="0" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/paths.js" />
+      <jump line="3" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/factory-girl.js" />
+      <jump line="44" column="29" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// addToSet should increment __v to prevent race conditions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuYm9keSkK</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>// addToSet should increment __v to prevent race conditions</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>attachments</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VydmVyRXJyb3IsIE1pc3NpbmdSZXNvdXJjZUVycm9yIH0gZnJvbSAnLi4vaGVscGVycy9lcnJvcnMnCg==</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwppbXBvcnQgY29uZmlnIGZyb20gJy4uL2NvbmZpZy9jb25maWcnCmltcG9ydCBhcHAgZnJvbSAnLi4vY29uZmlnL2V4cHJlc3MnCmltcG9ydCBtb25nb29zZSBmcm9tICcuLi9jb25maWcvbW9uZ29vc2UnCmltcG9ydCBmYWN0b3J5IGZyb20gJy4uL2NvbmZpZy9mYWN0b3J5LWdpcmwnCmltcG9ydCAqIGFzIHBhdGhzIGZyb20gJy4uL2NvbmZpZy9wYXRocycKaW1wb3J0IHJlcXVlc3QgZnJvbSAnc3VwZXJ0ZXN0JwoKaW1wb3J0IEZhY2lsaXR5IGZyb20gJy4uL21vZGVscy9mYWNpbGl0eScKaW1wb3J0IE9yZ2FuaXphdGlvbiBmcm9tICcuLi9tb2RlbHMvb3JnYW5pemF0aW9uJwppbXBvcnQgeyBwb3B1bGF0ZVRvUGF0aCwgZmluZFJlc291cmNlcyB9IGZyb20gJy4uL2hlbHBlcnMvcG9wdWxhdGlvbicKCmNvbnN0IHBhc3N3b3JkID0gJ3Bhc3N3b3JkJwpjb25zdCBwYXRoID0gcGF0aHMuZmFjaWxpdHkKCmRlc2NyaWJlKCdUaGUgRmFjaWxpdHkgQVBJJywgKCkgPT4gewogIGJlZm9yZUFsbChhc3luYyAoKSA9PiBtb25nb29zZS5jb25uZWN0KGNvbmZpZy5kYXRhYmFzZS51cmksIHt1c2VNb25nb0NsaWVudDogdHJ1ZX0pKQogIGFmdGVyQWxsKGFzeW5jICgpID0+IG1vbmdvb3NlLmRpc2Nvbm5lY3QoKSkKCiAgbGV0IHVzZXIKICBsZXQgZmFjaWxpdGllcwogIGxldCBmYWNpbGl0eQoKICBiZWZvcmVFYWNoKGFzeW5jICgpID0+IHsKICAgIHVzZXIgPSBhd2FpdCBmYWN0b3J5LmNyZWF0ZSgnVGVzdFVzZXInKQoKICAgIGNvbnN0IHBvcHVsYXRlZCA9IGF3YWl0IHBvcHVsYXRlVG9QYXRoKHVzZXIsIHBhdGgpCgogICAgZmFjaWxpdGllcyA9IGZpbmRSZXNvdXJjZXMocG9wdWxhdGVkLCBwYXRoKQogICAgZmFjaWxpdHkgPSBmYWNpbGl0aWVzWzBdCiAgfSkKCiAgYWZ0ZXJFYWNoKGFzeW5jICgpID0+IGZhY3RvcnkuY2xlYW5VcCgpKQoKICBkZXNjcmliZSgnVGhlIEZhY2lsaXR5IFVuZGVyIFRlc3QnLCAoKSA9PiB7CiAgICBpdCgnc2hvdWxkIG5vdCBiZSB1bmRlZmluZWQnLCAoKSA9PiB7CiAgICAgIGV4cGVjdChmYWNpbGl0eSkubm90LnRvQmVVbmRlZmluZWQoKQogICAgfSkKICB9KQoKICBkZXNjcmliZSgnUE9TVCAvYXBpL2ZhY2lsaXRpZXMnLCAoKSA9PiB7CiAgICBpdCgnc2hvdWxkIGNyZWF0ZSBhbmQgcmV0dXJuIGEgbmV3IGZhY2lsaXR5JywgYXN5bmMgKCkgPT4gewogICAgICBjb25zdCBvcmdhbml6YXRpb24gPSBmYWNpbGl0eS5fcGFyZW50CiAgICAgIGNvbnN0IGNyZWF0ZWRGYWNpbGl0eSA9IGF3YWl0IGZhY3RvcnkuYnVpbGQoJ0ZhY2lsaXR5JykKCiAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgcmVxdWVzdChhcHApCiAgICAgICAgLnBvc3QoYC9hcGkvb3JnYW5pemF0aW9ucy8ke29yZ2FuaXphdGlvbi5pZH0vZmFjaWxpdGllc2ApCiAgICAgICAgLmF1dGgodXNlci51c2VybmFtZSwgcGFzc3dvcmQpCiAgICAgICAgLnNlbmQoY3JlYXRlZEZhY2lsaXR5KQoKICAgICAgY29uc3QgZm91bmQgPSBhd2FpdCBGYWNpbGl0eS5maW5kQnlJZChjcmVhdGVkRmFjaWxpdHkuX2lkKQogICAgICBleHBlY3QoZm91bmQpLm5vdC50b0JlTnVsbCgpCiAgICAgIGV4cGVjdChyZXNwb25zZS5zdGF0dXMpLnRvQmUoMjAxKQogICAgICBleHBlY3QocmVzcG9uc2UuaGVhZGVyLmxvY2F0aW9uKS50b0JlKGAvZmFjaWxpdGllcy8ke2NyZWF0ZWRGYWNpbGl0eS5faWR9YCkKICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkuX2lkKS50b0VxdWFsKGNyZWF0ZWRGYWNpbGl0eS5pZCkKCiAgICAgIHJldHVybiBjcmVhdGVkRmFjaWxpdHkucmVtb3ZlKCkKICAgIH0pCgogICAgaXQoJ3Nob3VsZCBsaW5rIHRoZSBjcmVhdGVkIGZhY2lsaXR5IHRvIHRoZSBzZWxlY3RlZCBvcmdhbml6YXRpb24nLCBhc3luYyAoKSA9PiB7CiAgICAgIGNvbnN0IG9yZ2FuaXphdGlvbiA9IGZhY2lsaXR5Ll9wYXJlbnQKICAgICAgY29uc3QgY3JlYXRlZEZhY2lsaXR5ID0gYXdhaXQgZmFjdG9yeS5idWlsZCgnRmFjaWxpdHknKQoKICAgICAgYXdhaXQgcmVxdWVzdChhcHApCiAgICAgICAgLnBvc3QoYC9hcGkvb3JnYW5pemF0aW9ucy8ke29yZ2FuaXphdGlvbi5faWR9L2ZhY2lsaXRpZXNgKQogICAgICAgIC5hdXRoKHVzZXIudXNlcm5hbWUsIHBhc3N3b3JkKQogICAgICAgIC5zZW5kKGNyZWF0ZWRGYWNpbGl0eS50b09iamVjdCgpKQoKICAgICAgY29uc3QgZmFjaWxpdHlJZHMgPSAoYXdhaXQgT3JnYW5pemF0aW9uLmZpbmRCeUlkKG9yZ2FuaXphdGlvbi5faWQpKS5mYWNpbGl0aWVzCiAgICAgIGV4cGVjdChmYWNpbGl0eUlkcykudG9Db250YWluKGNyZWF0ZWRGYWNpbGl0eS5pZCkKICAgIH0pCiAgfSkKCiAgZGVzY3JpYmUoJ0dFVCAvYXBpL2ZhY2lsaXRpZXMvOmlkJywgKCkgPT4gewogICAgbGV0IHJlc3BvbnNlCiAgICBiZWZvcmVFYWNoKGFzeW5jICgpID0+IHsKICAgICAgcmVzcG9uc2UgPSBhd2FpdCByZXF1ZXN0KGFwcCkKICAgICAgICAuZ2V0KGAvYXBpL2ZhY2lsaXRpZXMvJHtmYWNpbGl0eS5faWR9YCkKICAgICAgICAuYXV0aCh1c2VyLnVzZXJuYW1lLCBwYXNzd29yZCkKICAgIH0pCgogICAgaXQoJ3Nob3VsZCByZXR1cm4gdGhlIHNwZWNpZmllZCBmYWNpbGl0eScsIGFzeW5jICgpID0+IHsKICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkuX2lkKS50b0VxdWFsKGZhY2lsaXR5LmlkKQogICAgfSkKCiAgICBpdCgnc2hvdWxkIGluY2x1ZGUgdmlydHVhbCBwcm9wZXJ0aWVzIG9uIHRoZSBzY2hlbWEnLCBhc3luYyAoKSA9PiB7CiAgICAgIGV4cGVjdChyZXNwb25zZS5ib2R5LmlkKS50b0VxdWFsKGZhY2lsaXR5LmlkKQogICAgICBleHBlY3QocmVzcG9uc2UuYm9keS5jb29yZGluYXRlcykudG9FcXVhbChmYWNpbGl0eS5jb29yZGluYXRlcykKICAgIH0pCgogICAgaXQoJ3Nob3VsZCBub3QgaW5jbHVkZSBwb3B1bGF0ZWQgaWxsdW1pbmF0b3JzJywgYXN5bmMgKCkgPT4gewogICAgICBjb25zdCBbaWxsdW1pbmF0b3JJZF0gPSByZXNwb25zZS5ib2R5LmlsbHVtaW5hdG9ycwogICAgICBleHBlY3QodHlwZW9mIGlsbHVtaW5hdG9ySWQpLnRvQmUoJ3N0cmluZycpCiAgICB9KQogIH0pCgogIGRlc2NyaWJlKCdQVVQgL2FwaS9mYWNpbGl0aWVzLzppZCcsICgpID0+IHsKICAgIGl0KCdzaG91bGQgdXBkYXRlIGFuZCByZXR1cm4gdGhlIHNwZWNpZmllZCBmYWNpbGl0eScsIGFzeW5jICgpID0+IHsKICAgICAgY29uc3QgdXBkYXRlID0geyBuYW1lOiAndXBkYXRlZCcgfQoKICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCByZXF1ZXN0KGFwcCkKICAgICAgICAucHV0KGAvYXBpL2ZhY2lsaXRpZXMvJHtmYWNpbGl0eS5faWR9YCkKICAgICAgICAuYXV0aCh1c2VyLnVzZXJuYW1lLCBwYXNzd29yZCkKICAgICAgICAuc2VuZCh1cGRhdGUpCgogICAgICBleHBlY3QocmVzcG9uc2Uuc3RhdHVzKS50b0JlKDIwMCkKICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkubmFtZSkudG9FcXVhbCh1cGRhdGUubmFtZSkKICAgIH0pCiAgfSkKCiAgZGVzY3JpYmUoJ0RFTEVURSAvYXBpL2ZhY2lsaXRpZXMvOmlkJywgKCkgPT4gewogICAgaXQoJ3Nob3VsZCBkZWxldGUgYW5kIHJldHVybiB0aGUgc3BlY2lmaWVkIGZhY2lsaXR5JywgYXN5bmMgKCkgPT4gewogICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IHJlcXVlc3QoYXBwKQogICAgICAgIC5kZWxldGUoYC9hcGkvZmFjaWxpdGllcy8ke2ZhY2lsaXR5Ll9pZH1gKQogICAgICAgIC5hdXRoKHVzZXIudXNlcm5hbWUsIHBhc3N3b3JkKQogICAgICBjb25zdCBmb3VuZCA9IGF3YWl0IEZhY2lsaXR5LmZpbmRCeUlkKGZhY2lsaXR5Ll9pZCkKCiAgICAgIGV4cGVjdChmb3VuZCkudG9CZU51bGwoKQogICAgICBleHBlY3QocmVzcG9uc2UuYm9keS5faWQpLnRvRXF1YWwoZmFjaWxpdHkuaWQpCiAgICB9KQoKICAgIGl0KCdzaG91bGQgdW5saW5rIHRoZSBkZWxldGVkIGZhY2lsaXR5IGZyb20gaXRzIG9yZ2FuaXphdGlvbicsIGFzeW5jICgpID0+IHsKICAgICAgY29uc3Qgb3JnYW5pemF0aW9uID0gZmFjaWxpdHkuX3BhcmVudAogICAgICBhd2FpdCByZXF1ZXN0KGFwcCkKICAgICAgICAuZGVsZXRlKGAvYXBpL2ZhY2lsaXRpZXMvJHtmYWNpbGl0eS5faWR9YCkKICAgICAgICAuYXV0aCh1c2VyLnVzZXJuYW1lLCBwYXNzd29yZCkKCiAgICAgIGNvbnN0IGZhY2lsaXR5SWRzID0gKGF3YWl0IE9yZ2FuaXphdGlvbi5maW5kQnlJZChvcmdhbml6YXRpb24uX2lkKSkuZmFjaWxpdGllcwogICAgICBleHBlY3QoZmFjaWxpdHlJZHMpLm5vdC50b0NvbnRhaW4oZmFjaWxpdHkuaWQpCiAgICB9KQogIH0pCgogIGRlc2NyaWJlKCdHRVQgL2FwaS9mYWNpbGl0aWVzJywgKCkgPT4gewogICAgaXQoJ3Nob3VsZCBsaXN0IHRoZSBhdmFsaWFibGUgZmFjaWx0aWVzJywgYXN5bmMgKCkgPT4gewogICAgICBjb25zdCByZXNwb25zZSA9IGF3YWl0IHJlcXVlc3QoYXBwKQogICAgICAgIC5nZXQoJy9hcGkvZmFjaWxpdGllcycpCiAgICAgICAgLmF1dGgodXNlci51c2VybmFtZSwgcGFzc3dvcmQpCiAgICAgIGNvbnN0IGxpc3RlZElkcyA9IHJlc3BvbnNlLmJvZHkKICAgICAgICAubWFwKGZhY2lsaXR5ID0+IGZhY2lsaXR5Ll9pZCkKICAgICAgY29uc3QgY3JlYXRlZElkcyA9IGZhY2lsaXRpZXMKICAgICAgICAubWFwKGZhY2lsaXR5ID0+IGZhY2lsaXR5LmlkKQoKICAgICAgZXhwZWN0KGxpc3RlZElkcykKICAgICAgICAudG9FcXVhbChleHBlY3QuYXJyYXlDb250YWluaW5nKGNyZWF0ZWRJZHMpKQogICAgfSkKCiAgICBpdCgnc2hvdWxkIGZpbHRlciB0aGUgbGlzdCBiYXNlZCBvbiBhIGdpdmVuIGFycmF5IG9mIGlkcycsIGFzeW5jICgpID0+IHsKICAgICAgY29uc3Qgc2VsZWN0ZWRGYWNpbGl0aWVzID0gXy50YWtlKGZhY2lsaXRpZXMubWFwKGZhY2lsaXR5ID0+IGZhY2lsaXR5LmlkKSwgMikKICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCByZXF1ZXN0KGFwcCkKICAgICAgICAuZ2V0KCcvYXBpL2ZhY2lsaXRpZXMnKQogICAgICAgIC5xdWVyeSh7IGlkczogc2VsZWN0ZWRGYWNpbGl0aWVzIH0pCiAgICAgICAgLmF1dGgodXNlci51c2VybmFtZSwgcGFzc3dvcmQpCiAgICAgIGNvbnN0IGxpc3RlZElkcyA9IHJlc3BvbnNlLmJvZHkubWFwKGZhY2lsaXR5ID0+IGZhY2lsaXR5LmlkKQoKICAgICAgZXhwZWN0KGxpc3RlZElkcy5zb3J0KCkpLnRvRXF1YWwoc2VsZWN0ZWRGYWNpbGl0aWVzLnNvcnQoKSkKICAgIH0pCiAgfSkKfSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNsdWIgPSBhd2FpdCAuY3JlYXRlKHJlcS5ib2R5KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuYm9keSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGZvdW5kKS5ub3QudG9CZU51bGwoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGZvdW5kKS5ub3QudG9CZU51bGwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNyZWF0ZSA9PiBhc3luYyAocmVxLCByZXMpID0+IHsKCn0K</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3BvbnNlLmJvZHkpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IHVuaXF1ZU51bWJlcnMgPSBmYWN0b3J5LmNoYW5jZSgKICAndW5pcXVlJywKICBmYWN0b3J5LmNoYW5jZSgnbmF0dXJhbCcsIHttYXg6IDk5OTl9KSwKICBOVU1fQ0xVQlMKKSgpCgpjb25zdCB1bmlxdWVOYW1lcyA9IGZhY3RvcnkuY2hhbmNlKAogICd1bmlxdWUnLAogIGZhY3RvcnkuY2hhbmNlKCduYW1lJyksCiAgTlVNX0NMVUJTCikoKQoK</text>
+      <register name="5" type="4">
+        <text>request(app)
+        .post(`/api/organizations/${organization.id}/clubs`)
+        .auth(user.username, password)
+        .send(club)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IE9yZ2FuaXphdGlvbiBmcm9tICcuLi9tb2RlbHMvb3JnYW5pemF0aW9uJwo=</text>
+        <text encoding="base64">aW1wb3J0IEZhY2lsaXR5IGZyb20gJy4uL21vZGVscy9mYWNpbGl0eScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXdhaXQgT3JnYW5pemF0aW9uLmZpbmQoKSkK</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlciwgY3JlYXRlZElsbHVtaW5hdG9yKQo=</text>
+        <text encoding="base64">aW1wb3J0IE9yZ2FuaXphdGlvbiBmcm9tICcuLi9tb2RlbHMvb3JnYW5pemF0aW9uJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2Uuc3RhdHVzKQo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -743,8 +760,8 @@
         <entry>vsp</entry>
         <entry>clo</entry>
         <entry>&quot;w</entry>
-        <entry>we</entry>
         <entry>wee</entry>
+        <entry>we</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
