@@ -33,10 +33,10 @@
       <file name="/a.dummy" timestamp="1511494780247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" timestamp="1512358826223">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" timestamp="1512362787163">
         <mark key="'" line="2" column="20" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="69" />
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupEditModal.js" timestamp="1512094238023">
@@ -325,6 +325,12 @@
         <mark key="]" line="168" column="47" />
         <mark key="." line="168" column="47" />
         <mark key="^" line="168" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.js" timestamp="1512362966021">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminatorcfg.js" timestamp="1510100001054">
         <mark key="[" line="42" column="0" />
@@ -635,49 +641,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>factory.chance('natural')</text>
+        <text>}</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>factory.chance('natural')</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>attachments</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0dXM6IHt0eXBlOiBTdHJpbmcsIGVudW06IE9iamVjdC5rZXlzKHN0YXR1cyksIHJlcXVpcmVkOiB0cnVlfSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VydmVyRXJyb3IsIE1pc3NpbmdSZXNvdXJjZUVycm9yIH0gZnJvbSAnLi4vaGVscGVycy9lcnJvcnMnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IHVuaXF1ZU51bWJlcnMgPSBmYWN0b3J5LmNoYW5jZSgKICAndW5pcXVlJywKICBmYWN0b3J5LmNoYW5jZSgnbmF0dXJhbCcsIHttYXg6IDk5OTl9KSwKICBOVU1fQ0xVQlMKKSgpCgpjb25zdCB1bmlxdWVOYW1lcyA9IGZhY3RvcnkuY2hhbmNlKAogICd1bmlxdWUnLAogIGZhY3RvcnkuY2hhbmNlKCduYW1lJyksCiAgTlVNX0NMVUJTCikoKQoK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNsdWIgPSBhd2FpdCAuY3JlYXRlKHJlcS5ib2R5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE9yZ2FuaXphdGlvbiBmcm9tICcuLi9tb2RlbHMvb3JnYW5pemF0aW9uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXdhaXQgT3JnYW5pemF0aW9uLmZpbmQoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlciwgY3JlYXRlZElsbHVtaW5hdG9yKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNyZWF0ZSA9PiBhc3luYyAocmVxLCByZXMpID0+IHsKCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2Uuc3RhdHVzKQo=</text>
+        <text encoding="base64">CmNvbnN0IHVuaXF1ZU51bWJlcnMgPSBmYWN0b3J5LmNoYW5jZSgKICAndW5pcXVlJywKICBmYWN0b3J5LmNoYW5jZSgnbmF0dXJhbCcsIHttYXg6IDk5OTl9KSwKICBOVU1fQ0xVQlMKKSgpCgpjb25zdCB1bmlxdWVOYW1lcyA9IGZhY3RvcnkuY2hhbmNlKAogICd1bmlxdWUnLAogIGZhY3RvcnkuY2hhbmNlKCduYW1lJyksCiAgTlVNX0NMVUJTCikoKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBvcHVsYXRlZCkK</text>
+        <text encoding="base64">aW1wb3J0IE9yZ2FuaXphdGlvbiBmcm9tICcuLi9tb2RlbHMvb3JnYW5pemF0aW9uJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImFmdGVyIHJlcXVlc3QiKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXdhaXQgT3JnYW5pemF0aW9uLmZpbmQoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImJlZm9yZSByZXF1ZXN0IikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXNlciwgY3JlYXRlZElsbHVtaW5hdG9yKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImJlZm9yZSByZXF1ZXN0IikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2Uuc3RhdHVzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
