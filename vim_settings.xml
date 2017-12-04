@@ -5,15 +5,6 @@
       <mark key="M" line="351" column="79" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" timestamp="1512091728773">
-        <mark key="s" line="125" column="10" />
-        <mark key="'" line="134" column="25" />
-        <mark key="[" line="140" column="0" />
-        <mark key="m" line="58" column="12" />
-        <mark key="]" line="148" column="13" />
-        <mark key="." line="142" column="34" />
-        <mark key="^" line="142" column="34" />
-      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" timestamp="1512103186827">
         <mark key="'" line="60" column="16" />
         <mark key="[" line="3" column="0" />
@@ -422,6 +413,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/flow-demo/src/index.js" timestamp="1512352006731" />
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/ConfirmDeleteUser.js" timestamp="1512018068754">
         <mark key="'" line="27" column="12" />
         <mark key="[" line="27" column="16" />
