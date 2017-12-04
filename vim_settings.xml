@@ -269,8 +269,13 @@
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" timestamp="1512361730263">
-        <mark key="'" line="75" column="71" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" timestamp="1512364504634">
+        <mark key="'" line="76" column="73" />
+        <mark key="[" line="76" column="74" />
+        <mark key="m" line="76" column="63" />
+        <mark key="]" line="76" column="74" />
+        <mark key="^" line="76" column="74" />
+        <mark key="." line="76" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/db/importer.js" timestamp="1510032390027">
         <mark key="[" line="8" column="0" />
@@ -326,11 +331,11 @@
         <mark key="." line="168" column="47" />
         <mark key="^" line="168" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.js" timestamp="1512362966021">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.js" timestamp="1512364592675">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/illuminatorcfg.js" timestamp="1510100001054">
         <mark key="[" line="42" column="0" />
@@ -538,9 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="17" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" />
-      <jump line="120" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubsManagement.js" />
       <jump line="9" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditModal.js" />
       <jump line="1" column="24" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditModal.js" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubEditModal.js" />
@@ -637,17 +639,20 @@
       <jump line="76" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.illuminator.test.js" />
       <jump line="79" column="35" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.illuminator.test.js" />
       <jump line="75" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.illuminator.test.js" />
-      <jump line="75" column="71" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="75" column="63" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="20" column="41" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
+      <jump line="76" column="73" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>// addToSet should increment __v to prevent race conditions</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>// addToSet should increment __v to prevent race conditions</text>
       </register>
       <register name="/" type="4">
         <text>attachments</text>
