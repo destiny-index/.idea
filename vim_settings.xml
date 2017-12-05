@@ -5,12 +5,12 @@
       <mark key="M" line="351" column="79" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" timestamp="1512452661304">
-        <mark key="'" line="140" column="9" />
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-        <mark key="^" line="145" column="38" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" timestamp="1512515343738">
+        <mark key="'" line="166" column="13" />
+        <mark key="[" line="166" column="25" />
+        <mark key="]" line="166" column="25" />
+        <mark key="." line="166" column="25" />
+        <mark key="^" line="166" column="32" />
       </file>
       <file name="/fragment.js" timestamp="1512451094235">
         <mark key="[" line="0" column="0" />
@@ -468,10 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="41" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
-      <jump line="76" column="73" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/template.test.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
       <jump line="30" column="3" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
       <jump line="13" column="29" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.test.js" />
@@ -568,19 +564,23 @@
       <jump line="22" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupFieldsModal.js" />
       <jump line="113" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupFieldsModal.js" />
       <jump line="28" column="20" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupFieldsModal.js" />
+      <jump line="151" column="67" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
+      <jump line="162" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
+      <jump line="166" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
+      <jump line="84" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/actions.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkdyb3VwQ2hhbmdlXD4=</text>
+        <text>fieldIds</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjbG9zZUZpZWxkOiAoaWQ6IEZpZWxkSWQpID0+IHsKICAgIGRpc3BhdGNoKGNsb3NlRmllbGRBc3luYyhpZCkpCiAgfSwK</text>
@@ -588,8 +588,11 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIERlbGF5Cg==</text>
+      <register name="1" type="4">
+        <text>{
+      ...group,
+      fields: fieldsIds
+    }</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -598,39 +601,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChncm91cC5zdGF0dXMgPT09IHN0YXR1cy5DTE9TRUQpIHsKICAgICAgY29uc3QgYWRkZWRGaWVsZElkcyA9IGlkcy5maWx0ZXIoaWQgPT4gIWdyb3VwLmZpZWxkcy5pbmNsdWRlcyhpZCkpCiAgICAgIHRoaXMuY2xvc2VGaWVsZHMoYWRkZWRGaWVsZElkcykKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWVsZHNCeUlkKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNsb3NlZEZpZWxkcykK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtkYXRhOiB1cGRhdGVkR3JvdXB9ID0gYXdhaXQgYXhpb3MucG9zdChgL2FwaS9ncm91cHMvJHtncm91cElkfS9maWVsZHNgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWRkZWRGaWVsZElkcykK</text>
+        <text encoding="base64">ICAgIC8vIERlbGF5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jbG9zZUZpZWxkcyhhZGRlZEZpZWxkSWRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlkcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkdyb3VwQ2hhbmdlXD4=</last-search>
+      <last-search>fieldIds</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkdyb3VwQ2hhbmdlXD4=</last-pattern>
+      <last-pattern>fieldIds</last-pattern>
       <last-replace>fieldId</last-replace>
       <last-substitute>field\.id</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Id</entry>
         <entry>on</entry>
         <entry>Subhe</entry>
         <entry>filter</entry>
@@ -650,6 +652,7 @@
         <entry>close</entry>
         <entry encoding="base64">XDx1cGRhdGVGaWVsZHNcPg==</entry>
         <entry encoding="base64">XDxvbkdyb3VwQ2hhbmdlXD4=</entry>
+        <entry>fieldIds</entry>
       </history-search>
       <history-cmd>
         <entry>2w</entry>
