@@ -195,7 +195,7 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="20" column="8" />
       </file>
-      <file name="/fragment.js" timestamp="1512441149191">
+      <file name="/fragment.js" timestamp="1512447121175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupEditModal.js" timestamp="1512094238023">
@@ -226,12 +226,12 @@
         <mark key="." line="15" column="41" />
         <mark key="^" line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/group.test.js" timestamp="1512446181659">
-        <mark key="'" line="25" column="12" />
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="42" />
-        <mark key="." line="40" column="42" />
-        <mark key="^" line="40" column="42" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/group.test.js" timestamp="1512447821266">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="55" />
+        <mark key="." line="49" column="55" />
+        <mark key="^" line="49" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" timestamp="1512435985134">
         <mark key="'" line="6" column="14" />
@@ -448,15 +448,15 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/group.js" timestamp="1512446861740">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="29" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/group.js" timestamp="1512447949182">
+        <mark key="'" line="24" column="33" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="3" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreateModal.js" />
       <jump line="49" column="38" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreateModal.js" />
       <jump line="28" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreateModal.js" />
       <jump line="21" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubCreateModal.js" />
@@ -556,16 +556,17 @@
       <jump line="8" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" />
       <jump line="24" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/group.test.js" />
       <jump line="2" column="22" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" />
+      <jump line="24" column="33" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/group.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>[field.id]</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>[field.id]</text>
       </register>
       <register name="/" type="4">
         <text>GroupId</text>
@@ -577,31 +578,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvcHVsYXRlZC5maWVsZHMgPSByZXEuYm9keQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5ib2R5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvcHVsYXRlZC5zYXZlKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2xvc2VkRmllbGRzID0gcG9wdWxhdGVkLmZpZWxkcwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5ib2R5KQoK</text>
+      <register name="3" type="4">
+        <text encoding="base64">bWFwKGZpZWxkID0+ICh7CiAgICAgICAgLi4uZmllbGQsCiAgICAgICAgc3RhdHVzOiBzdGF0dXMuQ0xPU0VECiAgICAgIH0pKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEZpZWxkIGZyb20gJy4uL21vZGVscy9maWVsZCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocG9wdWxhdGVkLmZpZWxkcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpZWxkcy5tYXAoZmllbGQgPT4gKHsKICAgICAgaWQ6IGZpZWxkLmlkLAogICAgICBuYW1lOiBmaWVsZC5uYW1lLAogICAgICBzdGF0dXM6IGZpZWxkLnN0YXR1cwogICAgfSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyb3VwLnN0YXR1cyA9IHN0YXR1cwogICAgYXdhaXQgZ3JvdXAuc2F2ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2xvc2VkRmllbGRzLm1hcChmaWVsZCA9PiBmaWVsZC5zdGF0dXMpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoZXJyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZmllbGRzID0gcG9wdWxhdGVkLmZpZWxkcwo=</text>
+        <text encoding="base64">ICAgICAgcmVzcG9uc2UuYm9keS5mb3JFYWNoKGZpZWxkID0+IHsKICAgICAgICAKICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -644,7 +645,6 @@
         <entry>only</entry>
         <entry>2w</entry>
         <entry encoding="base64">JzwsJz5zLz0vOi9n</entry>
-        <entry>qw</entry>
         <entry>WE</entry>
         <entry>s</entry>
         <entry>ws</entry>
@@ -654,11 +654,12 @@
         <entry>:w</entry>
         <entry>&quot;w</entry>
         <entry>wee</entry>
-        <entry>we</entry>
         <entry>spl</entry>
         <entry>clo</entry>
-        <entry>W</entry>
         <entry>vsp</entry>
+        <entry>qw</entry>
+        <entry>we</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
