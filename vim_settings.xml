@@ -250,6 +250,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/build.gradle" timestamp="1512533784065">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" timestamp="1506668042977">
         <mark key="'" line="55" column="16" />
         <mark key="[" line="52" column="45" />
@@ -339,6 +344,12 @@
         <mark key="]" line="302" column="42" />
         <mark key="." line="302" column="42" />
         <mark key="^" line="302" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" timestamp="1512533762351">
+        <mark key="'" line="419" column="44" />
+        <mark key="[" line="485" column="30" />
+        <mark key="]" line="485" column="31" />
+        <mark key="." line="485" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/fields/actions.js" timestamp="1507165992190">
         <mark key="'" line="61" column="13" />
@@ -468,6 +479,9 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" timestamp="1512533674950">
+        <mark key="'" line="240" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/MSP430Hex.java" timestamp="1505783414449">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="50" column="4" />
@@ -517,6 +531,9 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/TestSuiteGUI.java" timestamp="1512533370744">
+        <mark key="'" line="48" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/RouteNeedLogin.js" timestamp="1507268861576">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="21" column="12" />
@@ -532,13 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/actions.js" />
-      <jump line="14" column="48" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
-      <jump line="15" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
-      <jump line="70" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
-      <jump line="35" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldList.js" />
-      <jump line="38" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldList.js" />
       <jump line="29" column="50" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/components/Facility.js" />
       <jump line="28" column="61" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/components/Facility.js" />
       <jump line="2" column="49" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldList.js" />
@@ -632,6 +642,13 @@
       <jump line="40" column="11" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/util/SSHManager.java" />
       <jump line="134" column="26" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/FirmwareUpgrade.java" />
       <jump line="109" column="27" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" />
+      <jump line="414" column="27" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
+      <jump line="53" column="17" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
+      <jump line="31" column="22" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
+      <jump line="50" column="22" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
+      <jump line="48" column="22" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/TestSuiteGUI.java" />
+      <jump line="240" column="57" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InputOutputTest.java" />
+      <jump line="419" column="44" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
