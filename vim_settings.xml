@@ -365,13 +365,13 @@
         <mark key="." line="28" column="27" />
         <mark key="^" line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" timestamp="1512710208036">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleModal.js" timestamp="1512712321746">
         <mark key="p" line="25" column="0" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="148" column="53" />
-        <mark key="]" line="149" column="19" />
-        <mark key="." line="149" column="19" />
-        <mark key="^" line="149" column="19" />
+        <mark key="[" line="173" column="18" />
+        <mark key="]" line="173" column="24" />
+        <mark key="." line="173" column="24" />
+        <mark key="^" line="173" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubFieldsModal.js" timestamp="1512696885240">
         <mark key="'" line="24" column="0" />
@@ -602,13 +602,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text>color='green'</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>color='green'</text>
       </register>
       <register name="/" type="4">
         <text>Div</text>
@@ -620,31 +620,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZGFpbHkuYXV0b21hdGljT25PZmZ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gY29sb3I9J2dyZWVuJyBvbkNsaWNrPXt0aGlzLm9uU2F2ZUNsaWNrfT4KICAgICAgICAgICAgPEljb24gbmFtZT0nY2hlY2ttYXJrJyAvPlNhdmUKICAgICAgICAgIDwvQnV0dG9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXV0b21hdGljT25PZmY6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZGFpbHkuYXV0b21hdGljT25PZmZ9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEljb24gbmFtZT0ic2lkZWJhciIgLz5NZW51Cg==</text>
+        <text encoding="base64">ICAgICAgYXV0b21hdGljT25PZmY6IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBEaXZpZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEljb24gbmFtZT0ic2lkZWJhciIgLz5NZW51Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7JyAgJ30K</text>
+        <text encoding="base64">ICBEaXZpZGVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7b3BlbiA/ICdPcGVuJyA6ICdPcGVuJ30K</text>
+        <text encoding="base64">ICAgICAgICB7JyAgJ30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB7b3BlbiA/ICdPcGVuJyA6ICdPcGVuJ30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8SWNvbiBuYW1lPSdsb2NrJyAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpY29uPSdsb2NrJwo=</text>
+        <text encoding="base64">ICAgICAgICA8SWNvbiBuYW1lPSdsb2NrJyAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -701,8 +701,8 @@
         <entry>we</entry>
         <entry>clo</entry>
         <entry>spl</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
