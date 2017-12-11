@@ -171,9 +171,9 @@
         <mark key="^" line="61" column="39" />
         <mark key="." line="61" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" timestamp="1512703387279">
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" timestamp="1512949880776">
         <mark key="e" line="238" column="6" />
-        <mark key="'" line="278" column="11" />
+        <mark key="'" line="190" column="42" />
         <mark key="[" line="236" column="60" />
         <mark key="]" line="236" column="60" />
         <mark key="^" line="236" column="91" />
@@ -297,11 +297,6 @@
         <mark key="." line="4" column="39" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.factory.js" timestamp="1512708453035">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="14" column="59" />
-        <mark key="." line="14" column="59" />
-      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" timestamp="1512367151287">
         <mark key="'" line="13" column="21" />
         <mark key="[" line="14" column="0" />
@@ -352,11 +347,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="46" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/actions.js" timestamp="1512527680007">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/FieldCategoryList.js" timestamp="1512705877897">
         <mark key="'" line="39" column="0" />
@@ -525,7 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
       <jump line="78" column="53" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
       <jump line="9" column="60" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
       <jump line="80" column="61" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
@@ -625,6 +614,7 @@
       <jump line="49" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/messager.js" />
       <jump line="73" column="83" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
       <jump line="46" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" />
+      <jump line="190" column="42" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
