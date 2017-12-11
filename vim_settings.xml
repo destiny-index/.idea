@@ -164,6 +164,16 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" timestamp="1512951011251">
+        <mark key="p" line="18" column="14" />
+        <mark key="s" line="11" column="47" />
+        <mark key="'" line="48" column="13" />
+        <mark key="[" line="91" column="15" />
+        <mark key="l" line="91" column="11" />
+        <mark key="]" line="91" column="15" />
+        <mark key="." line="91" column="15" />
+        <mark key="^" line="91" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/UserCreationModal.js" timestamp="1512703818024">
         <mark key="'" line="83" column="2" />
         <mark key="[" line="61" column="36" />
@@ -515,14 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="53" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
-      <jump line="9" column="60" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
-      <jump line="80" column="61" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" />
-      <jump line="120" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupsManagement.js" />
-      <jump line="239" column="32" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
-      <jump line="8" column="37" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/ConfirmDeleteGroup.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/ConfirmDeleteGroup.js" />
-      <jump line="135" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="284" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="281" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="21" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/clubs/containers/ClubFieldsModal.js" />
@@ -615,19 +617,27 @@
       <jump line="73" column="83" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/routes/index.js" />
       <jump line="46" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.js" />
       <jump line="190" column="42" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
+      <jump line="79" column="17" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
+      <jump line="11" column="47" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
+      <jump line="87" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
+      <jump line="86" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
+      <jump line="18" column="19" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
+      <jump line="48" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/LightsModal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzb3VyY2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Div</text>
+        <text>Divider</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPE1lbnUuSXRlbSBvbkNsaWNrPXt0aGlzLnRvZ2dsZVZpc2liaWxpdHl9PgogICAgICAgICAgICAgIDxJY29uIG5hbWU9InNpZGViYXIiIC8+TWVudQogICAgICAgICAgICA8L01lbnUuSXRlbT4K</text>
@@ -636,40 +646,40 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzb3VyY2UpCg==</text>
+        <text encoding="base64">ICAgICAgLm1hcChjbHViID0+IGNsdWIuaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzY2hlZHVsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIGNvbnN0IGNsdWJzID0gZ2V0QWxsQ2x1YnModGhpcy5wcm9wcy5jbHVicykKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICB1aTogWwogICAgICAgIC4uLnRoaXMuc3RhdGUudWksCiAgICAgICAgYXV0b21hdGljT25PZmY6ICF0aGlzLnN0YXRlLnVpLmF1dG9tYXRpY09uT2ZmCiAgICAgIF0KICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNsYXNzIEF1dG9tYXRpY09uT2ZmQ2hhbmdlIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50PHt9PiB7CiAgaGFuZGxlQ2hlY2tib3hUb2dnbGUgPSAoKSA9PiB7CiAgICB0aGlzLgogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxEaXZpZGVyIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgQXV0b21hdGljT25PZmZDaGVja2JveCA9IChwcm9wcykgPT4gewogIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzb3VyY2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24gY29sb3I9J2dyZWVuJyBvbkNsaWNrPXt0aGlzLm9uU2F2ZUNsaWNrfT4KICAgICAgICAgICAgPEljb24gbmFtZT0nY2hlY2ttYXJrJyAvPlNhdmUKICAgICAgICAgIDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzY2hlZHVsZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZGFpbHkuYXV0b21hdGljT25PZmZ9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICB1aTogWwogICAgICAgIC4uLnRoaXMuc3RhdGUudWksCiAgICAgICAgYXV0b21hdGljT25PZmY6ICF0aGlzLnN0YXRlLnVpLmF1dG9tYXRpY09uT2ZmCiAgICAgIF0KICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXV0b21hdGljT25PZmY6IAo=</text>
+        <text encoding="base64">CmNsYXNzIEF1dG9tYXRpY09uT2ZmQ2hhbmdlIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50PHt9PiB7CiAgaGFuZGxlQ2hlY2tib3hUb2dnbGUgPSAoKSA9PiB7CiAgICB0aGlzLgogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEljb24gbmFtZT0ic2lkZWJhciIgLz5NZW51Cg==</text>
+        <text encoding="base64">Y2xhc3MgQXV0b21hdGljT25PZmZDaGVja2JveCA9IChwcm9wcykgPT4gewogIAp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Div</last-search>
+      <last-search>Divider</last-search>
       <last-offset />
-      <last-pattern>Div</last-pattern>
+      <last-pattern>Divider</last-pattern>
       <last-replace>fieldId</last-replace>
       <last-substitute>field\.id</last-substitute>
       <last-dir>1</last-dir>
@@ -694,9 +704,9 @@
         <entry encoding="base64">XDx0YWJsZUhlYWRlclw+</entry>
         <entry encoding="base64">XDx0YWJsZUZvb3Rlclw+</entry>
         <entry encoding="base64">XDxGaWVsZHNNYW5hZ2VtZW50XD4=</entry>
-        <entry>Divider</entry>
         <entry>mapD</entry>
         <entry>Div</entry>
+        <entry>Divider</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -708,7 +718,6 @@
         <entry>wee</entry>
         <entry>WE</entry>
         <entry>EW</entry>
-        <entry>&quot;w</entry>
         <entry>only</entry>
         <entry>ws</entry>
         <entry>es</entry>
@@ -718,6 +727,7 @@
         <entry>clo</entry>
         <entry>spl</entry>
         <entry>W</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
