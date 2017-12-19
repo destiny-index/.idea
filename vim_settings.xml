@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="D" line="238" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
+      <mark key="D" line="246" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <mark key="M" line="351" column="79" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
     </globalmarks>
     <filemarks>
@@ -241,6 +241,7 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" timestamp="1513664469182" />
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/ConfirmFieldWillClose.js" timestamp="1512519423680">
         <mark key="[" line="26" column="38" />
         <mark key="]" line="27" column="29" />
@@ -500,6 +501,12 @@
         <mark key="]" line="21" column="10" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="21" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" timestamp="1513666288417">
+        <mark key="[" line="87" column="4" />
+        <mark key="]" line="87" column="4" />
+        <mark key="." line="87" column="4" />
+        <mark key="^" line="87" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/CreateUserButton.js" timestamp="1513056535654">
         <mark key="'" line="7" column="20" />
@@ -940,13 +947,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">c2hvdWxkIHVwZGF0ZSA=</text>
@@ -958,31 +965,31 @@
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWREYXRhID0ge2E6IDF9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnN0YXRlLnZhbHVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UudGV4dCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlsbHVtaW5hdG9yKQo=</text>
+        <text encoding="base64">ICBnZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWRTZXEgPSAxCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYmVnaW5uaW5nID0gMDsK</text>
+        <text encoding="base64">ICBnZXRTZWFyY2hRdWVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gRXhwcmVzcyBtaWRkbGV3YXJlIHJlcXVpcmVzIDQgcGFyYW1zCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLnZhbHVlLmxlbmd0aCkgewogICAgICByZXR1cm4gdGhpcy5zZXRTdGF0ZSh7IHNlYXJjaFF1ZXJ5OiB9KQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZXJyb3JIYW5kbGVyTWlkZGxld2FyZSAoZXJyLCByZXEsIHJlcywgbmV4dCkgeyAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgbWF4LXBhcmFtcwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWREYXRhID0ge2E6IDF9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UudGV4dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1pbGxpc2Vjb25kc0luU2Vjb25kID0gMTAwMAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlsbHVtaW5hdG9yKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1031,7 +1038,6 @@
         <entry>vsp</entry>
         <entry>:w</entry>
         <entry>clo</entry>
-        <entry>we</entry>
         <entry>;w</entry>
         <entry encoding="base64">JzwsJz5zLzM2L2Jhc2U=</entry>
         <entry encoding="base64">JzwsJz5zLzM2L2Jhc2UvZw==</entry>
@@ -1040,6 +1046,7 @@
         <entry>ws</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
