@@ -553,12 +553,12 @@
         <mark key="." line="27" column="59" />
         <mark key="^" line="27" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" timestamp="1513211784479">
-        <mark key="'" line="152" column="18" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="173" column="71" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" timestamp="1513736222632">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="117" column="27" />
+        <mark key="]" line="117" column="24" />
+        <mark key="." line="117" column="24" />
+        <mark key="^" line="117" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" timestamp="1513210083205">
         <mark key="'" line="148" column="75" />
@@ -843,11 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="32" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
-      <jump line="52" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
-      <jump line="105" column="47" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/crud.facility.test.js" />
-      <jump line="6" column="40" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.test.js" />
       <jump line="48" column="35" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.test.js" />
       <jump line="50" column="48" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.test.js" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/club.test.js" />
@@ -863,7 +858,6 @@
       <jump line="16" column="40" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" />
       <jump line="94" column="28" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" />
       <jump line="158" column="39" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.js" />
-      <jump line="106" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
       <jump line="212" column="37" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
       <jump line="10" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/node_modules/http-status-codes/index.d.ts" />
@@ -943,16 +937,22 @@
       <jump line="27" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/config/socketio.js" />
       <jump line="67" column="64" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/actions.js" />
       <jump line="59" column="4" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
+      <jump line="106" column="27" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
+      <jump line="33" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/models/field.js" />
+      <jump line="33" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/node_modules/supertest/lib/test.js" />
+      <jump line="117" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/node_modules/supertest/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBzdGF0ZSA9IHN0b3JlLmdldFN0YXRlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>await request(app).get('').url</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>).authentication.apiToken)</text>
+        <text>await request(app).get('').url</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -1045,8 +1045,8 @@
         <entry>wq</entry>
         <entry>we</entry>
         <entry>&quot;W</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
