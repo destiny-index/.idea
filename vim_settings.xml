@@ -759,12 +759,12 @@
         <mark key="." line="76" column="41" />
         <mark key="^" line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" timestamp="1515390984427">
-        <mark key="'" line="11" column="13" />
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="57" />
-        <mark key="." line="14" column="57" />
-        <mark key="^" line="14" column="57" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" timestamp="1515452009461">
+        <mark key="'" line="21" column="39" />
+        <mark key="[" line="32" column="73" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="33" column="3" />
+        <mark key="^" line="33" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/userRoles.js" timestamp="1512967059432">
         <mark key="[" line="18" column="20" />
@@ -844,7 +844,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
       <jump line="104" column="24" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
       <jump line="24" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
       <jump line="101" column="42" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
@@ -944,65 +943,66 @@
       <jump line="33" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" />
       <jump line="66" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
       <jump line="8" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" />
+      <jump line="21" column="39" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>User, CurrentPassword, NewPassword</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>User, CurrentPassword, NewPassword</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>UserProfile</text>
+        <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gQGZsb3cKaW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnCmltcG9ydCB7Y29ubmVjdH0gZnJvbSAncmVhY3QtcmVkdXgnCmltcG9ydCB7Q29udGFpbmVyLCBIZWFkZXIsIEZvcm0sIEJ1dHRvbn0gZnJvbSAnc2VtYW50aWMtdWktcmVhY3QnCmltcG9ydCB7IGdldFVzZXIgfSBmcm9tICcuLi9yZWR1Y2VycycKaW1wb3J0IHsgZ2V0Q3VycmVudFVzZXIgfSBmcm9tICcuLi8uLi9hdXRoZW50aWNhdGlvbi9yZWR1Y2VycycKaW1wb3J0IHR5cGUgeyBVc2VyIH0gZnJvbSAnLi4vcmVkdWNlcnMnCgpjbGFzcyBDaGFuZ2VQYXNzd29yZEZvcm0gZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQ8e30+IHsKICByZW5kZXIgKCkgewogICAgcmV0dXJuICgKICAgICAgPEZvcm0+CiAgICAgICAgPEZvcm0uRmllbGQ+CiAgICAgICAgICA8bGFiZWw+Q3VycmVudCBQYXNzd29yZDwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgcGxhY2Vob2xkZXI9J0N1cnJlbnQgUGFzc3dvcmQnIC8+CiAgICAgICAgPC9Gb3JtLkZpZWxkPgogICAgICAgIDxGb3JtLkZpZWxkPgogICAgICAgICAgPGxhYmVsPk5ldyBQYXNzd29yZDwvbGFiZWw+CiAgICAgICAgICA8aW5wdXQgcGxhY2Vob2xkZXI9J05ldyBQYXNzd29yZCcgLz4KICAgICAgICA8L0Zvcm0uRmllbGQ+CiAgICAgICAgPEZvcm0uRmllbGQ+CiAgICAgICAgICA8bGFiZWw+Q29uZmlybSBOZXcgUGFzc3dvcmQ8L2xhYmVsPgogICAgICAgICAgPGlucHV0IHBsYWNlaG9sZGVyPSdDb25maXJtIE5ldyBQYXNzd29yZCcgLz4KICAgICAgICA8L0Zvcm0uRmllbGQ+CiAgICAgICAgPEJ1dHRvbiB0eXBlPSdzdWJtaXQnPlN1Ym1pdDwvQnV0dG9uPgogICAgICA8L0Zvcm0+CiAgICApCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtjdXJyZW50UGFzc3dvcmQsIG5ld1Bhc3N3b3JkLCBjb25maXJtTmV3UGFzc3dvcmR9ID0gdGhpcy5zdGF0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0Q3VycmVudFVzZXIgfSBmcm9tICcuLi8uLi9hdXRoZW50aWNhdGlvbi9yZWR1Y2VycycKaW1wb3J0IHsgZ2V0VXNlciB9IGZyb20gJy4uL3JlZHVjZXJzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBjdXJyZW50VXNlciA9IGdldEN1cnJlbnRVc2VyKHN0YXRlLmF1dGhlbnRpY2F0aW9uKQogIGNvbnN0IHVzZXIgPSBjdXJyZW50VXNlciA/IGdldFVzZXIoc3RhdGUudXNlcnMsIGN1cnJlbnRVc2VyKSA6IG51bGwKCiAgcmV0dXJuIHsgdXNlciB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VyID0gY3VycmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZXI6IGN1cnJlbnRVc2VyID8gZ2V0VXNlcihzdGF0ZS51c2VycywgY3VycmVudFVzZXIpIDogbnVsbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
         <text>{
-  return {
-    
-  }
+  currentPassword: CurrentPassword,
+  newPassword: NewPassword,
+  confirmNewPassword: NewPassword
 }</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ewogIHVzZXI6ID9Vc2VyLAogIG9uU3VibWl0OiAoVXNlciwgQ3VycmVudFBhc3N3b3JkLCBOZXdQYXNzd29yZCkgPT4gdm9pZAp9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZ2V0Q3VycmVudFVzZXIgfSBmcm9tICcuLi8uLi9hdXRoZW50aWNhdGlvbi9yZWR1Y2VycycKaW1wb3J0IHsgZ2V0VXNlciB9IGZyb20gJy4uL3JlZHVjZXJzJwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Lz4K</text>
+        <text encoding="base64">ICBjb25zdCBjdXJyZW50VXNlciA9IGdldEN1cnJlbnRVc2VyKHN0YXRlLmF1dGhlbnRpY2F0aW9uKQogIGNvbnN0IHVzZXIgPSBjdXJyZW50VXNlciA/IGdldFVzZXIoc3RhdGUudXNlcnMsIGN1cnJlbnRVc2VyKSA6IG51bGwKCiAgcmV0dXJuIHsgdXNlciB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ2hhbmdlUGFzc3dvcmRGb3JtIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50PHt9PiB7CiAgcmVuZGVyICgpIHsKICAgIHJldHVybiAoCiAgICAgIDxGb3JtPgogICAgICAgIDxGb3JtLkZpZWxkPgogICAgICAgICAgPGxhYmVsPkN1cnJlbnQgUGFzc3dvcmQ8L2xhYmVsPgogICAgICAgICAgPGlucHV0IHBsYWNlaG9sZGVyPSdDdXJyZW50IFBhc3N3b3JkJyAvPgogICAgICAgIDwvRm9ybS5GaWVsZD4KICAgICAgICA8Rm9ybS5GaWVsZD4KICAgICAgICAgIDxsYWJlbD5OZXcgUGFzc3dvcmQ8L2xhYmVsPgogICAgICAgICAgPGlucHV0IHBsYWNlaG9sZGVyPSdOZXcgUGFzc3dvcmQnIC8+CiAgICAgICAgPC9Gb3JtLkZpZWxkPgogICAgICAgIDxGb3JtLkZpZWxkPgogICAgICAgICAgPGxhYmVsPkNvbmZpcm0gTmV3IFBhc3N3b3JkPC9sYWJlbD4KICAgICAgICAgIDxpbnB1dCBwbGFjZWhvbGRlcj0nQ29uZmlybSBOZXcgUGFzc3dvcmQnIC8+CiAgICAgICAgPC9Gb3JtLkZpZWxkPgogICAgICAgIDxCdXR0b24gdHlwZT0nc3VibWl0Jz5TdWJtaXQ8L0J1dHRvbj4KICAgICAgPC9Gb3JtPgogICAgKQogIH0KfQoK</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyID0gY3VycmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXI6IGN1cnJlbnRVc2VyID8gZ2V0VXNlcihzdGF0ZS51c2VycywgY3VycmVudFVzZXIpIDogbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>UserProfile</last-search>
+      <last-search>value</last-search>
       <last-offset />
-      <last-pattern>UserProfile</last-pattern>
+      <last-pattern>value</last-pattern>
       <last-replace>genericMessage</last-replace>
       <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,7 +1010,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
         <entry encoding="base64">XDxzZW5kV2Vic29ja2V0TWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxzZW5kVXBkYXRlRmllbGRzTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxGaWVsZFw+</entry>
@@ -1030,6 +1029,7 @@
         <entry>render</entry>
         <entry>Form</entry>
         <entry>UserProfile</entry>
+        <entry>value</entry>
       </history-search>
       <history-cmd>
         <entry>vspl</entry>
