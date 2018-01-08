@@ -540,8 +540,8 @@
         <mark key="." line="46" column="76" />
         <mark key="^" line="46" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/config.js" timestamp="1513148283461">
-        <mark key="'" line="46" column="2" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/config.js" timestamp="1515378566867">
+        <mark key="'" line="32" column="10" />
         <mark key="[" line="46" column="33" />
         <mark key="]" line="46" column="46" />
         <mark key="." line="46" column="46" />
@@ -859,9 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
-      <jump line="82" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
-      <jump line="83" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="126" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="198" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="209" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
@@ -959,6 +956,9 @@
       <jump line="38" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupsManagement.js" />
       <jump line="40" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/GroupsManagement.js" />
       <jump line="132" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" />
+      <jump line="31" column="58" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/config.js" />
+      <jump line="3" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/config.js" />
+      <jump line="32" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
