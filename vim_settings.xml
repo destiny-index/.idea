@@ -759,12 +759,11 @@
         <mark key="." line="76" column="41" />
         <mark key="^" line="76" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" timestamp="1515452009461">
-        <mark key="'" line="21" column="39" />
-        <mark key="[" line="32" column="73" />
-        <mark key="]" line="33" column="3" />
-        <mark key="." line="33" column="3" />
-        <mark key="^" line="33" column="3" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" timestamp="1515453613478">
+        <mark key="'" line="66" column="33" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="27" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/userRoles.js" timestamp="1512967059432">
         <mark key="[" line="18" column="20" />
@@ -844,8 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="24" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
-      <jump line="24" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
       <jump line="101" column="42" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
       <jump line="15" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
       <jump line="102" column="39" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/controllers/internal.test.js" />
@@ -944,65 +941,63 @@
       <jump line="66" column="16" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/authentication/reducers.js" />
       <jump line="8" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" />
       <jump line="21" column="39" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" />
+      <jump line="64" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" />
+      <jump line="66" column="33" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/ChangePasswordForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZT0ncGFzc3dvcmQnCg==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>value</text>
+        <text encoding="base64">XDxwYXNzd29yZHNNYXRjaGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtjdXJyZW50UGFzc3dvcmQsIG5ld1Bhc3N3b3JkLCBjb25maXJtTmV3UGFzc3dvcmR9ID0gdGhpcy5zdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZT0ncGFzc3dvcmQnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-  currentPassword: CurrentPassword,
-  newPassword: NewPassword,
-  confirmNewPassword: NewPassword
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ewogIHVzZXI6ID9Vc2VyLAogIG9uU3VibWl0OiAoVXNlciwgQ3VycmVudFBhc3N3b3JkLCBOZXdQYXNzd29yZCkgPT4gdm9pZAp9</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0Q3VycmVudFVzZXIgfSBmcm9tICcuLi8uLi9hdXRoZW50aWNhdGlvbi9yZWR1Y2VycycKaW1wb3J0IHsgZ2V0VXNlciB9IGZyb20gJy4uL3JlZHVjZXJzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVycm9yPXshdGhpcy5wYXNzd29yZHNNYXRjaGluZygpfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBjdXJyZW50VXNlciA9IGdldEN1cnJlbnRVc2VyKHN0YXRlLmF1dGhlbnRpY2F0aW9uKQogIGNvbnN0IHVzZXIgPSBjdXJyZW50VXNlciA/IGdldFVzZXIoc3RhdGUudXNlcnMsIGN1cnJlbnRVc2VyKSA6IG51bGwKCiAgcmV0dXJuIHsgdXNlciB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VyID0gY3VycmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3I9eyF0aGlzLnBhc3N3b3Jkc01hdGNoaW5nKCl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXI6IGN1cnJlbnRVc2VyID8gZ2V0VXNlcihzdGF0ZS51c2VycywgY3VycmVudFVzZXIpIDogbnVsbAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1hdGNoRmFpbCA9IHRoaXMucGFzc3dvcmRzTWF0Y2hpbmcobmV3UGFzc3dvcmQsIGNvbmZpcm1OZXdQYXNzd29yZCkgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>value</last-search>
+      <last-search encoding="base64">XDxwYXNzd29yZHNNYXRjaGluZ1w+</last-search>
       <last-offset />
-      <last-pattern>value</last-pattern>
+      <last-pattern encoding="base64">XDxwYXNzd29yZHNNYXRjaGluZ1w+</last-pattern>
       <last-replace>genericMessage</last-replace>
       <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,8 +1005,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5kV2Vic29ja2V0TWVzc2FnZVw+</entry>
-        <entry encoding="base64">XDxzZW5kVXBkYXRlRmllbGRzTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxGaWVsZFw+</entry>
         <entry>message</entry>
         <entry>console.log</entry>
@@ -1030,6 +1023,8 @@
         <entry>Form</entry>
         <entry>UserProfile</entry>
         <entry>value</entry>
+        <entry>val</entry>
+        <entry encoding="base64">XDxwYXNzd29yZHNNYXRjaGluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>vspl</entry>
