@@ -2,8 +2,8 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="D" line="289" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
-      <mark key="M" line="351" column="79" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" />
+      <mark key="D" line="289" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" protocol="file" />
+      <mark key="M" line="351" column="79" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" protocol="file" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/reducers.js" timestamp="1513041847435">
@@ -231,6 +231,7 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/FirmwareGenerator.java" timestamp="1515385511566" />
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/ConfirmFieldWillClose.js" timestamp="1512519423680">
         <mark key="[" line="26" column="38" />
         <mark key="]" line="27" column="29" />
@@ -462,12 +463,12 @@
         <mark key="^" line="23" column="43" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" timestamp="1513057485086">
-        <mark key="'" line="80" column="14" />
-        <mark key="[" line="84" column="27" />
-        <mark key="]" line="84" column="54" />
-        <mark key="." line="84" column="54" />
-        <mark key="^" line="84" column="54" />
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/menu/containers/MainMenu.js" timestamp="1515386851480">
+        <mark key="'" line="81" column="14" />
+        <mark key="[" line="112" column="55" />
+        <mark key="]" line="112" column="65" />
+        <mark key="." line="112" column="65" />
+        <mark key="^" line="112" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/containers/ConfirmRemoveField.js" timestamp="1512691065451">
         <mark key="'" line="5" column="16" />
@@ -502,9 +503,6 @@
         <mark key="]" line="21" column="10" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="21" column="9" />
-      </file>
-      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" timestamp="1513732417804">
-        <mark key="'" line="240" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/organizations/containers/CreateUserButton.js" timestamp="1513056535654">
         <mark key="'" line="7" column="20" />
@@ -633,6 +631,13 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/UserProfile.js" timestamp="1515387308632">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/reducers.js" timestamp="1513209878057">
         <mark key="'" line="46" column="10" />
@@ -859,10 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="18" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
-      <jump line="198" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
-      <jump line="209" column="25" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
-      <jump line="92" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="169" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="237" column="46" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
       <jump line="192" column="52" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldsManagement.js" />
@@ -959,61 +960,65 @@
       <jump line="31" column="58" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/config.js" />
       <jump line="3" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/config.js" />
       <jump line="32" column="10" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/config/config.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/UserProfile.js" />
+      <jump line="1" column="28" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/UserProfile.js" />
+      <jump line="2" column="8" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/UserProfile.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/users/containers/UserProfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhYmxlZD17aXNNYWludGVuYW5jZUdyb3VwKHRoaXMucHJvcHMuZ3JvdXApfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="l" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPExpc3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBncm91cC5maWVsZHMubWFwKGlkID0+CiAgICAgICAgICAgICAgICA8TGlzdC5JdGVtIGtleT17aWR9PgogICAgICAgICAgICAgICAgICB7Z2V0TmFtZU9mRmFjaWxpdHlDb250YWluaW5nRmllbGQodGhpcy5wcm9wcy5mYWNpbGl0aWVzLCBpZCl9CiAgICAgICAgICAgICAgICAgIC0KICAgICAgICAgICAgICAgICAge2ZpZWxkcy5ieUlkW2lkXS5uYW1lfQogICAgICAgICAgICAgICAgPC9MaXN0Lkl0ZW0+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICAgIDwvTGlzdD4K</text>
       </register>
       <register name="-" type="4">
-        <text>isMaintenanceGroup(group)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>groups</text>
+        <text>Cont</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhYmxlZD17aXNNYWludGVuYW5jZUdyb3VwKHRoaXMucHJvcHMuZ3JvdXApfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8UHJpdmF0ZVJvdXRlIHBhdGg9Ii9yZXBvcnQiIGNvbXBvbmVudD17VXNhZ2VSZXBvcnR9IC8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIFByb2ZpbGUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGlzTWFpbnRlbmFuY2VHcm91cCA9IChzdGF0ZTogR3JvdXApID0+IHsKICByZXR1cm4gc3RhdGUubmFtZS50b0xvd2VyQ2FzZSgpID09PSAnbWFpbnRlbmFuY2UnCn0K</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIoZ3JvdXAgPT4gcHJvcHMuY2xvc2VkID8gIWlzR3JvdXBPcGVuKGdyb3VwKSA6IGdyb3VwKQogICAgLmZpbHRlcihncm91cCA9PiBwcm9wcy5leGNsdWRlICE9PSBncm91cC5pZCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlcnZlci5jbG9zZShkb25lKQo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgbWFwRGlzcGF0Y2hUb1Byb3BzIChkaXNwYXRjaCkgPT4gKHsKICAKfSkKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9uZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>groups</last-search>
+      <last-search>Cont</last-search>
       <last-offset />
-      <last-pattern>groups</last-pattern>
+      <last-pattern>Cont</last-pattern>
       <last-replace>genericMessage</last-replace>
       <last-substitute>message</last-substitute>
       <last-dir>1</last-dir>
@@ -1021,9 +1026,6 @@
     </search>
     <history>
       <history-search>
-        <entry>milli</entry>
-        <entry>1000</entry>
-        <entry>404</entry>
         <entry>408</entry>
         <entry>decrypt</entry>
         <entry>2</entry>
@@ -1041,6 +1043,9 @@
         <entry>console.log</entry>
         <entry>should update</entry>
         <entry>groups</entry>
+        <entry>conn</entry>
+        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
+        <entry>Cont</entry>
       </history-search>
       <history-cmd>
         <entry>vspl</entry>
