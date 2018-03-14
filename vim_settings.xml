@@ -33,11 +33,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" timestamp="1519878987992">
-        <mark key="'" line="23" column="23" />
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="42" />
-        <mark key="." line="23" column="42" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" timestamp="1520986690771">
+        <mark key="'" line="143" column="19" />
+        <mark key="[" line="506" column="72" />
+        <mark key="]" line="506" column="72" />
+        <mark key="." line="506" column="72" />
+        <mark key="^" line="506" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/demo/googleMaps/actions.js" timestamp="1507165002856">
         <mark key="'" line="37" column="14" />
@@ -115,8 +116,12 @@
         <mark key="^" line="13" column="14" />
         <mark key="." line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" timestamp="1519966469018">
-        <mark key="'" line="46" column="44" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" timestamp="1520986829320">
+        <mark key="'" line="423" column="20" />
+        <mark key="[" line="512" column="37" />
+        <mark key="]" line="512" column="38" />
+        <mark key="." line="512" column="38" />
+        <mark key="^" line="512" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/generator/UpdateServerManager.java" timestamp="1511825784587">
         <mark key="'" line="32" column="29" />
@@ -174,6 +179,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/Main.java" timestamp="1520987023941">
+        <mark key="'" line="248" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/groups/reducers.js" timestamp="1507864809921">
         <mark key="'" line="0" column="0" />
@@ -253,7 +261,7 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/build.gradle" timestamp="1512533784065">
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/build.gradle" timestamp="1520987130190">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
@@ -348,8 +356,8 @@
         <mark key="." line="302" column="42" />
         <mark key="^" line="302" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" timestamp="1519969139501">
-        <mark key="'" line="419" column="44" />
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" timestamp="1520984654627">
+        <mark key="'" line="32" column="27" />
         <mark key="[" line="485" column="30" />
         <mark key="]" line="485" column="31" />
         <mark key="." line="485" column="31" />
@@ -374,6 +382,9 @@
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/LogFileDownload.java" timestamp="1520987020951">
+        <mark key="'" line="35" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/NodeProjects/illuminator-central/server/helpers/population.js" timestamp="1507010969512">
         <mark key="'" line="2" column="31" />
@@ -465,7 +476,7 @@
         <mark key="^" line="13" column="79" />
         <mark key="." line="13" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511397633483">
+      <file name="/Dummy.txt" timestamp="1520986680286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/IdeaProjects/mihyspider2_firmware_generator/src/main/java/au/com/halytech/mihyspider/fw/generator/core/devicetype/DeviceTypeCategory.java" timestamp="1505888706452">
@@ -552,25 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="17" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
-      <jump line="52" column="8" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
-      <jump line="211" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" />
-      <jump line="73" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
-      <jump line="30" column="17" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
-      <jump line="86" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldGroups.js" />
-      <jump line="29" column="15" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
-      <jump line="326" column="43" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/reducers.js" />
-      <jump line="29" column="12" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/facilities/reducers.js" />
-      <jump line="15" column="11" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
-      <jump line="4" column="6" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/components/LightsCtrlCard.js" />
-      <jump line="381" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/reducers.js" />
-      <jump line="46" column="23" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
-      <jump line="59" column="9" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
-      <jump line="180" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" />
-      <jump line="133" column="26" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" />
-      <jump line="175" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" />
-      <jump line="181" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" />
-      <jump line="55" column="2" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
       <jump line="199" column="21" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/ScheduleForm.js" />
       <jump line="65" column="13" filename="$USER_HOME$/workspace/NodeProjects/illuminator-central/client/app/fields/containers/FieldOptions.js" />
@@ -652,68 +644,84 @@
       <jump line="296" column="8" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
       <jump line="336" column="8" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
       <jump line="46" column="44" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
+      <jump line="166" column="50" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" />
+      <jump line="32" column="27" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/core/AutomatedTest.java" />
+      <jump line="40" column="48" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
+      <jump line="415" column="37" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
+      <jump line="510" column="53" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" />
+      <jump line="1166" column="16" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
+      <jump line="549" column="28" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" />
+      <jump line="420" column="16" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" />
+      <jump line="506" column="59" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" />
+      <jump line="573" column="22" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
+      <jump line="143" column="19" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/InitialTest.java" />
+      <jump line="1701" column="36" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
+      <jump line="423" column="20" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/util/DeviceCharacteristics.java" />
+      <jump line="128" column="40" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/LogFileDownload.java" />
+      <jump line="121" column="55" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/LogFileDownload.java" />
+      <jump line="16" column="11" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/LogFileDownload.java" />
+      <jump line="24" column="14" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/LogFileDownload.java" />
+      <jump line="35" column="21" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/stage/LogFileDownload.java" />
+      <jump line="248" column="67" filename="$USER_HOME$/workspace/IdeaProjects/mihyspider-final-test/src/main/java/au/com/halytech/mihyspider/finaltest/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpbGVuYW1lLmNvbnRhaW5zKCIuc3dwIikpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text>// eslint-disable-line no-unused-vars</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudGVyVGVzdE91dHB1dF9TdGVwMVw+</text>
+        <text encoding="base64">XDxsb2dGaWxlUGF0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmNvbnN0IEdyb3VwUGFuZWxUaXRsZSA9IChwcm9wczogewogIGdyb3VwOiBHcm91cCwKICBvcGVuR3JvdXA6IEdyb3VwSWQgPT4gdm9pZCwKICBjbG9zZUdyb3VwOiBHcm91cElkID0+IHZvaWQsCiAgZWRpdEdyb3VwOiBHcm91cCA9PiB2b2lkLAp9KSA9PiAoCiAgPHNwYW4+CiAgICA8c3Ryb25nPntwcm9wcy5ncm91cC5uYW1lfTwvc3Ryb25nPgogICAgPEdyb3VwRm9ybQogICAgICB0aXRsZT0iRWRpdCBHcm91cCIgZ3JvdXA9e3Byb3BzLmdyb3VwfQogICAgICB0cmlnZ2VyPXsKICAgICAgICA8SWNvbiBsaW5rIHNpemU9ImxhcmdlIiBuYW1lPSJlZGl0IgogICAgICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0J319CiAgICAgICAgLz4KICAgICAgfQogICAgICBvblN1Ym1pdD17cHJvcHMuZWRpdEdyb3VwfQogICAgLz4KICAgIDxCdXR0b24KICAgICAgbmVnYXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLmNsb3NlR3JvdXAocHJvcHMuZ3JvdXAuaWQpCiAgICAgIH19CiAgICA+CiAgICAgIENsb3NlCiAgICA8L0J1dHRvbj4KICAgIDxCdXR0b24KICAgICAgcG9zaXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLm9wZW5Hcm91cChwcm9wcy5ncm91cC5pZCkKICAgICAgfX0KICAgID4KICAgICAgT3BlbgogICAgPC9CdXR0b24+CiAgPC9zcGFuPgopCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0ZWREZXZpY2VUeXBlcy5wdXQoNDEsICJoeWRyb1NwaWRlcjIgd2l0aCBTSUQtMTIiKTsKICAgICAgICBIYXNoTWFwPEludGVnZXIsIEJvb2xlYW4+IGRldmljZVR5cGU0MVN1cHBvcnRlZE91dHB1dHMgPSBuZXcgSGFzaE1hcDxJbnRlZ2VyLCBCb29sZWFuPigpOwogICAgICAgIGRldmljZVR5cGU0MVN1cHBvcnRlZE91dHB1dHMucHV0KDAsIHRydWUpOwogICAgICAgIHN1cHBvcnRlZERldmljZU91dHB1dE1hcC5wdXQoNDEsIGRldmljZVR5cGU0MVN1cHBvcnRlZE91dHB1dHMpOwogICAgICAgIC8vUHJvdmlkZSBmb2xsb3dpbmcgRGV2aWNlIDQxIFNwZWNpZmljIFNldHVwIGluZm8gZm9yIGNvdW50ZXIgdGVzdAogICAgICAgIGNoYW5uZWxTZXR1cENvbW1hbmRzID0gbmV3IEhhc2hNYXA8SW50ZWdlciwgU3RyaW5nPigpOwogICAgICAgIGNoYW5uZWxTZXR1cENvbW1hbmRzLnB1dCgwLCAiY2hhbjBfdHlwZT1jb3VudGVyIik7CiAgICAgICAgY2hhbm5lbFNldHVwQ29tbWFuZHMucHV0KDEsICJjaGFuMF9kcz1jbnQtMSIpOwogICAgICAgIGNvdW50ZXJUZXN0Y2hhbm5lbFNldHVwQ29tbWFuZHMucHV0KDQxLCBjaGFubmVsU2V0dXBDb21tYW5kcyk7CiAgICAgICAgY291bnRlclRlc3RPdXRwdXRfU3RlcDEucHV0KDQxLCAwKTsKICAgICAgICB0ZXN0Q2hhbm5lbE1hcCA9IG5ldyBIYXNoTWFwPEludGVnZXIsIEJvb2xlYW4+KCk7CiAgICAgICAgdGVzdENoYW5uZWxNYXAucHV0KDAsIHRydWUpOy8vZmFsc2UgbWVhbnMgaW5hY3RpdmUgY2hhbm5lbCBzaG91bGQgTk9UIGluY3JlbWVudCBpbiBzdGFnZSAxCiAgICAgICAgY291bnRlclRlc3RDaGFubmVsc19TdGVwMS5wdXQoNDEsIHRlc3RDaGFubmVsTWFwKTsKICAgICAgICBjb3VudGVyVGVzdE91dHB1dF9TdGVwMi5wdXQoNDEsIDApOwogICAgICAgIGNvdW50ZXJUZXN0RXhwZWN0ZWRTdGVwMUluY3JlbWVudC5wdXQoNDEsIDUuMCk7CiAgICAgICAgY291bnRlclRlc3RFeHBlY3RlZFN0ZXAySW5jcmVtZW50LnB1dCg0MSwgNS4wKTsKICAgICAgICB0ZXN0Q2hhbm5lbE1hcCA9IG5ldyBIYXNoTWFwPEludGVnZXIsIEJvb2xlYW4+KCk7CiAgICAgICAgdGVzdENoYW5uZWxNYXAucHV0KDAsIHRydWUpOwogICAgICAgIGNvdW50ZXJUZXN0Q2hhbm5lbHNfU3RlcDIucHV0KDQxLCB0ZXN0Q2hhbm5lbE1hcCk7CiAgICAgICAgLy9zdGFydGluZyB3aXRoIGZyZXNoIEhhc2hNYXAgc2V0IGZpcnN0IGlucHV0IHRvIGFuYWxvZyB3aXRoIG5vIHdhcm11cAogICAgICAgIGNoYW5uZWxTZXR1cENvbW1hbmRzID0gbmV3IEhhc2hNYXA8SW50ZWdlciwgU3RyaW5nPigpOwogICAgICAgIGNoYW5uZWxTZXR1cENvbW1hbmRzLnB1dCgwLCAiY2hhbjBfdHlwZT1hbmEtdiIpOwogICAgICAgIGNoYW5uZWxTZXR1cENvbW1hbmRzLnB1dCgxLCAiY2hhbjBfZHM9YW5hLTEiKTsKICAgICAgICBjaGFubmVsU2V0dXBDb21tYW5kcy5wdXQoMywgImNoYW4wX3dhcm11cD0tMSIpOwogICAgICAgIGFuYWxvZ1Rlc3RjaGFubmVsU2V0dXBDb21tYW5kcy5wdXQoNDEsIGNoYW5uZWxTZXR1cENvbW1hbmRzKTsKICAgICAgICB0ZXN0Q2hhbm5lbE1hcCA9IG5ldyBIYXNoTWFwPEludGVnZXIsIEJvb2xlYW4+KCk7CiAgICAgICAgdGVzdENoYW5uZWxNYXAucHV0KDAsIHRydWUpOy8vdHJ1ZSBtZWFucyB3ZSB3YW50IHRvIGluY2x1ZGUgY2hhbm5lbCBpbiBhbmFseXNpcwogICAgICAgIGFuYWxvZ1Rlc3RDaGFubmVsc19TdGVwMS5wdXQoNDEsIHRlc3RDaGFubmVsTWFwKTsKICAgICAgICBhbmFsb2dUZXN0T3V0cHV0X1N0ZXAyLnB1dCg0MSwgMCk7CiAgICAgICAgdGVzdENoYW5uZWxNYXAgPSBuZXcgSGFzaE1hcDxJbnRlZ2VyLCBCb29sZWFuPigpOwogICAgICAgIHRlc3RDaGFubmVsTWFwLnB1dCgwLCB0cnVlKTsKICAgICAgICBhbmFsb2dUZXN0Q2hhbm5lbHNfU3RlcDIucHV0KDQxLCB0ZXN0Q2hhbm5lbE1hcCk7CiAgICAgICAgYW5hbG9nVGVzdEV4cGVjdGVkSGlnaFJlYWRpbmcucHV0KDQxLCAyMDUwLjApOwogICAgICAgIGFuYWxvZ1Rlc3RFeHBlY3RlZExvd1JlYWRpbmcucHV0KDQxLCA1MC4wKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpbGVuYW1lLmNvbnRhaW5zKCIuc3dwIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzZWN0aW9ucy5sZW5ndGgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUge1N0YXRlfSBmcm9tICcuLi8uLi9yZWR1Y2VycycK</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPEludGVnZXIsIEJvb2xlYW4+IGRldmljZVR5cGU0MlN1cHBvcnRlZE91dHB1dHMgPSBuZXcgSGFzaE1hcDxJbnRlZ2VyLCBCb29sZWFuPigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPEludGVnZXIsIEJvb2xlYW4+IGRldmljZVR5cGU0MVN1cHBvcnRlZE91dHB1dHMgPSBuZXcgSGFzaE1hcDxJbnRlZ2VyLCBCb29sZWFuPigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBwb3J0ZWREZXZpY2VUeXBlcy5wdXQoNDEsICJoeWRyb1NwaWRlcjIgd2l0aCBTSUQtMTIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgR3JvdXBQYW5lbFRpdGxlID0gKHByb3BzOiB7CiAgZ3JvdXA6IEdyb3VwLAogIG9wZW5Hcm91cDogR3JvdXBJZCA9PiB2b2lkLAogIGNsb3NlR3JvdXA6IEdyb3VwSWQgPT4gdm9pZCwKICBlZGl0R3JvdXA6IEdyb3VwID0+IHZvaWQsCn0pID0+ICgKICA8c3Bhbj4KICAgIDxzdHJvbmc+e3Byb3BzLmdyb3VwLm5hbWV9PC9zdHJvbmc+CiAgICA8R3JvdXBGb3JtCiAgICAgIHRpdGxlPSJFZGl0IEdyb3VwIiBncm91cD17cHJvcHMuZ3JvdXB9CiAgICAgIHRyaWdnZXI9ewogICAgICAgIDxJY29uIGxpbmsgc2l6ZT0ibGFyZ2UiIG5hbWU9ImVkaXQiCiAgICAgICAgICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0J319CiAgICAgICAgLz4KICAgICAgfQogICAgICBvblN1Ym1pdD17cHJvcHMuZWRpdEdyb3VwfQogICAgLz4KICAgIDxCdXR0b24KICAgICAgbmVnYXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLmNsb3NlR3JvdXAocHJvcHMuZ3JvdXAuaWQpCiAgICAgIH19CiAgICA+CiAgICAgIENsb3NlCiAgICA8L0J1dHRvbj4KICAgIDxCdXR0b24KICAgICAgcG9zaXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLm9wZW5Hcm91cChwcm9wcy5ncm91cC5pZCkKICAgICAgfX0KICAgID4KICAgICAgT3BlbgogICAgPC9CdXR0b24+CiAgPC9zcGFuPgopCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpbGVuYW1lLmNvbnRhaW5zKCIuc3dwIikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUge1N0YXRlfSBmcm9tICcuLi8uLi9yZWR1Y2VycycK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnN0IEdyb3VwUGFuZWxUaXRsZSA9IChwcm9wczogewogIGdyb3VwOiBHcm91cCwKICBvcGVuR3JvdXA6IEdyb3VwSWQgPT4gdm9pZCwKICBjbG9zZUdyb3VwOiBHcm91cElkID0+IHZvaWQsCiAgZWRpdEdyb3VwOiBHcm91cCA9PiB2b2lkLAp9KSA9PiAoCiAgPHNwYW4+CiAgICA8c3Ryb25nPntwcm9wcy5ncm91cC5uYW1lfTwvc3Ryb25nPgogICAgPEdyb3VwRm9ybQogICAgICB0aXRsZT0iRWRpdCBHcm91cCIgZ3JvdXA9e3Byb3BzLmdyb3VwfQogICAgICB0cmlnZ2VyPXsKICAgICAgICA8SWNvbiBsaW5rIHNpemU9ImxhcmdlIiBuYW1lPSJlZGl0IgogICAgICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0J319CiAgICAgICAgLz4KICAgICAgfQogICAgICBvblN1Ym1pdD17cHJvcHMuZWRpdEdyb3VwfQogICAgLz4KICAgIDxCdXR0b24KICAgICAgbmVnYXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLmNsb3NlR3JvdXAocHJvcHMuZ3JvdXAuaWQpCiAgICAgIH19CiAgICA+CiAgICAgIENsb3NlCiAgICA8L0J1dHRvbj4KICAgIDxCdXR0b24KICAgICAgcG9zaXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLm9wZW5Hcm91cChwcm9wcy5ncm91cC5pZCkKICAgICAgfX0KICAgID4KICAgICAgT3BlbgogICAgPC9CdXR0b24+CiAgPC9zcGFuPgopCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEdyb3Vwc1BhbmVsVGl0bGU+PC9Hcm91cHNQYW5lbFRpdGxlPgo=</text>
+        <text encoding="base64">Y29uc3QgR3JvdXBQYW5lbFRpdGxlID0gKHByb3BzOiB7CiAgZ3JvdXA6IEdyb3VwLAogIG9wZW5Hcm91cDogR3JvdXBJZCA9PiB2b2lkLAogIGNsb3NlR3JvdXA6IEdyb3VwSWQgPT4gdm9pZCwKICBlZGl0R3JvdXA6IEdyb3VwID0+IHZvaWQsCn0pID0+ICgKICA8c3Bhbj4KICAgIDxzdHJvbmc+e3Byb3BzLmdyb3VwLm5hbWV9PC9zdHJvbmc+CiAgICA8R3JvdXBGb3JtCiAgICAgIHRpdGxlPSJFZGl0IEdyb3VwIiBncm91cD17cHJvcHMuZ3JvdXB9CiAgICAgIHRyaWdnZXI9ewogICAgICAgIDxJY29uIGxpbmsgc2l6ZT0ibGFyZ2UiIG5hbWU9ImVkaXQiCiAgICAgICAgICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0J319CiAgICAgICAgLz4KICAgICAgfQogICAgICBvblN1Ym1pdD17cHJvcHMuZWRpdEdyb3VwfQogICAgLz4KICAgIDxCdXR0b24KICAgICAgbmVnYXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLmNsb3NlR3JvdXAocHJvcHMuZ3JvdXAuaWQpCiAgICAgIH19CiAgICA+CiAgICAgIENsb3NlCiAgICA8L0J1dHRvbj4KICAgIDxCdXR0b24KICAgICAgcG9zaXRpdmUgc2l6ZT0ibWluaSIKICAgICAgc3R5bGU9e3tmbG9hdDogJ3JpZ2h0JywgbWFyZ2luVG9wOiAnLTAuNGVtJ319CiAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKQogICAgICAgIHByb3BzLm9wZW5Hcm91cChwcm9wcy5ncm91cC5pZCkKICAgICAgfX0KICAgID4KICAgICAgT3BlbgogICAgPC9CdXR0b24+CiAgPC9zcGFuPgopCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudGVyVGVzdE91dHB1dF9TdGVwMVw+</last-search>
+      <last-search encoding="base64">XDxsb2dGaWxlUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudGVyVGVzdE91dHB1dF9TdGVwMVw+</last-pattern>
-      <last-replace>schedules</last-replace>
-      <last-substitute>schedule</last-substitute>
+      <last-pattern encoding="base64">XDxsb2dGaWxlUGF0aFw+</last-pattern>
+      <last-replace>42</last-replace>
+      <last-substitute>41</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CLOSED</entry>
-        <entry>OPEN</entry>
-        <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry>clubId</entry>
         <entry>HIGHLI</entry>
         <entry encoding="base64">XDw+XD4=</entry>
@@ -731,9 +739,11 @@
         <entry>bootloader</entry>
         <entry encoding="base64">XDxNSU5fQURDX0hJR0hcPg==</entry>
         <entry encoding="base64">XDxjb3VudGVyVGVzdE91dHB1dF9TdGVwMVw+</entry>
+        <entry>41</entry>
+        <entry encoding="base64">XDxhZGNWYWx1ZUNvdW50XD4=</entry>
+        <entry encoding="base64">XDxsb2dGaWxlUGF0aFw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLydjbG9zZWQnLydDTE9TRUQnLw==</entry>
         <entry>'OPE</entry>
         <entry>/CLOSED</entry>
         <entry>CLOSE</entry>
@@ -750,8 +760,9 @@
         <entry encoding="base64">JzwsJz5zL3NjaGVkdWxlL3NjaGVkdWxlcw==</entry>
         <entry>reg</entry>
         <entry>qw</entry>
-        <entry>W</entry>
         <entry>we</entry>
+        <entry encoding="base64">JzwsJz5zLzQxLzQyL2c=</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
